@@ -1,8 +1,12 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Últimas notas"
+image:
+  feature: logo_horizontal_blanco.jpg
 ---
+
+
 
 <div class="tiles">
 {% for post in site.posts %}
