@@ -12,6 +12,8 @@ En la OfiLibre queremos ayudar a la comunidad universitaria a comprender la cult
 
 La OfiLibre es una iniciativa que trata de contar con la participación de toda la comunidad universitaria para que, entre todos, podamos encontrar nuestro camino en el mundo del conocimiento y la cultura libres.
 
+Puede que te interese ver una breve [Presentación de la Ofilibre](/presentaciones/Ofilibre-presentacion.pdf).
+
 ## Líneas de actuación
 
 ### Publicación abierta
