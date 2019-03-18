@@ -1,7 +1,7 @@
 # GIMP
 Enlace de descarga: http://www.gimp.org.es)
 
-![logotipo](images/logos-herramientas/gimp.png)
+![logotipo](images/logos-herramientas/GIMP.png)
 
 Guía para instalar gimp: 
 
