@@ -11,7 +11,7 @@
 ![paso 2](images/submit-issue/4.png)
 
 
-**Paso 3.**  Pincha en New Issue.
+**Paso 3.**  Pulsa en New Issue.
 
 
 ![paso 3](images/submit-issue/5.png)
@@ -30,12 +30,12 @@
 ![paso 5](images/submit-issue/9.png)
 
 
-**Paso 6.** Después de haber detallado la tarea, pincha en submit issue para publicarlo.
+**Paso 6.** Después de haber detallado la tarea, pulsa en submit issue para publicarlo.
 
 ![paso 6](images/submit-issue/10.png)
 
 
-**Paso 7.** Una vez publicado el issue, puedes realizar su seguimiento. En la sección de comentarios, aparecen las últimas acciones que se han realizado en la tarea. Para cerrar el issue, pincha en “Close issue”.
+**Paso 7.** Una vez publicado el issue, puedes realizar su seguimiento. En la sección de comentarios, aparecen las últimas acciones que se han realizado en la tarea. Para cerrar el issue, pulsa en “Close issue”.
 
 ![paso 7](images/submit-issue/11.png)
 ![paso 7](images/submit-issue/12.png)
