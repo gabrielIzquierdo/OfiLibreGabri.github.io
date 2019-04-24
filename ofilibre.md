@@ -67,16 +67,3 @@ Objetivos principales en este ámbito:
 * Impulsar la creación de un grupo de personas interesadas en el fomento del software libre
 * Explicar las opciones, implicaciones sociales, etc.del uso y la producción de software libre.
 
-## Datos de contacto
-
-Oficina de Conocimiento y Cultura Libres.
-
-Universidad Rey Juan Carlos, Campus de Móstoles.
-
-Despacho 004, planta baja edificio Rectorado.
-
-C/ Tulipán s/n, 28933 Móstoles (Madrid)
-
-Correo electrónico: ofilibre@urjc.es
-
-Tel. 91 488 4679
