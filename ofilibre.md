@@ -1,7 +1,9 @@
 ---
 layout: archive
-permalink: /ofilibre/
-title: "¿Qué es la OfiLibre de la URJC?"
+permalink: /ofilibre
+title: "Presentaciones de la OfiLibre"
+image:
+  feature: logo_horizontal_blanco.jpg
 ---
 
 {% include toc.html %}

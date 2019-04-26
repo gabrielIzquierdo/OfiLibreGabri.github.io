@@ -1,4 +1,10 @@
-# Datos de contacto
+---
+layout: archive
+permalink: /contacto
+title: "Contactar con la OfiLibre"
+image:
+  feature: logo_horizontal_blanco.jpg
+---
 
 Oficina de Conocimiento y Cultura Libres.
 

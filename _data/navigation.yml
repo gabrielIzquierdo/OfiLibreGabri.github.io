@@ -1,10 +1,14 @@
 # Site navigation links
 
 - title: ¿Qué es la OfiLibre?
-  url: /ofilibre/
+  url: /ofilibre
   excerpt: Descripción de la OfiLibre de la URJC
   image:
 
+- title: Guías
+  url: /guias
+  excerpt: Guías de la OfiLibre
+
 - title: Presentaciones
-  url: /presentaciones/
+  url: /presentaciones
   excerpt: Presentaciones realizadas por la OfiLibre

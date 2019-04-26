@@ -1,4 +1,10 @@
-# Presentaciones de la OfiLibre
+---
+layout: archive
+permalink: /presentaciones/index
+title: "Presentaciones de la OfiLibre"
+image:
+  feature: logo_horizontal_blanco.jpg
+---
 
 * [La OfiLibre](Ofilibre-presentacion.pdf):
   Presentación de la OfiLibre.
