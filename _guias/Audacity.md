@@ -3,7 +3,7 @@ Aplicación para la grabación, conversión y edición de audio. Trabaja con for
 
 [MyApps URJC](https://myapps.urjc.es/): Disponible
 
-* ![logotipo](https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png)
+![logotipo](https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png)
 
 * [Enlace a la página oficial](https://www.audacityteam.org/download/)
 
