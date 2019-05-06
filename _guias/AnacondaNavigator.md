@@ -13,12 +13,12 @@ Las diferentes versiones de los paquetes se administran mediante el sistema de a
 
 * Enlace al [código fuente](https://github.com/ContinuumIO/anaconda-issues/issues/750). Este es el repositorio, pero esta cerrado temporalmente.
 
-* Capturas:  ![Imágen](https://docs.anaconda.com/_images/navigator-home-1-6.png) ![Imagen](https://cdn-images-1.medium.com/max/1063/0*2mpiZsLQgaXzP7aY.png)
-
-* Turotiales:
+* Tutoriales:
   * [Instrucciones de instalación](https://medium.com/@pandeysimran97/installing-anaconda-navigator-in-5-simple-steps-for-deep-learning-projects-c7c794f1768d)
   * [Videotutorial](https://www.youtube.com/playlist?list=PLEtcGQaT56chJii3mPdAB3fw4UU6Kr8Y1)
 
 * Enlaces adicionales: Documentación y tutoriales oficiales [Aqui](https://docs.anaconda.com/anaconda/navigator/tutorials/)
+
+* Capturas:  ![Imágen](https://docs.anaconda.com/_images/navigator-home-1-6.png) ![Imagen](https://cdn-images-1.medium.com/max/1063/0*2mpiZsLQgaXzP7aY.png)
 
 * Fecha: 04/04/19
