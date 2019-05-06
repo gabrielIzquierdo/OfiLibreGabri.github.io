@@ -11,12 +11,12 @@ Autopsy es una herramienta para analisis forense que permite la identificación 
 
 * Enlace al [código fuente](https://www.sleuthkit.org/autopsy/download.php)
 
-* Capturas: ![Imágen](https://windows-cdn.softpedia.com/screenshots/Autopsy_1.png)
-
 * [Instrucciones de instalación](https://sleuthkit.org/autopsy/docs/user-docs/4.5.0/installation_page.html)
 
 * Tutoriales:
   * [Videotutorial](https://www.youtube.com/playlist?list=PL0On0b10JahmZvOuQw-OU6Q14OKHSAFrK)
+
+* Capturas: ![Imágen](https://windows-cdn.softpedia.com/screenshots/Autopsy_1.png)
 
 * Fecha: 04/04/19
 * 
