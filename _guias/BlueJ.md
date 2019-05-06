@@ -12,14 +12,14 @@ Los conceptos de la orientación a objetos (clases, objetos, comunicación a tra
 
 * Enlace al [código fuente](https://www.bluej.org/versions.html)
 
-* Capturas: ![Imágen](https://screenshots.macupdate.com/JPG/9667/9667_1506005092_scr.jpg)
-
 * [Instrucciones de instalación](https://www.bluej.org/download/install.html)
 
 * [Documentación oficial](https://www.bluej.org/doc/documentation.html)
 
 * Tutoriales:
   * [Videotutorial](https://www.youtube.com/playlist?list=PLBl4XZI_xsSwnI_YJoCFBOjXjnvfy1PMC)
+
+* Capturas: ![Imágen](https://screenshots.macupdate.com/JPG/9667/9667_1506005092_scr.jpg)
 
 * Enlaces adicionales: https://www.youtube.com/watch?v=Og93g7JHDpE
 
