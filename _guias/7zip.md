@@ -3,6 +3,8 @@
 Este formato usa los métodos de compresión LZMA y PPMD (más adecuado para textos), y puede aplicar un filtro a los ejecutables para aumentar su compresibilidad. 
 Los archivos 7z pueden ser sólidos, donde múltiples archivos de tipo similar se comprimen en un único flujo, con el fin de explotar la redundancia combinado inherente a archivos similares, a diferencia de los ZIP, lo que mejora la compresión de conjuntos de archivos pequeños.
 
+[MyApps URJC](https://myapps.urjc.es/): Disponible
+
 * ![logotipo](https://www.7-zip.org/7ziplogo.png)
 
 * [Sitio web oficial](https://www.7-zip.org/)
