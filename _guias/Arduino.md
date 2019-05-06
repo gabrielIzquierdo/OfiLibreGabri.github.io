@@ -17,8 +17,6 @@ Las placas Arduino pueden conectarse con módulos adicionales denominados shield
 
 * Enlace al [código fuente](https://github.com/arduino/Arduino/)
 
-* Capturas: ![Imágen](https://fotos.subefotos.com/8e0a16343844b875cab69326f2a48664o.jpg) ![Imágen](https://cdn.instructables.com/FJT/T4LE/IHUUBBW2/FJTT4LEIHUUBBW2.LARGE.jpg)
-
 * [Instrucciones de instalación](https://www.arduino.cc/en/Guide/HomePage)
 
 * Podrás encontrar la documentacion oficial, tutoriales, recursos, proyectos acabados y listos para probar y muchas cosas más [aquí](https://www.arduino.cc/en/Tutorial/HomePage)
@@ -27,5 +25,7 @@ Las placas Arduino pueden conectarse con módulos adicionales denominados shield
   * [Videotutorial](https://www.youtube.com/playlist?list=PLG8UtYUFOQj7cgO1wh2wPFF1pobyURI3_)
 
 * Enlaces adicionales: https://www.youtube.com/playlist?list=PLxleHdHvHsueT3g98CmJulpApgiydwRfD , https://www.youtube.com/playlist?list=PLPK2l9Knytg5s2dk8V09thBmNl2g5pRSr
+
+* Capturas: ![Imágen](https://fotos.subefotos.com/8e0a16343844b875cab69326f2a48664o.jpg) ![Imágen](https://cdn.instructables.com/FJT/T4LE/IHUUBBW2/FJTT4LEIHUUBBW2.LARGE.jpg)
 
 * Fecha: 26/03/2019
