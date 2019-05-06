@@ -1,0 +1,94 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
+		{% include breadcrumbs.html %}
+		<div class="page-title">
+			<h1>{{ page.title }}
+				<span class="page-logo">
+					<img alt="Logo for {{page.title}}" src="{{ page.logo }}"></img>
+				</span>
+			</h1>
+		</div>
+		<div class="inner-wrap">
+			<div id="content" class="page-content" itemprop="articleBody">
+
+				<p>{{ page.content }}</p>
+
+				<ul>
+					<li>Licenses:
+
+					{% for license in page.licenses %}
+					 <a href="{{ license.url }}">{{ license.name }}</a>,
+					{% endfor %}
+					</li>
+					<li><a href="{{ page.website }}">Sitio web</a></li>
+					{% if page.website_es %}
+					<li><a href="{{ page.website_es }}">Sitio web (español)</a></li>
+					{% endif %}
+
+					{% for install in page.installs %}
+						<li>Guía de instalación: <a href="{{ install.url }}">{{ install.name }}</a>
+							{% if install.kind %}
+								({{ install.kind }})
+							{% endif %}
+						</li>
+					{% endfor %}
+
+					{% for tutorial in page.tutorials %}
+						<li>Tutorial: <a href="{{ tutorial.url }}">{{ tutorial.name }}</a>
+							{% if tutorial.kind %}
+								({{ tutorial.kind }})
+							{% endif %}
+						</li>
+					{% endfor %}
+
+					<li>Código fuente: {{ page.source }}</li>
+
+					{% for other in page.others %}
+						<li>Enlace adicional: <a href="{{ other.url }}">{{ other.name }}</a>
+							{% if other.kind %}
+								({{ other.kind }})
+							{% endif %}
+						</li>
+					{% endfor %}
+
+					{% if page.myapps %}
+					<li>Disponible en <a href="https://myapps.urjc.es/">MyApps URJC</a></li>
+					{% endif %}
+
+					<li>Última actualización: {{ page.date }}</li>
+
+					<h2>Capturas</h2>
+					{% for shot in page.screenshots %}
+						<img src="../images/fichas/{{ page.slug }}/{{ shot.file }}" alt="{{ shot.name }}" />
+						{% if shot.attribution %}
+							<p>{{ shot.attribution | markdownify }}</p>
+						{% endif %}
+					{% endfor %}
+
+				</ul>
+
+				<hr />
+				<footer class="page-footer">
+					{% if page.categories %}{% include page-author.html %}{% endif %}
+					{% if page.share != false %}{% include share-this.html %}{% endif %}
+					{% include page-meta.html %}
+				</footer><!-- /.footer -->
+				<aside>
+					{% if page.comments == true %}{% include comments.html %}{% endif %}
+				</aside>
+			</div><!-- /.content -->
+		</div><!-- /.inner-wrap -->
+		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+	</article><!-- ./wrap -->
+</div><!-- /#main -->

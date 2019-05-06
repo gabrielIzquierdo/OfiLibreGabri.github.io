@@ -5,6 +5,10 @@
   excerpt: Descripción de la OfiLibre de la URJC
   image:
 
+- title: Fichas
+  url: /fichas
+  excerpt: Fichas de programas y recursos libres
+
 - title: Guías
   url: /guias
   excerpt: Guías de la OfiLibre

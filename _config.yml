@@ -48,12 +48,21 @@ owner:
 #      permalink: /:path/:title
 
 collections:
+  fichas:
+    output: true
+    layout: ficha
+    permalink: /:collection/:name
   guias:
     output: true
     layout: article
     permalink: /:collection/:name
 
 defaults:
+  - scope:
+      path: ""
+      type: "fichas"
+    values:
+      layout: "ficha"
   - scope:
       path: ""
       type: "guias"
