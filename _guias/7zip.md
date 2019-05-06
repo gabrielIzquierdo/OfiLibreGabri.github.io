@@ -13,10 +13,10 @@ Los archivos 7z pueden ser sólidos, donde múltiples archivos de tipo similar s
 
 * Enlace al [código fuente](https://sourceforge.net/projects/sevenzip/files/)
 
-* Algunas capturas de pantalla: ![Imágen](https://sourceforge.net/p/sevenzip/screenshot/534500_4.png)
-
-* [Videotutorial sobre comprimir y descomprimir](https://www.youtube.com/watch?v=YV22NhyyUPc)
-
-* [Videotutorial para comprimir mucho un archivo](https://www.youtube.com/watch?v=rjomYa6K90s)
+* Capturas: ![Imágen](https://sourceforge.net/p/sevenzip/screenshot/534500_4.png)
+ 
+* Tutoriales:
+  * [Videotutorial sobre comprimir y descomprimir](https://www.youtube.com/watch?v=YV22NhyyUPc)
+  * [Videotutorial para comprimir mucho un archivo](https://www.youtube.com/watch?v=rjomYa6K90s)
 
 * Fecha: 26/03/2019
