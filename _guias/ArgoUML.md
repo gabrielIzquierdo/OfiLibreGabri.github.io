@@ -11,12 +11,11 @@ Es una herramienta para la modelizacion de programas mediante diagramas, fundame
 
 * Enlace al [código fuente](http://argouml.tigris.org/source/browse/argouml/trunk/src/)
 
-* Capturas: ![Imágen](https://i.ytimg.com/vi/yx7D_UdZzSc/maxresdefault.jpg)
-
 * [Instrucciones de instalación (en inglés)](http://argouml-stats.tigris.org/documentation/quickguide-0.32/)
 
 * Tutoriales:
   * [Videotutorial](https://www.youtube.com/playlist?list=PL1FOYmrrT6nzl7J54_SnkbwwoFM4RiaaA), y [otro](https://www.youtube.com/playlist?list=PLljyuegIcLU3YnUt2y2IciS7-vF9UzSir)
-
+  
+  * Capturas: ![Imágen](https://i.ytimg.com/vi/yx7D_UdZzSc/maxresdefault.jpg)
 
 * Fecha: 15/03/19
