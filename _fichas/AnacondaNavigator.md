@@ -25,3 +25,6 @@ screenshots:
     file: captura2.png
     attribution: ![Imagen](https://cdn-images-1.medium.com/max/1063/0*2mpiZsLQgaXzP7aY.png)
 date: 2019-04-04
+
+Anaconda es un distribución libre y abierta1​ de los lenguajes Python y R, utilizada en ciencia de datos, y aprendizaje automático (machine learning). Esto incluye procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos. Está orientado a simplificar el despliegue y administración de los paquetes de software.
+Las diferentes versiones de los paquetes se administran mediante el sistema de administración del paquete conda, el cual lo hace bastante sencillo de instalar, correr, y actualizar software de ciencia de datos y aprendizaje automático como ser Scikit-team, TensorFlow y SciPy.
