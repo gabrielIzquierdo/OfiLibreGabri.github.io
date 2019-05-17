@@ -23,10 +23,10 @@ tutorials:
 others:
 
 screenshots:
-  - name: Gimp en funcionamiento (captura)
+  - name: Captura de Processing
     file: captura.png
-      - name: Gimp en funcionamiento (captura)
-    file: captura.png
+      - name: Captura de Processing
+    file: captura2.png
 
 date: 08/04/19
 
