@@ -30,3 +30,7 @@ screenshots:
     file: captura.png
 
 date: 2019-03-14
+
+Es un analizador de protocolos utilizado para realizar análisis y solucionar problemas en redes de comunicaciones, para desarrollo de software y protocolos, y como una herramienta didáctica. 
+* Cuenta con todas las características estándar de un analizador de protocolos de forma únicamente hueca. permite ver todo el tráfico que pasa a través de una red estableciendo la configuración en modo promiscuo.
+* Permite examinar datos o de un archivo de captura salvado en disco. Incluye un completo lenguaje para filtrar lo que queremos ver y la habilidad de mostrar el flujo reconstruido de una sesión de TCP. 
