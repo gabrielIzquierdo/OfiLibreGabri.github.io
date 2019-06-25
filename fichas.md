@@ -8,8 +8,9 @@ image:
 
 Fichas de programas:
 
-{% for ficha in site.fichas %}
-* [{{ ficha.title }}]({{ ficha.url }})
+<div class="tiles">
+{% for post in site.fichas %}
+	{% include post-grid.html %}
 {% endfor %}
-
+</div><!-- /.tiles -->
 

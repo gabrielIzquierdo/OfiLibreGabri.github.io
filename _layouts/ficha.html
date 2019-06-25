@@ -15,7 +15,9 @@ layout: default
 		<div class="page-title">
 			<h1>{{ page.title }}
 				<span class="page-logo">
-					<img alt="Logo for {{page.title}}" src="{{ page.logo }}"></img>
+					<img alt="Logo for {{page.title}}"
+							 src="../images/fichas/{{ page.slug | downcase }}/{{ page.logo }}"
+							 width="15%"></img>
 				</span>
 			</h1>
 		</div>
@@ -70,9 +72,11 @@ layout: default
 
 					<h2>Capturas</h2>
 					{% for shot in page.screenshots %}
-						<img src="../images/fichas/{{ page.slug }}/{{ shot.file }}" alt="{{ shot.name }}" />
+						<img src="../images/fichas/{{ page.slug | downcase }}/{{ shot.file }}" alt="{{ shot.name }}" />
 						{% if shot.attribution %}
 							<p>{{ shot.attribution | markdownify }}</p>
+						{% else %}
+							<p></p>
 						{% endif %}
 					{% endfor %}
 

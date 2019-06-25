@@ -1,6 +1,6 @@
 ---
 title: Gimp
-logo: ../images/fichas/gimp/logo.png
+logo: logo.png
 website: https://gimp.org
 website_es: https://gimp.org.es
 licenses:
