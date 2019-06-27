@@ -1,5 +1,6 @@
+---
 title: Arduino
-logo: ../images/fichas/Arduino/logo.png
+logo: logo.png
 website: https://www.arduino.cc/
 website_es: 
 licenses:
@@ -26,9 +27,8 @@ screenshots:
     file: captura.png
   - name: Panel de herramientas (captura)
     file: captura2.png
-
 date: 2019-03-26
-
+---
 
 Arduino es una forma fácil y económica de que principiantes y profesionales crearan dispositivos que pudieran interactuar con su entorno mediante sensores y actuadores.
 rduino es un hardware libre. Los diseños de referencia de hardware se distribuyen bajo licencia Creative Commons Attribution Share-Alike 2.5 y están disponibles en el sitio web de Arduino. Los esquemáticos y archivos de montaje de componentes (PCBs) para algunas versiones de placas también están disponibles.
