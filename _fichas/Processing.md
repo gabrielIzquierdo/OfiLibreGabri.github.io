@@ -1,5 +1,6 @@
+---
 title: Processing
-logo: ../images/fichas/Processing/logo.png
+logo: logo.png
 website: https://processing.org/
 website_es: 
 licenses:
@@ -21,14 +22,13 @@ tutorials:
     url: https://www.youtube.com/playlist?list=PLTmbJaWpVy4wguyh6t-z87JBKG1I9lISD
     kind: video
 others:
-
 screenshots:
-  - name: Captura de Processing
+    name: Captura de Processing
     file: captura.png
-      - name: Captura de Processing
+    name: Captura de Processing
     file: captura2.png
-
 date: 08/04/19
+---
 
 Processing es un lenguaje de programación y entorno de desarrollo integrado de código abierto basado en Java, de fácil utilización, y que sirve como medio para la enseñanza y producción de proyectos multimedia e interactivos de diseño digital. 
-* Es sencillo de utilizar para aquellos artistas que no tengan experiencia en programacion ya que permite ver los resultados de lo que se programa en tiempo real.
+Es sencillo de utilizar para aquellos artistas que no tengan experiencia en programacion ya que permite ver los resultados de lo que se programa en tiempo real.

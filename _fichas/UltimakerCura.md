@@ -1,5 +1,6 @@
+---
 title: Ultimaker Cura
-logo: ../images/fichas/UltimakerCura/logo.png
+logo: logo.png
 website: https://ultimaker.com/en/products/ultimaker-cura-software
 website_es: 
 licenses:
@@ -31,8 +32,8 @@ screenshots:
     file: captura.png
   - name: Ultimaker Cura
     file: captura.png
-
 date: 2019-03-14
+---
 
 Software utilizado fundamentalmente en la transformación de modelos 3d (obj, stl, x3d...) en un formato valido para impresión 3d (gcode). Este proceso tiene lugar mediante la subdivision del objeto
 * en capas. Tiene la capacidad de adaptarse a los perfiles tecnicos del hardware de cualquier impresora.

@@ -1,5 +1,6 @@
+---
 title: BlueJ
-logo: ../images/fichas/BlueJ/logo.png
+logo: logo.png
 website: https://www.bluej.org/
 website_es: 
 licenses:
@@ -23,7 +24,7 @@ screenshots:
   - name: Gimp en funcionamiento (captura)
     file: captura.png
 date: 2019-04-01
-
+---
 
 BlueJ fue desarrollado para apoyar la enseñanza y el aprendizaje de la programación orientada a objetos, y como resultado, su diseño difiere de otros entornos de desarrollo.2​ La pantalla principal muestra gráficamente la estructura de clases de una aplicación en desarrollo (en un diagrama muy parecido a UML), y los objetos pueden ser creados y probados interactivamente. Combinado con una interfaz de usuario simple, esta facilidad de interacción permite experimentar de manera fácil con los objetos en desarrollo. 
 Los conceptos de la orientación a objetos (clases, objetos, comunicación a través de llamadas a métodos) son representadas visualmente en el diseño de interacción en la interfaz.

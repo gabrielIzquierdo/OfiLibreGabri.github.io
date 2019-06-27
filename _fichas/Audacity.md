@@ -1,5 +1,6 @@
+---
 title: Audacity
-logo: ../images/fichas/Audacity/logo.png
+logo: logo.png
 website: https://www.audacityteam.org/download/
 website_es: 
 licenses:
@@ -21,11 +22,10 @@ tutorials:
     url: https://www.youtube.com/playlist?list=PLjC5_BzYNYwUiQ8Ssj0eHMVJWt-Y9bUUd
     kind: video
 others:
-
 screenshots:
   - name: Audacity en funcionamiento
     file: captura.png
-
 date: 2019-03-14
+---
 
 Aplicación para la grabación, conversión y edición de audio. Trabaja con formatos tipo Ogg Vorbis, MP3, WAV, AIFF, AU , LOF y WMP. En myapps podemos encontrarlo en sus versiones en español y en inglés.

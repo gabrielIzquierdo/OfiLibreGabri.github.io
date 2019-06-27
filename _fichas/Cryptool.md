@@ -1,5 +1,6 @@
+---
 title: Cryptool
-logo: ../images/fichas/Cryptool/logo.png
+logo: logo.png
 website: https://www.cryptool.org/en/
 website_es:
 licenses:
@@ -23,6 +24,7 @@ screenshots:
   - name: Cryptool en funcionamiento (captura)
     file: captura2.png
 date: 2019-04-04
+---
 
 CrypTool es un software libre que ilustra conceptos criptográficos. Es el programa de aprendizaje electrónico de uso más extendido en el mundo en el área de la criptología. Son más de 60 algoritmos que están implementados de forma inextensa, de forma eficiente, un gran número de algoritmos y de herramientas para el análisis. La interfaz gráfica y la abundante información en línea permiten al usuario, incluso a un novato en Internet, introducirse en los misterios de la criptografía. Los mecanismos más clásicos, así como la criptografía asimétrica RSA, la criptografía basada en curvas elípticas, firmas digitales o el protocolo de intercambio de claves Diffie-Hellman, se explican utilizando animaciones. También contiene un tutorial sobre primos y teoría de números elemental. 
 

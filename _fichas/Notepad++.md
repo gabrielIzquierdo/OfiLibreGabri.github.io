@@ -1,5 +1,6 @@
+---
 title: Notepad++
-logo: ../images/fichas/Notepad++/logo.png
+logo: logo.png
 website: https://notepad-plus-plus.org/
 website_es: 
 licenses:
@@ -19,7 +20,7 @@ others:
 screenshots:
   - name: Gimp en funcionamiento (captura)
     file: captura.png
-date: 01/04/19
-
+date: 2019-04-4
+---
 
 Notepad++ es un editor de texto y de código fuente libre con soporte para varios lenguajes de programación. Se parece al Bloc de notas en cuanto al hecho de que puede editar texto sin formato y de forma simple. No obstante, incluye opciones más avanzadas que pueden ser útiles para usuarios avanzados como desarrolladores y programadores. 

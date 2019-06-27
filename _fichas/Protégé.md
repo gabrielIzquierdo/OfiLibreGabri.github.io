@@ -1,11 +1,11 @@
+---
 title: Protégé
-logo: ../images/fichas/Protégé/logo.png
+logo: logo.png
 website: https://protege.stanford.edu/
 website_es:
 licenses:
   - name: BSD
     url: https://es.wikipedia.org/wiki/Licencia_BSD
-
 myapps: true
 source: https://github.com/protegeproject/protege
 installs:
@@ -30,9 +30,8 @@ screenshots:
     file: captura2.png
   - name: Captura de Protégé
     file: captura3.png
-
 date: 2019-03-13
-
+---
 
 Protégé es un editor libre de código abierto y un sistema de adquisición de conocimiento. Al igual que Eclipse, Protégé es un framework para el cual otros proyectos sugieren plugins. La aplicación está escrita en Java y usa fuertemente Swing para crear su compleja interfaz. Protégé recientemente tiene más de 100000 usuarios registrados.
 Protégé está desarrollado por la Universidad de Stanford, en colaboración con la Universidad de Mánchester. 

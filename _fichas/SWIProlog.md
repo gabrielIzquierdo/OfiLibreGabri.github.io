@@ -1,5 +1,6 @@
+---
 title: SWIProlog
-logo: ../images/fichas/SWIProlog/logo.png
+logo: logo.png
 website: http://www.swi-prolog.org/
 website_es:
 licenses:
@@ -24,8 +25,7 @@ others:
 screenshots:
   - name: SWI Prolog
     file: captura.png
-
 date: 2019-04-08
-
+---
 
 SWI-Prolog es una implementación en código abierto del lenguaje de programación Prolog. SWI-Prolog posee un rico conjunto de características, bibliotecas (incluyendo su propia biblioteca para GUI, XPCE), herramientas (incluyendo un IDE) y una documentación extensiva. SWI-Prolog funciona en las plataformas Unix, Windows y Mac.

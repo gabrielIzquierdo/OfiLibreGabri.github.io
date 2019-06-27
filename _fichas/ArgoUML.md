@@ -1,5 +1,6 @@
+---
 title: ArgoUML
-logo: ../images/fichas/ArgoUML/logo.png
+logo: logo.png
 website: http://argouml.tigris.org/
 website_es: 
 licenses:
@@ -18,11 +19,10 @@ tutorials:
     url: https://www.youtube.com/playlist?list=PLljyuegIcLU3YnUt2y2IciS7-vF9UzSir
     kind: video
 others:
-
 screenshots:
   - name: Gimp en funcionamiento (captura)
     file: captura.png
-    
 date: 2019-03-15
+---
 
 Es una herramienta para la modelizacion de programas mediante diagramas, fundamentalmente UML. Tiene implementados los recursos necesarios para realizar casos de uso, diagramas de secuencia, de estados, de actividad, de clases...

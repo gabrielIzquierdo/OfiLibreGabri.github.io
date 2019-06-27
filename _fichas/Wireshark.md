@@ -1,5 +1,6 @@
+---
 title: Wireshark
-logo: ../images/fichas/Wireshark/logo.png
+logo: logo.png
 website: https://www.wireshark.org/
 website_es:
 licenses:
@@ -28,8 +29,8 @@ others:
 screenshots:
   - name: Gimp en funcionamiento (captura)
     file: captura.png
-
 date: 2019-03-14
+---
 
 Es un analizador de protocolos utilizado para realizar análisis y solucionar problemas en redes de comunicaciones, para desarrollo de software y protocolos, y como una herramienta didáctica. 
 * Cuenta con todas las características estándar de un analizador de protocolos de forma únicamente hueca. permite ver todo el tráfico que pasa a través de una red estableciendo la configuración en modo promiscuo.

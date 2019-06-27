@@ -1,5 +1,6 @@
+---
 title: OpenOffice
-logo: ../images/fichas/OpenOffice/logo.png
+logo: logo.png
 website: https://www.openoffice.org/
 website_es: https://www.openoffice.org/es/
 licenses:
@@ -30,7 +31,6 @@ tutorials:
     url: https://www.youtube.com/watch?v=Lq3_XVxc6iM&list=PLu5LXaMUM_E1VgEoqXBsu758fB8FDymts
     kind: video
 others:
-
 screenshots:
   - name: Gimp en funcionamiento (captura)
     file: captura1.png
@@ -44,5 +44,9 @@ screenshots:
     file: captura5.png
   - name: Gimp en funcionamiento (captura)
     file: captura6.png    
-
 date: 04/04/19
+---
+
+Apache OpenOffice es una suite ofimática libre, de código abierto, que incluye procesador de textos, hoja de cálculo, presentaciones, herramientas para el dibujo vectorial y base de datos.7​ Soporta numerosos formatos de archivo, incluyendo como predeterminado el formato estándar ISO/IEC OpenDocument (ODF), entre otros formatos comunes, y se enfoca en mantener compatibilidad con el estándar OpenOffice XML, el formato de Microsoft, así como también soporta más de 110 idiomas, desde febrero del año 2010.6​ Apache OpenOffice es uno de los sucesores del proyecto OpenOffice.org e integra características de otras suites ofimaticas como IBM Lotus Symphony.
+
+La suite ofimática está disponible para varias plataformas, tales como Microsoft Windows, GNU/Linux, BSD, Solaris y Mac OS X, además de diversos ports realizados a otros sistemas operativos. El software es distribuido bajo la licencia Apache.[5] La primera versión lanzada por Apache fue la 3.4.0,8​ el 8 de mayo de 2012. Desde esa primera versión, se han realizado diversas bifurcaciones como por ejemplo LibreOffice (desarrollado por The Document Foundation), o el proyecto Go-OO.9​ 

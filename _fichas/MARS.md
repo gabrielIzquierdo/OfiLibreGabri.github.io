@@ -1,5 +1,6 @@
+---
 title: Mars
-logo: ../images/fichas/Mars/logo.png
+logo: logo.png
 website: http://courses.missouristate.edu/KenVollmar/mars/
 website_es: 
 licenses:
@@ -28,8 +29,7 @@ screenshots:
     file: captura.png
   - name: MARS en funcionamiento (captura)
     file: captura2.png
-
 date: 2019-03-14
-
+---
 
 Entorno de desarrollo interactivo para programar en lenguaje ensamblador para MIPS. Fue creado con propositos didacticos por la Universidad de Missouri.

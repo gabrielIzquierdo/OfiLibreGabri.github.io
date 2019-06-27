@@ -1,5 +1,6 @@
+---
 title: Netbeans
-logo: ../images/fichas/Netbeans/logo.png
+logo: logo.png
 website: https://netbeans.org/
 website_es:
 licenses:
@@ -26,6 +27,7 @@ screenshots:
   - name: Netbeans en funcionamiento (captura)
     file: captura.png
 date: 2019-04-01
+---
 
 NetBeans es un entorno de desarrollo integrado libre, hecho principalmente para el lenguaje de programación Java. Existe además un número importante de módulos para extenderlo.
 NetBeans permite que las aplicaciones sean desarrolladas a partir de un conjunto de componentes de software llamados módulos. Un módulo es un archivo Java que contiene clases de java escritas para interactuar con las APIs de NetBeans y un archivo especial (manifest file) que lo identifica como módulo. Las aplicaciones construidas a partir de módulos pueden ser extendidas agregándole nuevos módulos.

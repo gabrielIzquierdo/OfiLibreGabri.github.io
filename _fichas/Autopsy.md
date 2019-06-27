@@ -1,5 +1,6 @@
+---
 title: Autopsy
-logo: ../images/fichas/Autopsy/logo.png
+logo: logo.png
 website: https://www.sleuthkit.org/
 website_es: 
 licenses:
@@ -15,11 +16,10 @@ tutorials:
     url: https://www.youtube.com/playlist?list=PL0On0b10JahmZvOuQw-OU6Q14OKHSAFrK
     kind: video
 others:
-
 screenshots:
   - name: Gimp en funcionamiento (captura)
     file: captura.png
-
 date: 2019-04-04
+---
 
 Autopsy es una herramienta para analisis forense que permite la identificación y descubrimiento de información relevante en fuentes de datos como imágenes de discos duros, memorias USB, capturas de tráfico de red, o volcados de memoria de computadores.
