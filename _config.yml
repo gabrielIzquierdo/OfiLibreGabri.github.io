@@ -50,12 +50,11 @@ owner:
 collections:
   fichas:
     output: true
-    layout: ficha
     permalink: /:collection/:name
   guias:
     output: true
-    layout: article
     permalink: /:collection/:name
+    logo: "book.png"
 
 defaults:
   - scope:
@@ -67,7 +66,7 @@ defaults:
       path: ""
       type: "guias"
     values:
-      layout: "article"
+      layout: "guia"
 
 include:
   - .htaccess

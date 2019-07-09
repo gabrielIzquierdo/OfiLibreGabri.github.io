@@ -6,6 +6,12 @@ image:
   feature: logo_horizontal_blanco.jpg
 ---
 
-* [Guía sobre GIMP](gimp.html)
-* [Guía sobre uso de issues en GitLab](guia_seguir_issue.md)
-* [Listado de oficinas similares en otras Universidades](otras_oficinas.md)
+{{ title }}
+
+<div class="tiles">
+{% for guia in site.guias %}
+  {% assign guias = site.collections | where: "label", "guias" | first %}
+	{% include guia-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
