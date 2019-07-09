@@ -1,6 +1,6 @@
 <article class="tile" itemscope itemtype="http://schema.org/Article">
-  <a href="{{ site.url }}{{ guia.url }}" title="{{ guia.title }}" class="post-teaser">{% if guia.logo %}<img src="../images/guias/{{ guia_dir }}/{{ guia.logo }}" alt="{{ guia.title }} logo" itemprop="image">
-    {% else %}<img src="../images/guias/{{guias.logo}}" alt="teaser" itemprop="image">{% endif %}</a>
+  <a href="{{ site.url }}{{ guia.url }}" title="{{ guia.title }}" class="post-teaser">{% if guia.logo %}<img src="../images/guias/{{ dir }}/{{ guia.logo }}" alt="{{ guia.title }} logo" itemprop="image">
+    {% else %}<img src="../images/guias/{{coll.logo}}" alt="teaser" itemprop="image">{% endif %}</a>
   <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ guia.url }}">{{ guia.title }}</a></h2>
   <p class="post-excerpt" itemprop="description">{{ guia.excerpt | strip_html | truncate: 160 }}</p>
   {% if guia.date %}<p class="entry-date date published"><time datetime="{{ guia.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ guia.date | date: "%B %d, %Y" }}</time></p>{% endif %}
