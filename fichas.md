@@ -9,8 +9,8 @@ image:
 Fichas de programas:
 
 <div class="tiles">
-{% for post in site.fichas %}
-	{% include post-grid.html %}
+{% for ficha in site.fichas %}
+	{% include ficha-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
