@@ -1,5 +1,6 @@
 ---
 title: Tickets en GitLab
+logo: logo.png
 date: 2019-06-11
 ---
 
