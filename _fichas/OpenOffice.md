@@ -44,7 +44,7 @@ screenshots:
     file: captura5.png
   - name: Gimp en funcionamiento (captura)
     file: captura6.png    
-date: 04/04/19
+date: 19/04/19
 ---
 
 Apache OpenOffice es una suite ofimática libre, de código abierto, que incluye procesador de textos, hoja de cálculo, presentaciones, herramientas para el dibujo vectorial y base de datos.7​ Soporta numerosos formatos de archivo, incluyendo como predeterminado el formato estándar ISO/IEC OpenDocument (ODF), entre otros formatos comunes, y se enfoca en mantener compatibilidad con el estándar OpenOffice XML, el formato de Microsoft, así como también soporta más de 110 idiomas, desde febrero del año 2010.6​ Apache OpenOffice es uno de los sucesores del proyecto OpenOffice.org e integra características de otras suites ofimaticas como IBM Lotus Symphony.
