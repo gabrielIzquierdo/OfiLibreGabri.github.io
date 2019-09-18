@@ -1,5 +1,5 @@
 ---
-title: Ultimaker Cura
+title: UltimakerCura
 logo: logo.png
 website: https://ultimaker.com/en/products/ultimaker-cura-software
 website_es: 
@@ -13,7 +13,7 @@ installs:
     url: https://ultimaker.com/download/73560/180104-Ultimaker-CuraConnect-Manuals-%28EN%29_ES-v1.1.pdf
     kind: pdf
 tutorials:
-  - name: Tutorials de Cura
+  - name: Tutoriales de Cura
     url: https://of3lia.com/ultimaker-cura/
   - name: Tutorial completo sobre Ultimaker Cura
     url: https://www.youtube.com/watch?v=rWkzor3ZYTA&list=PLFLCAmAG0-qj6uOzdyit3h6_V5seCam6n
@@ -35,5 +35,4 @@ screenshots:
 date: 2019-03-14
 ---
 
-Software utilizado fundamentalmente en la transformación de modelos 3d (obj, stl, x3d...) en un formato valido para impresión 3d (gcode). Este proceso tiene lugar mediante la subdivision del objeto
-* en capas. Tiene la capacidad de adaptarse a los perfiles tecnicos del hardware de cualquier impresora.
+Software utilizado fundamentalmente en la transformación de modelos 3d (obj, stl, x3d...) en un formato valido para impresión 3d (gcode). Este proceso tiene lugar mediante la subdivision del objeto en capas. Tiene la capacidad de adaptarse a los perfiles tecnicos del hardware de cualquier impresora.
