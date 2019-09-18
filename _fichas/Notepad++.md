@@ -1,5 +1,5 @@
 ---
-title: Notepad++
+title: Notepad
 logo: logo.png
 website: https://notepad-plus-plus.org/
 website_es: 
