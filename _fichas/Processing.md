@@ -27,7 +27,7 @@ screenshots:
     file: captura.png
     name: Captura de Processing
     file: captura2.png
-date: 08/04/19
+date: 19/04/08
 ---
 
 Processing es un lenguaje de programación y entorno de desarrollo integrado de código abierto basado en Java, de fácil utilización, y que sirve como medio para la enseñanza y producción de proyectos multimedia e interactivos de diseño digital. 
