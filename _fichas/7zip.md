@@ -1,5 +1,5 @@
 ---
-title: 7-zip
+title: 7zip
 logo: logo.png
 website: https://www.7-zip.org/
 website_es: 
@@ -29,4 +29,4 @@ screenshots:
 date: 2019-03-13
 ---
 
-Datos sobre 7-zip
+7-Zip es un archivador de ficheros libre desarrollado por Igor Pavlov. Por defecto utiliza el formato de archivo 7z, también libre, (con extensión .7z). Este formato usa los métodos de compresión LZMA y PPMD (más adecuado para textos), desarrollados por su autor, y puede aplicar un filtro a los ejecutables para aumentar su compresibilidad. Los archivos 7z pueden ser sólidos, donde múltiples archivos de tipo similar se comprimen en un único flujo, con el fin de explotar la redundancia combinado inherente a archivos similares, a diferencia de los ZIP, lo que mejora la compresión de conjuntos de archivos pequeños.
