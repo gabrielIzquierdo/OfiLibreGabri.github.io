@@ -6,7 +6,6 @@ image:
   feature: logo_horizontal_blanco.jpg
 ---
 
-Fichas de programas:
 
 <div class="tiles">
 {% for ficha in site.fichas %}
