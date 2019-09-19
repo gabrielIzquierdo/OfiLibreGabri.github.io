@@ -33,7 +33,11 @@ screenshots:
   - name: inkscape en funcionamiento (captura)
     file: captura.png
   - name: inkscape en funcionamiento (captura)
-    file: captura.png
+    file: captura2.png
+  - name: inkscape en funcionamiento (captura)
+    file: captura3.png
+  - name: inkscape en funcionamiento (captura)
+    file: captura4.png
 date: 2019-03-26
 ---
 
