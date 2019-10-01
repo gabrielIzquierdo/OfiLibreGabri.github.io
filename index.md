@@ -2,6 +2,9 @@
 layout: index
 permalink: /
 title: "OfiLibre URJC"
+image:
+  feature: logo-ofilibre-blanco.jpg
+  thumb: logo-ofilibre.png
 ---
 
 

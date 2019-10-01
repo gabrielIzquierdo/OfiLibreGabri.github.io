@@ -7,8 +7,8 @@ excerpt: La OfiLibre, por fin, publica su página web, donde podrás encontrar g
 tags: []
 image:
   feature: /blog/anuncio-web/logo-ofilibre-blanco.jpg
-  teaser: /blog/anuncio-web/logo-ofilibre-blanco.jpg
-  thumb: /blog/anuncio-web/logo-ofilibre-blanco.jpg
+  teaser: /blog/anuncio-web/logo-ofilibre.png
+  thumb: /blog/anuncio-web/logo-ofilibre.png
 ---
 
 
