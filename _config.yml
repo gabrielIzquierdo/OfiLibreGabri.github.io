@@ -2,7 +2,7 @@
 
 title: "OfiLibre URJC"
 description: "Oficina de Conocimiento y Cultura Libres. Universidad Rey Juan Carlos."
-logo: /images/Logo_Cards.png # 120x120 px default image used for Twitter summary card
+logo: /images/logo-ofilibre.png # 120x120 px default image used for Twitter summary card
 teaser: /images/Logotipo_Grande.png # 400x250 px default teaser image used in image archive grid
 locale: es
 url: https://ofilibre.gitlab.io
