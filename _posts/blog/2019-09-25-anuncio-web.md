@@ -3,12 +3,12 @@ layout: article
 title: ¡Ya tenemos web!
 modified:
 categories: blog
-excerpt: La OfiLibre anuncia su página web
+excerpt: La OfiLibre, por fin, publica su página web, donde podrás encontrar gran cantidad de resursos libres.
 tags: []
 image:
-  feature: /blog/anuncio-web/logo-ofilibre.png
-  teaser: /blog/anuncio-web/logo-ofilibre.png
-  thumb: /blog/anuncio-web/logo-ofilibre.png
+  feature: /blog/anuncio-web/logo-ofilibre-blanco.jpg
+  teaser: /blog/anuncio-web/logo-ofilibre-blanco.jpg
+  thumb: /blog/anuncio-web/logo-ofilibre-blanco.jpg
 ---
 
 
