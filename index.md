@@ -12,6 +12,13 @@ image:
 
 <div class="tiles">
 
+<!-- ¿Qué es la Ofilibre? -->
+<article class="tile" itemscope itemtype="http://schema.org/Article">
+  <a href="{{ site.url }}/ofilibre" title="La OfiLibre" class="post-teaser"><img src="{{ site.url }}/images/logo-ofilibre.png" alt="teaser" itemprop="image"></a>
+  <h2 class="post-title" itemprop="name"><a href="{{ site.url }}/ofilibre">La OfiLibre</a></h2>
+  <p class="post-excerpt" itemprop="description">La Oficina de Conocimiento y Cultura Libres (OfiLibre) tiene la función de informar, promocionar, coordinar y facilitar en sus ámbitos de actuación, y en colaboración con todos los agentes de la Universidad...</p>
+</article><!-- /.tile -->
+
 <!-- Video de la Ofilibre -->
 <article class="tile" itemscope itemtype="http://schema.org/Article">
 <iframe src='https://tv.urjc.es/iframe/5d022dedd68b14cb308b6ae5' id='pumukitiframe' frameborder='0' border='0' width='100%' height='170px' allowfullscreen></iframe>
@@ -34,6 +41,20 @@ image:
 
 <br style="clear: both;">
 
+
+## [Fichas](fichas)
+
+<div class="tiles">
+{% assign fichas = site.fichas | sample: 12 %}
+{% for ficha in fichas %}
+  {% assign coll = site.collections | where: "label", "fichas" | first %}
+  {% assign dir = ficha.url | split: "/" | last | replace: '.html', '' %}
+	{% include ficha-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+<br style="clear: both;">
+
 ## [Guías de la OfiLibre](guias)
 
 <div class="tiles">
@@ -47,14 +68,3 @@ image:
 </div><!-- /.tiles -->
 
 <br style="clear: both;">
-
-## [Fichas](fichas)
-
-<div class="tiles">
-{% assign fichas = site.fichas | sample: 10 %}
-{% for ficha in fichas %}
-  {% assign coll = site.collections | where: "label", "fichas" | first %}
-  {% assign dir = ficha.url | split: "/" | last | replace: '.html', '' %}
-	{% include ficha-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
