@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title:
+title: ""
 image:
   feature: logo_horizontal_blanco.jpg
 ---

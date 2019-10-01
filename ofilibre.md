@@ -1,13 +1,18 @@
 ---
 layout: archive
 permalink: /ofilibre
-title: "Presentaciones de la OfiLibre"
+title: "Presentación de la OfiLibre"
 image:
   feature: logo_horizontal_blanco.jpg
 ---
 
 {% include toc.html %}
 
+# Video-presentación
+
+<iframe src='https://tv.urjc.es/iframe/5d022dedd68b14cb308b6ae5' id='pumukitiframe' frameborder='0' border='0' width='100%' height='250px' allowfullscreen></iframe>
+
+# Descripción
 La Oficina de Conocimiento y Cultura Libres (OfiLibre) tiene la función de informar, promocionar, coordinar y facilitar en sus ámbitos de actuación, y en colaboración con todos los agentes de la Universidad.
 
 En la OfiLibre queremos ayudar a la comunidad universitaria a comprender la cultura libre, la publicación libre, los datos abiertos y el software libre. Para ello nos dedicamos a explicar qué son, cómo funcionan, qué características tienen, y qué beneficios pueden producir, de forma que cualquiera pueda decidir cómo le conviene relacionarse con ellos.
@@ -16,9 +21,9 @@ La OfiLibre es una iniciativa que trata de contar con la participación de toda 
 
 Puede que te interese ver una breve [Presentación de la Ofilibre](/presentaciones/Ofilibre-presentacion.pdf).
 
-## Líneas de actuación
+# Líneas de actuación
 
-### Publicación abierta
+## Publicación abierta
 
 Entendemos la publicación abierta (open access) tal y como se define en la Declaración de Berlín,y como tal la explicamos a la comunidad universitaria,como pilar fundamental de la divulgación de los resultados de la investigación. Además, creemos que la misma idea puede extenderse también a muchos materiales de apoyo de aprendizaje y, en general, en muchos casos,a los documentos, audios, videos, multimedia, etc.producidos como parte de las actividades docentes, investigadoras o de gestión realizadas en la Universidad.
 
@@ -30,7 +35,7 @@ Los objetivos principales de esta línea son:
 * Crear un grupo de interés interesado en promover el conocimiento libre y la publicación abierta en la Universidad.
 * Fomentar el conocimiento de las opciones de publicación abierta y conocimiento libre en la Universidad, y en la sociedad en que está inscrita.
 
-### Cultura libre
+## Cultura libre
 
 Cultura libre es aquella en la que el autor nos ha dado permiso de copia,modificación y redistribución, según la definición más aceptada de obras culturales libres.
 
@@ -42,7 +47,7 @@ Las líneas principales de actuación en este ámbito son:
 * Fomentar la producción de obras culturales libres por parte de la comunidad universitaria.
 * Fomento de la creación de un grupo de creadores interesados en la producción de obras culturales libres.
 
-### Datos abiertos
+## Datos abiertos
 
 Los datos abiertos son aquellos que se publican de forma que puedan ser reutlizados por terceros de la forma más fácil y práctica posible. La Open Knowledge Foundation proporciona una definición más detallada en su Open Data Handbook.
 
@@ -55,7 +60,7 @@ Los principales objetivos que nos planteamos en este ámbito son:
 * Apoyar las iniciativas existentes y promover nuevas relacionadas con la publicación de datos abiertos.
 * Fomentar de la creación de un grupo de personas de la comunidad universitaria interesadas en los datos abiertos.
 
-### Software libre
+## Software libre
 
 El software es libre cuando sus autores nos han dado permiso de copia,modificación y redistribución. Hay dos definiciones clásicas,que detallan las condiciones que ha de cumplir un programa paraser considerado software libre: Free Software Definition y Open Source Definition.
 
