@@ -2,8 +2,6 @@
 layout: index
 permalink: /
 title: "OfiLibre URJC"
-image:
-  feature: logo_horizontal_blanco.jpg
 ---
 
 
