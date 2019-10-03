@@ -7,7 +7,7 @@ teaser: Logotipo_Grande.png # 400x250 px default teaser image used in image arch
 locale: es
 #url: https://ofilibre.gitlab.io
 #url: http://localhost:4000
-url: /
+url: ""
 feed:
   path: atom.xml
 
@@ -56,8 +56,17 @@ collections:
     output: true
     permalink: /:collection/:name
     logo: "book.png"
+  pres:
+    output: true
+    permalink: /:collection/:name
+    logo: "book.png"
 
 defaults:
+  - scope:
+      path: ""
+      type: "guias"
+    values:
+      layout: "guia"
   - scope:
       path: ""
       type: "fichas"
@@ -65,9 +74,9 @@ defaults:
       layout: "ficha"
   - scope:
       path: ""
-      type: "guias"
+      type: "pres"
     values:
-      layout: "guia"
+      layout: "pres"
 
 include:
   - .htaccess

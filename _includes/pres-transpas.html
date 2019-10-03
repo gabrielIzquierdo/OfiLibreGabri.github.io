@@ -1,0 +1,7 @@
+<p>La presentación está disponible en los siguientes formatos:</p>
+<ul>
+{% for file in page.transpas %}
+  <li><a href="{{ site.url }}/transpas/{{ dir }}/{{ file.file }}">Presentación formato {{ file.format }}</li>
+{% endfor %}
+</ul>
+

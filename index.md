@@ -42,6 +42,18 @@ image:
 <br style="clear: both;">
 
 
+## [Presentaciones](pres)
+
+<div class="tiles">
+{% for pres in site.pres %}
+  {% assign coll = site.collections | where: "label", "pres" | first %}
+  {% assign dir = pres.url | split: "/" | last | replace: '.html', '' %}
+	{% include pres-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+<br style="clear: both;">
+
 ## [Fichas](fichas)
 
 <div class="tiles">

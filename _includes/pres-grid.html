@@ -1,0 +1,9 @@
+<article class="tile" itemscope itemtype="http://schema.org/Article">
+  <a href="{{ site.url }}{{ pres.url }}" title="{{ pres.title }}" class="post-teaser">{% if pres.image.teaser %}<img src="{{ site.url }}/transpas/{{ dir }}/{{ pres.image.teaser }}" alt="{{ pres.title }} logo" itemprop="image">
+    {% else %}<img src="{{ site.url }}/transpas/{{coll.logo}}" alt="teaser" itemprop="image">{% endif %}</a>
+  <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ pres.url }}">{{ pres.title }}</a></h2>
+  <p class="post-excerpt" itemprop="description">{{ pres.excerpt | strip_html | truncate: 160 }}</p>
+  {% if pres.date %}
+    <p class="entry-date date published"><time datetime="{{ pres.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ pres.date | date: "%B %d, %Y" }}</time></p>
+  {% endif %}
+</article><!-- /.tile -->

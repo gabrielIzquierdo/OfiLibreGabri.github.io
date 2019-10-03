@@ -9,6 +9,10 @@
   url: /blog
   excerpt: Noticias de la Ofilibre
 
+- title: Presentaciones
+  url: /pres
+  excerpt: Presentaciones realizadas por la OfiLibre
+
 - title: Fichas
   url: /fichas
   excerpt: Fichas de programas y recursos libres
@@ -16,7 +20,3 @@
 - title: Guías
   url: /guias
   excerpt: Guías de la OfiLibre
-
-- title: Presentaciones
-  url: /presentaciones
-  excerpt: Presentaciones realizadas por la OfiLibre

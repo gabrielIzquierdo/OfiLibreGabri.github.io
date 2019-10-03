@@ -3,7 +3,7 @@ layout: archive
 permalink: /guias/
 title: "Guías de la OfiLibre"
 image:
-  feature: logo_horizontal_blanco.jpg
+  feature: logo-ofilibre-blanco.jpg
 ---
 
 {{ title }}

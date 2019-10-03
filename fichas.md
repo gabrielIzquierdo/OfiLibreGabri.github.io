@@ -3,7 +3,7 @@ layout: archive
 permalink: /fichas/
 title: "Fichas de programas y de recursos"
 image:
-  feature: logo_horizontal_blanco.jpg
+  feature: logo-ofilibre-blanco.jpg
 ---
 
 
