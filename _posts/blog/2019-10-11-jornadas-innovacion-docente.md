@@ -19,6 +19,6 @@ El 25 de noviembre habrá un taller de cuatro horas (de 15:30 a 19:30) con el qu
 
 El 28 de noviembre estaremos en la mesa redonda de "Experiencias de innovación docente con Plataformas Virtuales Institucionales", en la que debatiremos sobre la docencia y la publicación abierta con profesores que ya publican sus materiales en abierto.
 
-**[Más información e inscripciones](https://eventos.urjc.es/39623/detail/i-semana-de-la-innovacion-docente-urjc.html)**
-
 **¡Estad atentos a nuestro blog si queréis manteros informados sobre estas jornadas!¡Contamos con vosotros!**
+
+**[Más información e inscripciones](https://eventos.urjc.es/39623/detail/i-semana-de-la-innovacion-docente-urjc.html)**
