@@ -15,7 +15,7 @@ Las VI Jornadas de Innovación Docente URJC online son un espacio de análisis, 
 
 La temática de este año estará dedicada a las Plataformas de Enseñanza en la Educación Superior, con el objetivo de ofrecer un panorama sobre su aplicación en el ámbito académico universitario, tratando de analizar el impacto que su implantación, evolución y formas de uso han producido en el día a día de los procesos de enseñanza y aprendizaje.
 
-El 25 de noviembre habrá un taller de cuatro horas (15:30 a 19:30) con el que pretendemos proporcionar una introducción a la publicación abierta, desde un punto de vista lo más práctico posible. Aunque gran parte del contenido estará enfocado en la publicación de resultados de investigación, también se abordará la publicación de materiales docentes.
+El 25 de noviembre habrá un taller de cuatro horas (de 15:30 a 19:30) con el que pretendemos proporcionar una introducción a la publicación abierta, desde un punto de vista lo más práctico posible. Aunque gran parte del contenido estará enfocado en la publicación de resultados de investigación, también se abordará la publicación de materiales docentes.
 
 El 28 de noviembre estaremos en la mesa redonda de "Experiencias de innovación docente con Plataformas Virtuales Institucionales", en la que debatiremos sobre la docencia y la publicación abierta con profesores que ya publican sus materiales en abierto.
 
