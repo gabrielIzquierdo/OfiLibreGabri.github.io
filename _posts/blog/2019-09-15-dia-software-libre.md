@@ -6,7 +6,7 @@ categories: blog
 excerpt: Serie de charlas informativas sobre distintos tipos de software y alternativas con motivo del Día del Software Libre
 tags: []
 image:
-  feature: /blog/software-freedom/sfd.png
+  feature: /blog/anuncio-web/logo-ofilibre-blanco.jpg
   teaser: /blog/software-freedom/sfd.png
   thumb: /blog/software-freedom/sfd.png
 ---
