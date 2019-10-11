@@ -3,7 +3,7 @@ layout: article
 title: Día del Software Libre
 modified:
 categories: blog
-excerpt: Serie de charlas con motivo del Día del Software Libre
+excerpt: Serie de charlas informativas sobre distintos tipos de software y alternativas con motivo del Día del Software Libre
 tags: []
 image:
   feature: /blog/software-freedom/sfd.png
