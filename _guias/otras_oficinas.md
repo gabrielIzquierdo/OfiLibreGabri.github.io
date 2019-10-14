@@ -1,3 +1,10 @@
+---
+title: Otras oficinas Libres
+logo: logo.png
+date: 2019-10-14
+---
+A continuación presentamos un listado de la oficinas en España que tienen la misma función o parecida a la de la OfiLibre, es un trabajo en progreso, no es definitivo.
+
 | Oficina | ¿activa? |
 | --- | --- |
 | [Universidad Complutense de Madrid](https://www.ucm.es/oficina-de-software-libre/) | Sí |
