@@ -21,13 +21,13 @@ Si tienes interés en organizar una actividad relacionada con nuestras áreas de
 (una presentación, un taller, una sesión de debate, una mesa redonda, una sesión de formación, etc.)
 vamos a tratar de ayudarte.
 
-Nuestro apoyo puede manifestarse de distintas formas (que habrás que considerar caso por caso):
+Nuestro apoyo puede manifestarse de distintas formas (que habrá que considerar caso por caso):
 
 * Colaboraremos, si eso te sirve de ayuda, en la reserva de espacios en el campus donde tenga lugar la actividad.
 * Si deseas que tu evento sea grabado, ayudaremos en el proceso correspondiente,
 cuando esto sea posible (según disponibilidad de salas y presupuesto).
 * Crearemos y difundiremos carteles informativos, y realizaremos difusión por redes sociales,
- basándonos en la información que nos puedas dar sobr tu actividad
+ basándonos en la información que nos puedas dar sobre tu actividad
  (en qué consiste, tiempo de duración, ponentes...).
 * También nos encargamos de publicar el evento en [Eventos URJC](https://eventos.urjc.es).
 que permite gestionar inscripciones, y otros servicios útliles de apoyo a la actividad.
@@ -37,6 +37,6 @@ que permite gestionar inscripciones, y otros servicios útliles de apoyo a la ac
 que tu actividad sirva para el Reconocimiento Académico de Créditos.
 
 Así que si tienes una idea en mente y quieres llevarla a cabo,
-no dudes en ponerte en contacto con nosotros: ofilibre @ urjc.es.
+no dudes en ponerte en contacto con nosotros: ofilibre@urjc.es.
 
 ¡¡Esperamos vuestras ideas!!
