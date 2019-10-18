@@ -11,4 +11,4 @@ image:
   thumb: /blog/software-freedom/sfd.png
 ---
 El 23 de septiembre celebramos con la Comunidad Universitaria el Día del Software Libre, para ello, organizamos una serie de charlas sobre distintos software libres. Empezamos el evento a las 13:00 con Juan González Gómez, que nos habló de los FGPAs Libres.
-¡[FGPAs Libres](.../images/blog/dia-software-libre/juan-gonzalez.jpg)
+![FGPAs Libres](.../images/blog/dia-software-libre/juan-gonzalez.jpg)
