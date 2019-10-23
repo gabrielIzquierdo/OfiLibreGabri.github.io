@@ -13,15 +13,15 @@ image:
 El 23 de septiembre celebramos con la Comunidad Universitaria el Día del Software Libre, para ello, organizamos una serie de charlas sobre distintos software libres. Para los que no pudisteis asistir, y para los que quieren recordar este día, aquí os dejamos una serie de fotografías del evento y las transparencias utilizadas por los ponentes:
 
 
-![Juan Gonzalez, FGPAs Libres](/images/blog/dia-software-libre/juan-gonzalez.jpg =)
+![Juan Gonzalez, FGPAs Libres](/images/blog/dia-software-libre/juan-gonzalez.jpg)
 
-![Pablo Fuente](/images/blog/dia-software-libre/Pablo_Fuentes.jpg =)
+![Pablo Fuente](/images/blog/dia-software-libre/Pablo_Fuentes.jpg)
 
-![Antonio Gutiérrez](/images/blog/dia-software-libre/antonio-gutierrez.jpg =)
+![Antonio Gutiérrez](/images/blog/dia-software-libre/antonio-gutierrez.jpg)
 
-![David Arroyo](/images/blog/dia-software-libre/david-arroyo.jpg =)
+![David Arroyo](/images/blog/dia-software-libre/david-arroyo.jpg)
 
-![José Centeno](/images/blog/dia-software-libre/jose-centeno.jpg =)
+![José Centeno](/images/blog/dia-software-libre/jose-centeno.jpg)
 
 
 
