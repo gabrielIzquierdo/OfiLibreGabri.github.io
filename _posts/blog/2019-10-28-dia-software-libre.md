@@ -16,27 +16,59 @@ El 23 de septiembre celebramos con la Comunidad Universitaria el Día del Softwa
 ![Día del Software Libre](/images/blog/dia-software-libre/sfd-images.jpg)
 
 
+## PRESENTACIONES
 
+
+
+[**FGPAs Libres**](/transpas/dia-software-libre/fgaps-libres.pdf)
 
 ![FGPAs Libres](/images/blog/dia-software-libre/fgpas-libres.png)
-[FGPAs Libres](/transpas/dia-software-libre/fgaps-libres.pdf)
+
+
+
+
+[**OpenVidu Talk**](/transpas/dia-software-libre/openvidu-talk.pdf)
 
 ![OpenVidu Talk](/images/blog/dia-software-libre/openvidu-talk.png)
-[OpenVidu](/transpas/dia-software-libre/openvidu-talk.pdf)
+
+
+
+
+[**ROS y URJC - JdeROBOT**](/transpas/dia-software-libre/ros-y-jdrobot.pdf)
 
 ![ROS y URJC - JdeROBOT](/images/blog/dia-software-libre/ros-y-jdrobot.png)
-[ROS y URJC - JdeROBOT](/transpas/dia-software-libre/ros-y-jdrobot.pdf)
+
+
+
+
+[**Selenium**](/transpas/dia-software-libre/selenium.pdf)
 
 ![Selenium](/images/blog/dia-software-libre/selenium.png)
-[Selenium](/transpas/dia-software-libre/selenium.pdf)
+
+
+
+
+[**Damegender**](/transpas/dia-software-libre/damegender.pdf)
 
 ![Damegender](/images/blog/dia-software-libre/damegender.png)
-[Damegender](/transpas/dia-software-libre/damegender.pdf)
+
+
+
+
+[**Laboratorios de Linux**](/transpas/dia-software-libre/linux-enla-urjc.pdf)
 
 ![Laboratorios Linux](/images/blog/dia-software-libre/linux-enla-urjc.png)
-[Laboratorios de Linux](/transpas/dia-software-libre/linux-enla-urjc.pdf)
+
+
+
+
+[**NetGUI-Netkit**](transpas/dia-software-libre/netgui-netkit.pdf)
 
 ![NetGUI-Netkit](/images/blog/dia-software-libre/netgui-netkit.png)
-[NetGUI-Netkit](transpas/dia-software-libre/netgui-netkit.pdf)
 
-### OS ESPERAMOS EN NUESTRAS PRÓXIMAS ACTIVIDADES
+
+
+
+
+
+## OS ESPERAMOS EN NUESTRAS PRÓXIMAS ACTIVIDADES
