@@ -178,18 +178,15 @@ Aparentemente, cada usuario estamos en alguno de estos, así
 que tendrás que saber en cuál estás, o probar.
 Una forma de probar es usando el programa `smbclient`.
 Por ejemplo, si tu dirección de dominio único es
-`nombre.apellido@urjc.es`, puedes probar así si estás en el
+`nombre.apellidos@urjc.es`, puedes probar así si estás en el
 dominio `people`:
 
 ```
-$ smbclient -U nombre.apellido -W people -L iveco.urjc.es
-Enter PEOPLE\jose.centeno's password:
+$ smbclient -U nombre.apellidos -W people -L iveco.urjc.es
+Enter PEOPLE\nombre.apellidos's password:
 
     Sharename       Type      Comment
     ---------       ----      -------
     ....
     URJC_IMPRESORA_VIRTUAL Printer   Impresion virtual en todos los Campus de URJC
-Reconnecting with SMB1 for workgroup listing.
-Connection to iveco.urjc.es failed (Error NT_STATUS_RESOURCE_NAME_NOT_FOUND)
-Failed to connect with SMB1 -- no workgroup available
 ```
