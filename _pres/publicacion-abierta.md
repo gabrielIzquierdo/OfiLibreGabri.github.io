@@ -2,8 +2,8 @@
 title: Publicación Abierta
 date: 2019-11-25
 image:
-  feature: Datos_Abiertos.png
-  teaser: Datos_Abiertos.png
+  feature: Publicacion_Abierta.png
+  teaser: Publicacion_Abierta.png
 transpas:
   - format: PDF
     file: Pubicacion_Abierta.pdf
