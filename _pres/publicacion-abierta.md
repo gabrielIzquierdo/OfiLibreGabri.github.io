@@ -10,8 +10,8 @@ transpas:
   - format: ODP (LibreOffice)
     file: Pubicacion_Abierta.odp
 extras:
-  - name: Presentación en Talleres de Innovación Educativa y Cultura Abierta
-    url: https://eventos.urjc.es/_files/_event/_39635/_editorFiles/file/fichas/taller_Publicacion-abierta.pdf
+  - name: Ficha del taller sobre publicación abierta que tuvo lugar en los Talleres de Innovación Educativa y Cultura Abierta, URJC campus de Alcorcón, 25 de noviembre de 2019.
+    url: ../transpas/publicacion-abierta/publicacion-abierta-jornadas-innovacion-2019.pdf
 ---
 
 Introducción a la publicación abierta, desde un punto de vista lo más práctico posible.
