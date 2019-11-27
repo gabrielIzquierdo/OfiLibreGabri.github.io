@@ -190,3 +190,6 @@ Enter PEOPLE\nombre.apellidos's password:
     ....
     URJC_IMPRESORA_VIRTUAL Printer   Impresion virtual en todos los Campus de URJC
 ```
+
+---------
+Guía preparada con la ayuda de Gorka Guadiola y José Centeno.
