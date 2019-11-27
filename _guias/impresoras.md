@@ -1,8 +1,8 @@
 ---
 title: Impresión desde Linux en las impresoras de la URJC
-logo: logo.png
+logo: impresora.png
 date: 2019-11-19
-published: false
+published: true
 ---
 
 Esta guía se refiere a las impresoras accesibles mediante el
