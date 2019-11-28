@@ -21,10 +21,10 @@ con la participación de:
  Facultad de Ciencias Jurídicas y Sociales, URJC. [Enlace a su presentación](/transpas/mesa-docencia-libre/eloy-hortal.pdf).
 
 * Florencia Claes ([@FlorenClaes](https://twitter.com/FlorenClaes)),
- Facultad de Ciencias de la Comunicación, URJC
+ Facultad de Ciencias de la Comunicación, URJC. [Enlace a su presentación](/transpas/mesa-docencia-libre/florencia-claes.pdf).
 
 * Francisco Molina Rueda ([@PacoMolinaRueda](https://twitter.com/PacoMolinaRueda)),
- Facultad de Ciencias de la Salud, URJC
+ Facultad de Ciencias de la Salud, URJC. [Enlace a su presentación](/transpas/mesa-docencia-libre/francisco-molina.pdf).
 
 * Micael Gallego Carrillo ([@micael_gallego](https://twitter.com/micael_gallego)),
  E.T.S. De Ingeniería Informática, URJC
@@ -32,10 +32,10 @@ con la participación de:
 * Juan González Gómez ([@Obijuan_cube](https://twitter.com/Obijuan_cube)),
  E.T.S. Ingeniería de Telecomunicación, URJC. [Enlace a su presentación](/transpas/mesa-docencia-libre/juan-gonzalez.pdf).
 
-El moderador de la mesa será Jesús González Barahona ([@jgbarah2])(https://twitter.com/jgbarah)),
+El moderador de la mesa será Jesús González Barahona ([@jgbarah2](https://twitter.com/jgbarah)),
  E.T.S. Ingeniería de Telecomunicación y OfiLibre, URJC.
 Cada participante presenatará brevemente una experiencia docente en la creación
 y difusión de materiales docentes libres ha tenido una importancia fundamental.
 A continuación se pasará a debatir las ventajas y los problemas de los materiales
-docentes libres (basándonos en una [breve lista](general.pdf) para iniciar el debate) en el contexto universitario, y a atender los comentarios
+docentes libres (basándonos en una [breve lista](/transpas/mesa-docencia-libregeneral.pdf) para iniciar el debate) en el contexto universitario, y a atender los comentarios
 del público.
