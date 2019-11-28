@@ -30,12 +30,12 @@ con la participación de:
  E.T.S. De Ingeniería Informática, URJC
 
 * Juan González Gómez ([@Obijuan_cube](https://twitter.com/Obijuan_cube)),
- E.T.S. Ingeniería de Telecomunicación, URJC
+ E.T.S. Ingeniería de Telecomunicación, URJC. [Enlace a su presentación](juan-gonzalez.pdf).
 
 El moderador de la mesa será Jesús González Barahona ([@jgbarah2])(https://twitter.com/jgbarah)),
  E.T.S. Ingeniería de Telecomunicación y OfiLibre, URJC.
 Cada participante presenatará brevemente una experiencia docente en la creación
 y difusión de materiales docentes libres ha tenido una importancia fundamental.
-A continuación se pasará a debatir las ventajas y desventajas de los materiales
-docentes libres en el contexto universitario, y a atender los comentarios
+A continuación se pasará a debatir las ventajas y los problemas de los materiales
+docentes libres (basándonos en una [breve lista](general.pdf) para iniciar el debate) en el contexto universitario, y a atender los comentarios
 del público.
