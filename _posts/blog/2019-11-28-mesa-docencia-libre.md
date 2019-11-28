@@ -18,7 +18,7 @@ el jueves 28 de noviembre a las 15:30, en el Aula Magna 203,  Aulario III, Campu
 con la participación de:
 
 * José Eloy Hortal Muñoz ([@JoseEloyHortal](https://twitter.com/JoseEloyHortal)),
- Facultad de Ciencias Jurídicas y Sociales, URJC. [Enlace a su presentación](eloy-hortal.pdf).
+ Facultad de Ciencias Jurídicas y Sociales, URJC. [Enlace a su presentación](/transpas/mesa-docencia-libre/eloy-hortal.pdf).
 
 * Florencia Claes ([@FlorenClaes](https://twitter.com/FlorenClaes)),
  Facultad de Ciencias de la Comunicación, URJC
@@ -30,7 +30,7 @@ con la participación de:
  E.T.S. De Ingeniería Informática, URJC
 
 * Juan González Gómez ([@Obijuan_cube](https://twitter.com/Obijuan_cube)),
- E.T.S. Ingeniería de Telecomunicación, URJC. [Enlace a su presentación](juan-gonzalez.pdf).
+ E.T.S. Ingeniería de Telecomunicación, URJC. [Enlace a su presentación](/transpas/mesa-docencia-libre/juan-gonzalez.pdf).
 
 El moderador de la mesa será Jesús González Barahona ([@jgbarah2])(https://twitter.com/jgbarah)),
  E.T.S. Ingeniería de Telecomunicación y OfiLibre, URJC.
