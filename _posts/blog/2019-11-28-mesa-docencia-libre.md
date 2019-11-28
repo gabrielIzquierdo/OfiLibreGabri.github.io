@@ -37,5 +37,5 @@ El moderador de la mesa será Jesús González Barahona ([@jgbarah2](https://twi
 Cada participante presenatará brevemente una experiencia docente en la creación
 y difusión de materiales docentes libres ha tenido una importancia fundamental.
 A continuación se pasará a debatir las ventajas y los problemas de los materiales
-docentes libres (basándonos en una [breve lista](/transpas/mesa-docencia-libregeneral.pdf) para iniciar el debate) en el contexto universitario, y a atender los comentarios
+docentes libres (basándonos en una [breve lista](/transpas/mesa-docencia-libre/general.pdf) para iniciar el debate) en el contexto universitario, y a atender los comentarios
 del público.
