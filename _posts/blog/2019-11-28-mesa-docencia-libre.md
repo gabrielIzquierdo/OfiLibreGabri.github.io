@@ -18,7 +18,7 @@ el jueves 28 de noviembre a las 15:30, en el Aula Magna 203,  Aulario III, Campu
 con la participación de:
 
 * José Eloy Hortal Muñoz ([@JoseEloyHortal](https://twitter.com/JoseEloyHortal)),
- Facultad de Ciencias Jurídicas y Sociales, URJC
+ Facultad de Ciencias Jurídicas y Sociales, URJC. [Enlace a su presentación](eloy-hortal.pdf).
 
 * Florencia Claes ([@FlorenClaes](https://twitter.com/FlorenClaes)),
  Facultad de Ciencias de la Comunicación, URJC
