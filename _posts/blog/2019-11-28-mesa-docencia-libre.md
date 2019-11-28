@@ -18,24 +18,26 @@ el jueves 28 de noviembre a las 15:30, en el Aula Magna 203,  Aulario III, Campu
 con la participación de:
 
 * José Eloy Hortal Muñoz ([@JoseEloyHortal](https://twitter.com/JoseEloyHortal)),
- Facultad de Ciencias Jurídicas y Sociales, URJC. [Enlace a su presentación](/transpas/mesa-docencia-libre/eloy-hortal.pdf).
+ Facultad de Ciencias Jurídicas y Sociales, URJC. Presentación: [PDF](/transpas/mesa-docencia-libre/eloy-hortal.pdf).
 
 * Florencia Claes ([@FlorenClaes](https://twitter.com/FlorenClaes)),
- Facultad de Ciencias de la Comunicación, URJC. [Enlace a su presentación](/transpas/mesa-docencia-libre/florencia-claes.pdf).
+ Facultad de Ciencias de la Comunicación, URJC. Presentación: [PDF](/transpas/mesa-docencia-libre/florencia-claes.pdf),
+ [ODP](/transpas/mesa-docencia-libre/florencia-claes.odp).
 
 * Francisco Molina Rueda ([@PacoMolinaRueda](https://twitter.com/PacoMolinaRueda)),
- Facultad de Ciencias de la Salud, URJC. [Enlace a su presentación](/transpas/mesa-docencia-libre/francisco-molina.pdf).
+ Facultad de Ciencias de la Salud, URJC. Presentación: [PDF](/transpas/mesa-docencia-libre/francisco-molina.pdf).
 
 * Micael Gallego Carrillo ([@micael_gallego](https://twitter.com/micael_gallego)),
  E.T.S. De Ingeniería Informática, URJC
 
 * Juan González Gómez ([@Obijuan_cube](https://twitter.com/Obijuan_cube)),
- E.T.S. Ingeniería de Telecomunicación, URJC. [Enlace a su presentación](/transpas/mesa-docencia-libre/juan-gonzalez.pdf).
+ E.T.S. Ingeniería de Telecomunicación, URJC. Presentación: [PDF](/transpas/mesa-docencia-libre/juan-gonzalez.pdf),
+ [ODP](/transpas/mesa-docencia-libre/juan-gonzalez.odp).
 
 El moderador de la mesa será Jesús González Barahona ([@jgbarah2](https://twitter.com/jgbarah)),
  E.T.S. Ingeniería de Telecomunicación y OfiLibre, URJC.
 Cada participante presenatará brevemente una experiencia docente en la creación
 y difusión de materiales docentes libres ha tenido una importancia fundamental.
 A continuación se pasará a debatir las ventajas y los problemas de los materiales
-docentes libres (basándonos en una [breve lista](/transpas/mesa-docencia-libre/general.pdf) para iniciar el debate) en el contexto universitario, y a atender los comentarios
+docentes libres (basándonos en una breve lista ([PDF](/transpas/mesa-docencia-libre/general.pdf), [ODP](/transpas/mesa-docencia-libre/general.odp)) para iniciar el debate) en el contexto universitario, y a atender los comentarios
 del público.
