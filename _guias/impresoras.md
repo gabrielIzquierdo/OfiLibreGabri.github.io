@@ -99,9 +99,10 @@ Cuando nos pide la dirección de la impresora, ponemos
 `smb://<dominio>/iveco.urjc.es/URJC_IMPRESORA_VIRTUAL`
 
 El `<dominio>` es el dominio WINS en el que estás, puede ser
-`people`, `cct`, o otros (ver más abajo "[En qué dominio estoy](#dominio)".
+`people`, `escet`, cct`, u otros (ver más abajo "[En qué dominio estoy](#dominio)".
 
-Asegúrate tambien de marcar "avisar al usuario si hace falta autenticación",
+Asegúrate tambien de marcar "avisar al usuario si hace falta autenticación"
+(o si prefieres, deja ya grabado tu nombre de usuario y tu contraseña)
 y a continuación elige la impresora
 `KONICA MINOLTA C759SeriesPS(P) BEU v1.1 (color)` que encontrarás
 en el menú corresponiente.
@@ -145,14 +146,19 @@ pendiente de autenticación.
 
 En la cola de impresión (que puedes acceder
 [vía la página de CUPS](http://localhost:631))
-podrás autenticar el trabajho. También puedes guardar el usuario
+podrás autenticar el trabajo. También puedes guardar el usuario
 y contraseña, si prefieres (y consideras tu equipo suficientemente seguro para ello).
 
 Las credenciales que te pedirá para la autenticación son:
 
 * Usuario: dirección de correo electrónico de la URJC (nombre de dominio único)
-sin @urjc.es
+sin `@urjc.es`
 * Contraseña: la del dominio único
+
+**Atención**: No siempre tu nombre de usuario se determina de esta forma.y
+Ver más abajo "[En qué dominio estoy, qué usuario soy](#dominio)" para obtener
+más información sobre cómo saber tu nombre de usuario, y
+qué hacer si no te funciona el que crees que deberías tener.
 
 ## <a name="configuracion-dns"></a>Configuración de DNS
 
@@ -170,12 +176,25 @@ y se añade la línea:
 
 192.168.46.181 iveco.urjc.es
 
-## <a name="dominio"></a>En qué dominio estoy
+## <a name="dominio"></a>En qué dominio estoy, qué usuario soy
 
-Cuando hemos probado esta guía, hemos visto que puedes estar en distintos
-dominios WINS. Entre ellos: `people`, `cct` y ninguno.
+Normalmente el nombre de usuario será el de dominio único, sin `@urjc.es`.
+Por ejemplo, si tu dirección de dominio único es
+`nombre.apellidos@urjc.es`, tu nombre de usuario será normalmente
+`nombre.apellidos`.
+Pero si tu nombre de usuario (nombre de dominio único sin `@urjc.es`)
+es de más de 20 caracteres, es muy probable que el nombre que tengas que usar sean
+los 20 primeros caracteres. En algunos casos excepcionales, puede que
+tu nombre de usuario sea distinto del de dominio único.
+En general, hemos visto que el nombre que puedes ver en la impresora
+cuando te has autenticado con tu tarjeta es el que tendrás que utilizar
+(podrás verlo en la pantalla que te sale en la impresora nada más autenticarte).
+
+También necesitas saber en qué dominio (workgroup) estás.
+Hay varios dominios separados, entre ellos: `people`, `cct` y ninguno.
 Aparentemente, cada usuario estamos en alguno de estos, así
 que tendrás que saber en cuál estás, o probar.
+
 Una forma de probar es usando el programa `smbclient`.
 Por ejemplo, si tu dirección de dominio único es
 `nombre.apellidos@urjc.es`, puedes probar así si estás en el
@@ -190,6 +209,13 @@ Enter PEOPLE\nombre.apellidos's password:
     ....
     URJC_IMPRESORA_VIRTUAL Printer   Impresion virtual en todos los Campus de URJC
 ```
+
+De esta forma pruebas, en realidad, la combinación nombre / dominio,
+así que podrás usarla para validar ambos.
+
+Si no consigues encontrar una combinación que te funcione,
+puedes abrir una incidencia en el [CAU de la URJC](https://cau.urjc.es),
+y preguntar tu nombre de usuario y tu dominio (workgroup) Windows.
 
 ---------
 Guía preparada con la ayuda de Gorka Guadiola y José Centeno.
