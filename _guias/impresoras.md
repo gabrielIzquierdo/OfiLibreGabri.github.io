@@ -48,6 +48,22 @@ información de servidores de WINS recibida por DHCP.
 En principio, en nuestro caso, no parece que la respuesta
 a esa pregunta tenga un efecto sobre el resto del proceso.
 
+En algunos casos (por ejemplo, en Ubuntu 16.04), puede hacer falta
+también editar el fichero `/etc/samba/smb.conf`,
+añadiendo en la sección `global`, normalmente al principio del fichero,
+las siguientes líneas:
+
+```
+client min protocol = SMB2
+client max protocol = SMB3
+```
+
+Si se hace esto, luego hay que reiniciar el servicio:
+
+```
+$ sudo service smbd restart
+```
+
 ## Configuración de la impresora
 
 La impresora es una Konica Minolta bizhub C458,
@@ -218,4 +234,5 @@ puedes abrir una incidencia en el [CAU de la URJC](https://cau.urjc.es),
 y preguntar tu nombre de usuario y tu dominio (workgroup) Windows.
 
 ---------
-Guía preparada con la ayuda de Gorka Guadiola y José Centeno.
+Guía preparada con la ayuda de Gorka Guadiola, José Centeno (primeras versiones)
+y Miguel Ortuño (notas sobre Ubuntu 16.04).
