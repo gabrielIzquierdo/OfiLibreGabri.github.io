@@ -22,4 +22,6 @@ Según la Declaración de Berlín, para que una contribución sea considerada de
 Si tienes interés en ampliar tu conocimiento en este ámbito, ven el **9 de Marzo de 10:30 a 11:00, en el aula Departamental I, Seminario 044** del campus de Fuenlabrada.
 ¡Os esperamos!
 
+Más información e inscripciones en la **[página oficial del evento](https://eventos.urjc.es/49088/detail/introduccion-a-la-publicacion-abierta.html)**.
+
 
