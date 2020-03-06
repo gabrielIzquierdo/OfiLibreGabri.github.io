@@ -24,4 +24,5 @@ Si tienes interés en ampliar tu conocimiento en este ámbito, ven el **9 de Mar
 
 Más información e inscripciones en la **[página oficial del evento](https://eventos.urjc.es/49088/detail/introduccion-a-la-publicacion-abierta.html)**.
 
+También podéis encontrar más info en la web de la **[Facultad de Ciencias de la Comunicación](https://www.urjc.es/actualidad-fccom/noticias-fccom/5046-introducete-en-el-mundo-de-la-publicacion-abierta-con-la-ofilibre-de-la-urjc)**.
 
