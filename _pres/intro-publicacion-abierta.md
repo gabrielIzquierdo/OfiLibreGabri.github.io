@@ -15,3 +15,4 @@ extras:
 ---
 
 Introducción a la publicación abierta, enfocada tanto a la publicación de resultados de investigación, como de matariales docentes.
+
