@@ -14,4 +14,4 @@ extras:
     url: ../transpas/publicacion-abierta/publicacion-abierta-jornadas-innovacion-2019.pdf
 ---
 
-Introducción a la publicación abierta, desde un punto de vista lo más práctico posible.
+Presentación sobre publicación abierta, desde un punto de vista práctico.
