@@ -26,3 +26,4 @@ Más información e inscripciones en la **[página oficial del evento](https://e
 
 También podéis encontrar más info en la web de la **[Facultad de Ciencias de la Comunicación](https://www.urjc.es/actualidad-fccom/noticias-fccom/5046-introducete-en-el-mundo-de-la-publicacion-abierta-con-la-ofilibre-de-la-urjc)**.
 
+Puedes consultar los [materiales utilizados en la presentación](/pres/intro-publicacion-abierta).
