@@ -20,3 +20,4 @@ Presentación sobre publicación abierta, desde un punto de vista práctico.
 
 Versión presentada en la sesión "Publicación abierta" del Seminario sobre ética de la investigación, organizado por la Esuela Internacional de Doctorado de la URJC, 28 de mayo de 2020.
 
+* [Videos de la presentación](https://tv.urjc.es/series/5ee201f2d68b14531a8b464d)
