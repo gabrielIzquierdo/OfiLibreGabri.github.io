@@ -28,10 +28,11 @@ Hemos recopilado un listado de otras oficinas libres universitarias que actualme
 | [Oficina Técnica de Software Libre del Gobierno Vasco](http://www.euskadi.eus/gobierno-vasco/software-libre/inicio/) | [@saleuskadin](https://twitter.com/saleuskadin) |
 
 
-## Asociaciones universitarias relacionadas con SW libre 
+## Asociaciones universitarias relacionadas con SW libre
+
 | Nombre | Twitter |
 | --- | --- | 
-| [Grupo de Usuarios de Linux de la Universidad Carlos III de Madrid](https://gul.es/) | [@guluc3m](https://twitter.com/guluc3m)| 
+| [Grupo de Usuarios de Linux de la Universidad Carlos III de Madrid](https://gul.es/) | [@guluc3m](https://twitter.com/guluc3m) | 
 | [Libre Lab UCM](https://osl.ugr.es/) | [@LibreLabUCM](https://twitter.com/LibreLabUCM) |
 | Asociación de Software Libre de la Universidad de Huelva | [@ASL_UHU](https://twitter.com/ASL_UHU) | 
 | [Grupo de Programadores e Usuarios de Linux](https://www.gpul.org/) | [@gpul_](https://twitter.com/gpul_) | 
@@ -39,7 +40,9 @@ Hemos recopilado un listado de otras oficinas libres universitarias que actualme
 | [Grupo de Usuarios de GNU/Linux de la Universidad de Sevilla](https://sugus.eii.us.es/) | [@sugus_etsii](https://twitter.com/sugus_etsii) |
 | [Asociación RITSI](https://ritsi.org/) | [@ritsi](https://twitter.com/ritsi) | 
 
+
 ## Otras asociaciones relevantes
+
 | Nombre | Twitter | 
 | --- | --- |
 | [Open Source Weekends (OSW)](http://osweekends.com/) | [@os_weekends](https://twitter.com/os_weekends)| 
@@ -47,14 +50,15 @@ Hemos recopilado un listado de otras oficinas libres universitarias que actualme
 | Google Developer Group Madrid (GDG Madrid) | [@GDGMadrid](https://twitter.com/GDGMadrid) | 
 | [Open Xarxes coop. V.](http://openxarxes.com/) | [@openxarxes](https://twitter.com/openxarxes) |
 | [Grupo de Amigos de Linux de Pontevedra (GALPon)](https://www.galpon.org) | [@galpon](https://twitter.com/galpon) | 
-| [KDE España](https://www.kde-espana.org) | [@kde_espana](https://twitter.com/kde_espana?lang=es) | 
+| [KDE España](https://www.kde-espana.org) | [@kde_espana](https://twitter.com/kde_espana) | 
 | [Wikimedia España](https://www.wikimedia.es/) | [@wikimedia_es](https://twitter.com/wikimedia_es) | 
 | [Asociación de Usuarios GNU/Linux de Valencia](https://gnulinuxvalencia.org/) | [@GnuLinuxVlc](https://twitter.com/GnuLinuxVlc) | 
 
 
 ## Eventos relevantes
+
 | Nombre | Twitter | 
 | --- | --- | 
-| [T3chfest](https://t3chfest.es/) | [@T3chFest](https://twitter.com/T3chFest)| 
-| [Opensouthcode](https://www.opensouthcode.org) |[@Opensouthcode](https://twitter.com/Opensouthcode) | 
+| [T3chfest](https://t3chfest.es/) | [@T3chFest](https://twitter.com/T3chFest) | 
+| [Opensouthcode](https://www.opensouthcode.org) | [@Opensouthcode](https://twitter.com/Opensouthcode) | 
 
