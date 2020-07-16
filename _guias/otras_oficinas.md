@@ -52,7 +52,8 @@ Hemos recopilado un listado de otras oficinas libres universitarias que actualme
 | [Grupo de Amigos de Linux de Pontevedra (GALPon)](https://www.galpon.org) | [@galpon](https://twitter.com/galpon) | 
 | [KDE España](https://www.kde-espana.org) | [@kde_espana](https://twitter.com/kde_espana) | 
 | [Wikimedia España](https://www.wikimedia.es/) | [@wikimedia_es](https://twitter.com/wikimedia_es) | 
-| [Asociación de Usuarios GNU/Linux de Valencia](https://gnulinuxvalencia.org/) | [@GnuLinuxVlc](https://twitter.com/GnuLinuxVlc) | 
+| [Asociación de Usuarios GNU/Linux de Valencia](https://gnulinuxvalencia.org/) | [@GnuLinuxVlc](https://twitter.com/GnuLinuxVlc) |
+| [Asociación Programo Ergo Sum](https://www.programoergosum.es/) | [@ProgramoErgoSum](https://twitter.com/ProgramoErgoSum) |
 
 
 ## Eventos relevantes
