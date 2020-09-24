@@ -6,8 +6,8 @@ categories: blog
 excerpt: El pasado fin de semana se celebró el congreso esLibre 2020 organizado por la Ofilibre que tuvo una gran afluencia de gente pese a ser una edición en remoto.
 tags: []
 image:
-  feature: /blog/evento-eslibre/
-  teaser: /blog/evento-eslibre/
+  feature: /blog/evento-eslibre/banner-eslibre.png
+  teaser: /blog/evento-eslibre/banner-eslibre.png
   thumb: /blog/evento-eslibre/eslibre-cuadrado.png
 ---
 
