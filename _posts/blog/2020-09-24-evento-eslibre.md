@@ -8,7 +8,7 @@ tags: []
 image:
   feature: /blog/evento-eslibre/
   teaser: /blog/evento-eslibre/
-  thumb: /blog/evento-eslibre/
+  thumb: /blog/evento-eslibre/eslibre-cuadrado.png
 ---
 
 Los pasados días 18 y 19 de septiembre se celebró la edición 2020 del congreso [esLibre](https://eslib.re/2020/), siendo de manera totalmente remota debido a la crisis sanitaria del COVID-19. Este año la organización del mismo estaba a cargo de la Ofilibre, contando -entre otras- con el apoyo de otras comunidades como [Interferencias](https://interferencias.tech/), [LibreLabGRX](https://librelabgrx.cc/), [Wikimedia España](https://www.wikimedia.es/) y otras muchas otras personas.
