@@ -7,7 +7,7 @@ excerpt: El pasado fin de semana se celebró el congreso esLibre 2020 organizado
 tags: []
 image:
   feature: /blog/evento-eslibre/banner-eslibre.png
-  teaser: /blog/evento-eslibre/banner-eslibre.png
+  teaser: /blog/evento-eslibre/eslibre-cuadrado.png
   thumb: /blog/evento-eslibre/eslibre-cuadrado.png
 ---
 
