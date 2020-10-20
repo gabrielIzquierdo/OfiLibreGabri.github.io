@@ -35,7 +35,7 @@ Pensamos que un Catálogo de Recursos Educativos Abiertos de la URJC, que recopi
 
 ## ¿Cómo enviar REA para su inclusión en el catálogo?
 
-Cualquier profesor puede seguir las instrucciones que se indican en la [noticia de inicio de la campaña de recopilación de materiales libres de la URJC](/blog/catalogo-materiales-libres/) para solicitar que sus recursos educativos abiertos queden incluidos en el Catálogo de REA de la URJC.
+Cualquier profesor puede seguir las instrucciones que se indican en la [noticia de inicio de la campaña de recopilación de materiales libres de la URJC](/blog/catalogo-materiales-libres/) para solicitar que sus recursos educativos abiertos queden incluidos en el Catálogo de REA de la URJC. Resumiendo mucho, estas instrucciones consisten en enviarnos un mensaje con los datos del REA que se quiere enviar.
 
 ## ¿Qué tipo de materiales pueden incluirse en el catálogo?
 
