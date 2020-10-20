@@ -27,21 +27,21 @@ Pensamos que un Catálogo de Recursos Educativos Abiertos de la URJC, que recopi
 
 * Permitir a nuestros alumnos acceder de forma simple y coordinada a los recursos educativos abiertos producidos en nuestra Universidad, tanto para titulaciones en las que están matriculados, como para otras que sean de su interés. Cualquier otra persona interesada podrá, igualmente, acceder a estos recursos.
 
-* Servir como archivo de REA para que cualquier profesor pueda utlizar estos materiales, dando el reconocimento necesario a sus autores, para sus asignaturas.
+* Servir como archivo de REA para que cualquier profesor pueda utlizar estos materiales, dando el reconocimiento necesario a sus autores, para sus asignaturas.
 
-* Actual como punto de encuentro entre profesores realizando REA en la misma área docente, dándoles oportunidades de colaborar en la creación de materiales, y favoreciendo el intercambio de experiencias.
+* Actuar como punto de encuentro entre profesores realizando REA en la misma área docente, dándoles oportunidades de colaborar en la creación de materiales, y favoreciendo el intercambio de experiencias.
 
-* Servir como mecanismo de acreditación de los trabajos realizados. En el futuro, la OfiLibre podría extender documentos acreditativos para que los profesores puedan utlizarlos donde necesiten mostrar su labor en este campo.
+* Servir como mecanismo de acreditación de los trabajos realizados. En el futuro, la OfiLibre podría extender documentos acreditativos para que los profesores puedan utilizarlos donde necesiten mostrar su labor en este campo.
 
 ## ¿Cómo enviar REA para su inclusión en el catálogo?
 
-Cualquier profesor puede seguir las instrucciones que se indican en la [noticia de inicio de la campaña de recopilación de materiales libres de la URJC] para solicitar que sus recursos educativos abiertos queden incluidos en el Catálogo de REA de la URJC.
+Cualquier profesor puede seguir las instrucciones que se indican en la [noticia de inicio de la campaña de recopilación de materiales libres de la URJC](/blog/catalogo-materiales-libres/) para solicitar que sus recursos educativos abiertos queden incluidos en el Catálogo de REA de la URJC.
 
 ## ¿Qué tipo de materiales pueden incluirse en el catálogo?
 
 Puede incluirse en el catálogo cualquier recurso educativo digital (apuntes, libros, ensayos, transparencias, videos, audios, colecciones de gráficos, programas de ordenador, etc) que hayan sido producidos al menos en parte por un profesor de la URJC, se usen en al menos una asignatura de un grado o máster, o un curso de doctorado, impartido en la URJC, y se distribuyan mediante una licencia de publicación abierta o de software libre:
 
-* Licencias de publicación abierta: las que cumplen con lo definido en la [Declaración de Berlín sobre Acceso Abierto](https://openaccess.mpg.de/Berlin-Declaration): "El (los) autor(es) \[...\] deben garantizar el derecho gratuito, irrevocable y mundial de acceder al trabajo, y licencia para copiarlo, usarlo, distribuirlo, transmitirlo y exhibirlo públicamente, y para hacer y distribuir trabajos derivados \[…\]". Por ejemplo, las licencias [Atribución](https://creativecommons.org/licenses/by/4.0/deed.es), [Atribución-CompartirIgual](https://creativecommons.org/licenses/by-sa/4.0/deed.es) o [Cero](https://creativecommons.org/publicdomain/zero/1.0/) cumplen estas condiciones.
+* Licencias de publicación abierta: las que cumplen con lo definido en la [Declaración de Berlín sobre Acceso Abierto](https://openaccess.mpg.de/Berlin-Declaration): "El (los) autor(es) \[...\] deben garantizar el derecho gratuito, irrevocable y mundial de acceder al trabajo, y licencia para copiarlo, usarlo, distribuirlo, transmitirlo y exhibirlo públicamente, y para hacer y distribuir trabajos derivados \[…\]". Por ejemplo, las licencias [Atribución](https://creativecommons.org/licenses/by/4.0/deed.es), [Atribución-CompartirIgual](https://creativecommons.org/licenses/by-sa/4.0/deed.es) o [Cero](https://creativecommons.org/publicdomain/zero/1.0/) de Creative Commons cumplen estas condiciones.
 
 * Licencias de software libre: las que cumplen la [definición de software libre de la FSF](https://www.gnu.org/philosophy/free-sw.html) o la [definición de "open source" de OSI](https://opensource.org/osd).
 
