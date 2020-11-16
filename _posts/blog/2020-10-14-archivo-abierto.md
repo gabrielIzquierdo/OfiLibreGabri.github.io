@@ -13,6 +13,7 @@ image:
 
 La Ofilibre quiere dar a conocer [eciencia](https://eciencia.urjc.es/page/howtopublish), el archivo abierto dentro de la BURJC-Digital que funciona como un repositorio institucional de la Universidad Rey Juan Carlos. Su objetivo es archivar y preservar la producción científica resultante de la actividad académica e investigadora de la comunidad universitaria, con el fin de difundirla en acceso abierto.
 
+
 La Ofilibre ha decidido enfocarse en los **trabajos de fin de grado** y **los trabajos de fin de máster**.
 
 La BURJC sigue el [Reglamento de funcionamiento del Consejo de Publicaciones del Archivo Abierto Institucional de la URJC](https://eciencia.urjc.es/page/howtopublish), el cual fue aprobado en Consejo de Gobierno el 27 de julio de 2017.
