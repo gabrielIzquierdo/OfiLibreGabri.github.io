@@ -16,7 +16,7 @@ Las tecnologías [Docker](https://en.wikipedia.org/wiki/Docker_(software)) y [Ku
 Tendremos dos presentaciones:
 
 * Micael Gallego: ¿Qué son Docker y Kubernetes?
-* Pablo Chico: Cómo se usa Docker y Kubernetes en la industria
+* Pablo Chico de Guzmán: Cómo se usa Docker y Kubernetes en la industria
 
 Detalles:
 
