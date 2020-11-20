@@ -21,11 +21,21 @@ La OfiLibre es una iniciativa que trata de contar con la participación de toda 
 
 Puede que te interese ver una breve [Presentación de la Ofilibre](/presentaciones/Ofilibre-presentacion.pdf).
 
+# Canales de información
+
+La OfiLibre mantiene varios canales de información:
+
+* Web: [https://ofilibre.gitlab.io](https://ofilibre.gitlab.io)
+* Twitter: [@OfiLibreURJC](https://twitter/OfiLibreURJC)
+* Telegram: [Grupo OfiLibreURJC](https://t.me/ofilibreurjc)
+* Mastodon: [@OfiLibreURJC@floss.social](https://floss.social/@OfiLibreURJC)
+* Lista de correo lofilibre.info: [suscribirse](mailto:sympa@urjc.es?subject=SUB%20lofilibre.info)
+
 # Líneas de actuación
 
 ## Publicación abierta
 
-Entendemos la publicación abierta (open access) tal y como se define en la Declaración de Berlín,y como tal la explicamos a la comunidad universitaria,como pilar fundamental de la divulgación de los resultados de la investigación. Además, creemos que la misma idea puede extenderse también a muchos materiales de apoyo de aprendizaje y, en general, en muchos casos,a los documentos, audios, videos, multimedia, etc.producidos como parte de las actividades docentes, investigadoras o de gestión realizadas en la Universidad.
+Entendemos la publicación abierta (open access) tal y como se define en la Declaración de Berlín, y como tal la explicamos a la comunidad universitaria,como pilar fundamental de la divulgación de los resultados de la investigación. Además, creemos que la misma idea puede extenderse también a muchos materiales de apoyo de aprendizaje y, en general, en muchos casos,a los documentos, audios, videos, multimedia, etc.producidos como parte de las actividades docentes, investigadoras o de gestión realizadas en la Universidad.
 
 Los objetivos principales de esta línea son:
 
@@ -49,9 +59,9 @@ Las líneas principales de actuación en este ámbito son:
 
 ## Datos abiertos
 
-Los datos abiertos son aquellos que se publican de forma que puedan ser reutlizados por terceros de la forma más fácil y práctica posible. La Open Knowledge Foundation proporciona una definición más detallada en su Open Data Handbook.
+Los datos abiertos son aquellos que se publican de forma que puedan ser reutilizados por terceros de la forma más fácil y práctica posible. La Open Knowledge Foundation proporciona una definición más detallada en su Open Data Handbook.
 
-En la OfiLibre creemos que los datos abiertos contribuyen a mejorar la reproduciblidad y verificación de los resultados de investigación, la transparencia de las instituciones, y proporcionan oportunidades de que terceros puedan explotarlos de formas que no les ocurrió a sus productores.Y pensamos que la comunidad universitaria puede beneficiarse de todo esto, tanto como productora como consumidora de datos abiertos.
+En la OfiLibre creemos que los datos abiertos contribuyen a mejorar la reproducibilidad y verificación de los resultados de investigación, la transparencia de las instituciones, y proporcionan oportunidades de que terceros puedan explotarlos de formas que no les ocurrió a sus productores.Y pensamos que la comunidad universitaria puede beneficiarse de todo esto, tanto como productora como consumidora de datos abiertos.
 
 Los principales objetivos que nos planteamos en este ámbito son:
 
@@ -62,9 +72,9 @@ Los principales objetivos que nos planteamos en este ámbito son:
 
 ## Software libre
 
-El software es libre cuando sus autores nos han dado permiso de copia,modificación y redistribución. Hay dos definiciones clásicas,que detallan las condiciones que ha de cumplir un programa paraser considerado software libre: Free Software Definition y Open Source Definition.
+El software es libre cuando sus autores nos han dado permiso de copia,modificación y redistribución. Hay dos definiciones clásicas,que detallan las condiciones que ha de cumplir un programa para ser considerado software libre: Free Software Definition y Open Source Definition.
 
-En la OfiLibre pensamos que el software libre es una opción muy interesante en muchos casos, que en la actulidad tiene un enorme uso en la industria, y que puede traer muchos beneficios a la comunidad universitaria. Por ello nos proponemos explicar cómo cualquiera puede utilizarlo con ventaja en muchas situaciones, y cómo distribuir como software libre el que realizamos puede ser una opción muy interesante.
+En la OfiLibre pensamos que el software libre es una opción muy interesante en muchos casos, que en la actualidad tiene un enorme uso en la industria, y que puede traer muchos beneficios a la comunidad universitaria. Por ello nos proponemos explicar cómo cualquiera puede utilizarlo con ventaja en muchas situaciones, y cómo distribuir como software libre el que realizamos puede ser una opción muy interesante.
 
 Objetivos principales en este ámbito:
 
