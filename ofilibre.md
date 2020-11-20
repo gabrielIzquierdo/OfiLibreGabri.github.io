@@ -26,7 +26,7 @@ Puede que te interese ver una breve [Presentación de la Ofilibre](/presentacion
 La OfiLibre mantiene varios canales de información:
 
 * Web: [https://ofilibre.gitlab.io](https://ofilibre.gitlab.io)
-* Twitter: [@OfiLibreURJC](https://twitter/OfiLibreURJC)
+* Twitter: [@OfiLibreURJC](https://twitter.com/OfiLibreURJC)
 * Telegram: [Grupo OfiLibreURJC](https://t.me/ofilibreurjc)
 * Mastodon: [@OfiLibreURJC@floss.social](https://floss.social/@OfiLibreURJC)
 * Lista de correo lofilibre.info: [suscribirse](mailto:sympa@urjc.es?subject=SUB%20lofilibre.info)
