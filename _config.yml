@@ -60,6 +60,9 @@ collections:
     output: true
     permalink: /:collection/:name
     logo: "book.png"
+  catalogo:
+    output: true
+    permalink: /:collection/:name
 
 defaults:
   - scope:
@@ -77,6 +80,11 @@ defaults:
       type: "pres"
     values:
       layout: "pres"
+  - scope:
+      path: ""
+      type: "catalogo"
+    values:
+      layout: "catalogo"
 
 include:
   - .htaccess
