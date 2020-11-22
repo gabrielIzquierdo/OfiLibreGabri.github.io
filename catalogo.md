@@ -6,10 +6,9 @@ image:
   feature: logo-ofilibre-blanco.jpg
 ---
 
-
 <div class="tiles">
 {% for ficha in site.catalogo %}
-	{% include catalogo-grid.html %}
+   {% include catalogo-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->
 
+</div><!-- /.tiles -->
