@@ -1,5 +1,5 @@
 ---
-titulo: Fundamentos de Electrónica Digital
+title: Fundamentos de Electrónica Digital
 autores: Felipe Manchado Sánchez
 centro: ESCET
 titulaciones: Grado en Ingeniería de Tecnologías Industriales
@@ -7,7 +7,7 @@ enlace: https://www.youtube.com/playlist?list=PLSUmB2yTypWHDpU3QnX1kL3F9v-AWJ4L8
 licencia: Creative Commons Reconocimiento
 date: 2020-11-21
 publicado: GitHub
-descripcion: 22 videos con las explicaciones de varios temas de Electrónica Digital. Si los videos se basan en trasparencias tienen un enlace a las trasparencias disponibles en Zenodo.
+excerpt: 22 videos con las explicaciones de varios temas de Electrónica Digital. Si los videos se basan en trasparencias tienen un enlace a las trasparencias disponibles en Zenodo.
 ---
 
 
