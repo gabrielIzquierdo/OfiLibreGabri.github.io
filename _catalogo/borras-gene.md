@@ -10,6 +10,14 @@ publicado: SlideShare
 excerpt: Apuntes basados en el PMBOK, metodología en cascada/predictiva para la gestión y dirección de proyectos.
 ---
 
+## Enlaces a todos los materiales
+
+* [Tema 1 (2020-21)](https://www.slideshare.net/orioltic/tema-1-fundamentos-de-la-gestin-de-proyectos-202021-238867690)
+* [Tema 2 (2019-20)](https://www.slideshare.net/orioltic/tema-2-diagrama-de-actividades-176248944)
+* [Tema 3 (2019-20)](https://www.slideshare.net/orioltic/tema-2-pert-de-costes)
+* [Tema 4 (2019-20)](https://www.slideshare.net/orioltic/tema-4-planificacin-y-diagramas-de-gantt)
+* [Tema 1 (2019-20)](https://www.slideshare.net/orioltic/tema-1-fundamentos-de-la-gestin-de-proyectos-201920-170907689)
+
 ## Proceso
 
 * Uso PowerPoint y en algún caso Slides de Google Drive.
