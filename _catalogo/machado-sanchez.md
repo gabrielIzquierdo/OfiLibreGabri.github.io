@@ -1,6 +1,6 @@
 ---
 title: Fundamentos de Electrónica Digital
-autores: Felipe Manchado Sánchez
+autores: Felipe Machado Sánchez
 centro: ESCET
 titulaciones: Grado en Ingeniería de Tecnologías Industriales
 enlace: https://www.youtube.com/playlist?list=PLSUmB2yTypWHDpU3QnX1kL3F9v-AWJ4L8
