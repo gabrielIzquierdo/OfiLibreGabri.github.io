@@ -10,7 +10,7 @@ publicado: YouTube
 excerpt: Clases de repaso de los contenidos teóricos que se imparten en el modo presencial (Introducción a la Estadística, Estadística Descriptiva e Introducción a la Probabilidad)
 ---
 
-# Proceso
+## Proceso
 
 * Selección de materiales: El diseño del material se basa en los contenidos recogidos en las guías docentes de las asignaturas y se suele hacer referencia a los libros del recientemente fallecido Catedrático don Javier Martín-Pliego, que dio su consentimiento expreso para realizar estos vídeos. También se ha utilizado otro material con la CC, como por ejemplo, contenidos de Wikipedia. Todos los enlaces al material utilizado se encuentran en los propios vídeos.
 
