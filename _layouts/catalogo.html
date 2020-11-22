@@ -5,6 +5,11 @@ layout: default
 <div id="main" role="main">
   <div class="wrap">
     <article>
+      <div class="page-feature">
+	<div class="page-image">
+	  <img src="{{ site.url }}/images/{{ page.url | replace:'.html´,'.png' }}.png" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+	</div><!-- /.page-image -->
+      </div><!-- /.page-feature -->
       {% if page.image.feature %}
       <div class="page-feature">
 	<div class="page-image">
