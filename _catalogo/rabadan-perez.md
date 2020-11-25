@@ -4,7 +4,7 @@ autores: Francisco Rabadán Pérez
 centro: FCJS
 titulaciones: Grado en Economía, Grado en Administración y Dirección de Empresa
 enlace: https://www.youtube.com/watch?v=TRrbm07m0yw&list=PLiqyQxHITcwwtQpza8-sS-QtmZzdcyvrQ
-licencia: Creative Commons
+licencia: Atribución-CompartirIgual 4.0 Internacional
 date: 2020-11-21
 publicado: YouTube
 excerpt: Clases de repaso de los contenidos teóricos que se imparten en el modo presencial (Introducción a la Estadística, Estadística Descriptiva e Introducción a la Probabilidad)
