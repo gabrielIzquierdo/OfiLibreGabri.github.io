@@ -11,6 +11,8 @@ image:
   thumb: /logo-ofilibre.png
 ---
 
+<iframe src='https://tv.urjc.es/iframe/5fb81bcbd68b14ac6f8b4be2' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
+
 Las tecnologías [Docker](https://en.wikipedia.org/wiki/Docker_(software)) y [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) han cambiado la forma en la que empaquetamos, distribuimos y desplegamos las aplicaciones web y otros servicios de Internet. Descubre por qué toda la industria está apostando por estas tecnologías para gestionar sus aplicaciones en la nube y cómo puedes aprender a usarlas tú mismo. Después de una breve introducción pasaremos a ver cómo Kubernetes es usado en la industria para modernizar las aplicaciones y hacerlas más escalables y tolerantes a fallos.
 
 Tendremos dos presentaciones:
