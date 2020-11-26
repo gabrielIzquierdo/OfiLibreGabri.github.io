@@ -1,5 +1,5 @@
 ---
-title: RISC-V: Laboratorio de Arquitectura de Ordenadores
+title: "RISC-V: Laboratorio de Arquitectura de Ordenadores"
 autores: Juan González Gómez y Katia Leal Algara
 centro: ETSIT
 titulaciones: Grado en Ing. Tecnologías de Telecomunicación, Ing. Sistemas de Telecomunicación, Ing. Sistemas Audiovisuales y Multimedia, Ing. Telemática, Ing. Robótica Software
@@ -7,7 +7,7 @@ enlace: https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki
 licencia: Creative Commons Atribución-CompartirIgual
 date: 2020-11-26
 publicado: GitHub, YouTube
-excerpt: Curso orientado a comprender la estructura, funcionamiento y diseño de los computadores, así como su programación a nivel de sistemas, utilizando la arquitectura más moderna: RISC-V
+excerpt: "Curso orientado a comprender la estructura, funcionamiento y diseño de los computadores, así como su programación a nivel de sistemas, utilizando la arquitectura más moderna: RISC-V"
 ---
 
 El curso incluye 53 videos y 12 ejercicios, y es totalmente práctico. Para realizar el curso hace falta un ordenador (con cualquier sistema operativo) y el simulador RARs.

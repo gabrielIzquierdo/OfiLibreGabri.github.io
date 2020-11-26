@@ -13,10 +13,14 @@
   url: /pres
   excerpt: Presentaciones realizadas por la OfiLibre
 
-- title: Fichas
-  url: /fichas
-  excerpt: Fichas de programas y recursos libres
+- title: Catálogo
+  url: /catalogo
+  excerpt: Catálogo de materiales docentes de publicación abierta
 
 - title: Guías
   url: /guias
   excerpt: Guías de la OfiLibre
+
+- title: Fichas
+  url: /fichas
+  excerpt: Fichas de programas y recursos libres
