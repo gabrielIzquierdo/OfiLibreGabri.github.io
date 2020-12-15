@@ -1,0 +1,31 @@
+---
+layout: article
+title: "Seminarios OfiLibre. Mis trabajos y las obras libres: una buena pareja"
+modified:
+categories: blog
+excerpt: "El que una obra esté disponible en Internet no significa necesariamente que su autor te haya dado permiso para usarla en tus trabajos. Afortunadamente, hay un tipo de obras para las que el autor sí me ha dado permiso, y puedo reutlizarlas sin problemas: son las obras libres."
+tags: []
+image:
+  feature: /blog/trabajos-obras-libres/screenshot.png
+  teaser: /blog/trabajos-obras-libres/cabecera-square.png
+  thumb: /blog/trabajos-obras-libres/cabecera-square.png
+---
+
+
+Cuando haces un trabajo para tus estudios (un ensayo en el que quieres incluir unas fotos, un video en el que te iría bien algún material gráfico, o una música de fondo, una presentación en la que quieres incluir algún gráfico), ahorras mucho tiempo si reutlizas materiales que encuentras en Internet. Sin embargo, el que una obra esté disponible en Internet no significa necesariamente que su autor te haya dado permiso para usarla en tus trabajos. Afortunadamente, hay un tipo de obras para las que el autor sí me ha dado permiso, y puedo reutlizarlas sin problemas: son las obras libres.
+
+En este seminario vemos qué son estas obras libres, cómo reconocerlas, y cómo encontrar obras de diversos tipos que sean libres. También hablamos sobre cómo hacer que tus propias obras sean libres, y qué implicaciones (positivas y negativas) puede tener para ti.
+
+Entre otros temas, tratamos los siguientes:
+
+* Copiar, reutilizar, no es (necesariaente) malo
+* ¿Qué son las obras libres?
+* ¿Puedo utilizar una obra libre en mis trabajos?
+* Las licencias libres principales
+* Localizacion de obras libres: imágenes
+* Localizacion de obras libres: audio
+* Localizacion de obras libres: videos
+* Localizacion de obras libres: otros elementos
+* Cómo hacer que mi obra sea libre (y qué gano con ello)
+
+Transparencias utilizadas: [PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.pdf), [ODP (para LibreOffice)](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.odp)
