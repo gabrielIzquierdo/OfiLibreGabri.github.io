@@ -11,6 +11,7 @@ image:
   thumb: /blog/trabajos-obras-libres/cabecera-square.png
 ---
 
+<iframe src='https://tv.urjc.es/iframe/5fda6c44d68b140e468b4ce3' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
 
 Cuando haces un trabajo para tus estudios (un ensayo en el que quieres incluir unas fotos, un video en el que te iría bien algún material gráfico, o una música de fondo, una presentación en la que quieres incluir algún gráfico), ahorras mucho tiempo si reutlizas materiales que encuentras en Internet. Sin embargo, el que una obra esté disponible en Internet no significa necesariamente que su autor te haya dado permiso para usarla en tus trabajos. Afortunadamente, hay un tipo de obras para las que el autor sí me ha dado permiso, y puedo reutlizarlas sin problemas: son las obras libres.
 
@@ -28,4 +29,7 @@ Entre otros temas, tratamos los siguientes:
 * Localizacion de obras libres: otros elementos
 * Cómo hacer que mi obra sea libre (y qué gano con ello)
 
-Transparencias utilizadas: [PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.pdf), [ODP (para LibreOffice)](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.odp)
+Materiales relacionados:
+
+* Transparencias utilizadas: [PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.pdf), [ODP (para LibreOffice)](/transpas/trabajos-obras-libres/Trabajos_Obras_libres.odp)
+* [Video en URJC TV](https://tv.urjc.es/video/5fda6c44d68b140e468b4ce3)
