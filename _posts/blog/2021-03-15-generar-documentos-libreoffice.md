@@ -1,10 +1,9 @@
 ---
 layout: article
-date: "2021-04-01"
-title: "Generar documentos automáticamente con LibreOffice"
+title: "Cómo generar documentos mediante plantilla con LibreOffice"
 modified:
 categories: blog
-excerpt: "En ocasiones, podemos necesitar escribir un documento genérico para enviar a personas distintas, como una carta, mail o certificado, en el que cambien algunos datos. Desde la OfiLibre os mostramos cómo automatizar este proceso utilizando la herramienta Mail Merge de LibreOffice Writer."
+excerpt: "Tutorial para crear un documento genérico, como una carta, mail o certificado, en el que cambien los datos personales. Explicamos cómo automatizar este proceso utilizando la herramienta Mail Merge de LibreOffice Writer."
 tags: []
 image:
   feature: /blog/generar-documentos-libreoffice/libreoffice-banner.jpg
@@ -14,7 +13,7 @@ image:
 
 En ocasiones, podemos necesitar escribir un documento genérico para enviar a personas distintas, como una carta, mail o certificado. Tal vez queremos que el documento solo cambie en algunos puntos con datos personales, como puede ser el nombre o la dirección de cada persona. Por simplificar, a menudo se opta por hacer esto manualmente, rellenándolos uno a uno; pero esto supone invertir mucho tiempo si la lista de destinatarios es muy grande. Desde la OfiLibre os queremos mostrar cómo automatizar este proceso utilizando la herramienta [Mail Merge](https://documentation.libreoffice.org/assets/Uploads/Documentation/en/WG4.2/PDF/WG4211-UsingMailMerge.pdf) de LibreOffice Writer. 
 
-[LibreOffice](https://es.libreoffice.org) es un completo paquete ofimático que se distribuye como software libre. Tiene las herrameientas habituales en cualquier otro paquete ofimático. Cuenta con un procesador de textos (Writer), hojas de cálculo (Calc), editor de presentaciones (Impress), una aplicación de dibujo y diagramas de flujo (Draw), una interfaz para bases de datos (Base) y un editor de fórmulas matemáticas (Math). Es compatible con múltiples formatos de documento, incluidos los de Microsoft Word y Excel.
+[LibreOffice](https://es.libreoffice.org) es un completo paquete ofimático que se distribuye como software libre. Tiene las herramientas habituales en otros paquetes ofimáticos, como un procesador de textos (Writer), hojas de cálculo (Calc), editor de presentaciones (Impress), una aplicación de dibujo y diagramas de flujo (Draw), una interfaz para bases de datos (Base) y un editor de fórmulas matemáticas (Math). Es compatible con múltiples formatos de documento, incluidos los de Microsoft Word y Excel, y con los principales sistemas operativos: Windows, Linux y macOS.
 
 [Aquí podéis descargar LibreOffice de forma completamente gratuita.](https://es.libreoffice.org/descarga/libreoffice/)
 
@@ -22,7 +21,7 @@ En ocasiones, podemos necesitar escribir un documento genérico para enviar a pe
 ## El proceso
 
 Para explicar cómo automatizar la creación de documentos, vamos a poner un ejemplo paso a paso. 
-A continuación os mostramos cómo generamos una serie de certificados en la OfiLibre, empleando dos programas: [LibreOffice Calc](https://es.libreoffice.org/descubre/calc/), y [LibreOffice Writer](https://es.libreoffice.org/descubre/writer).
+A continuación os mostramos cómo generamos una serie de certificados en la OfiLibre, empleando dos programas: [LibreOffice Calc](https://es.libreoffice.org/descubre/calc/), y [LibreOffice Writer](https://es.libreoffice.org/descubre/writer). También será necesario tener instalado [LibreOffice Base](https://es.libreoffice.org/descubre/base/), la interfaz de bases de datos, para gestionar la interconexión entre ambos.
 
 - **El primer paso es guardar todos los datos personales en un documento CSV**. Esto se puede hacer manualmente, escribiendo una hoja de cálculo con la aplicación Calc. También se puede utilizar una base de datos ya existente u otras maneras de automatizar la recolección de datos. En la OfiLibre empleamos [un script de Python](https://gitlab.etsit.urjc.es/ofilibre/code/-/blob/master/parse_catalog/parse_catalog.py) que extrae esta información de una serie de fichas YAML contenidas dentro de documentos Markdown.
 
@@ -40,7 +39,7 @@ A continuación os mostramos cómo generamos una serie de certificados en la Ofi
 
 - A continuación, vamos a **escribir el modelo del documento en Writer**. Escribimos el texto genérico de la carta o certificado, dejando un par de espacios donde vayamos a insertar los nombres personales y otros atributos. Podemos insertar imágenes y dar formato, como de costumbre en cualquier documento.
 
-- Para **importar el fichero CSV**, seleccionamos en Writer el menú *Archivo > Asistentes > Origen de datos de direcciones* y seguimos los pasos del asistente. Como veremos, también podemos usar este asistente para importar datos desde una multitud de fuentes distintas. Seleccionamos *Otro origen de datos externo*, avanzamos y abrimos *Configuración*. Seleccionamos que la fuente es una *Hoja de cálculo*, buscamos la ruta de nuestro fichero .csv ya creado, y probamos la conexión. Al tratarse de una hoja de cálculo, no será necesario asignar los campos.
+- Para **importar el fichero CSV**, seleccionamos en Writer el menú *Archivo > Asistentes > Origen de datos de direcciones* y seguimos los pasos del asistente. Si no te aparece esta opción en Writer, es posible que no tengas instalado Base. Es necesario para que Writer pueda importar bases de datos. Como veremos, podemos usar este asistente para importar datos desde una multitud de fuentes distintas. Seleccionamos *Otro origen de datos externo*, avanzamos y abrimos *Configuración*. Seleccionamos que la fuente es una *Hoja de cálculo*, buscamos la ruta de nuestro fichero .csv ya creado, y probamos la conexión. Al tratarse de una hoja de cálculo, no será necesario asignar los campos.
 
 - Para **ver las tablas de origen** ya en Writer, vamos a **Ver > Orígenes de datos**. Aparecerá un recuadro debajo de la barra de herramientas, que permite buscar nuestra tabla.
 
