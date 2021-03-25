@@ -48,4 +48,3 @@ Finalmente, otra opción es la web [BlenderMarket](https://blendermarket.com/), 
 ____________________________
 
 Imagen del banner: [Felix 3D Printer, de Jonathan Juursema. Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Felix_3D_Printer_-_Printing_Head.JPG)
-Imagen del banner: [Felix 3D Printer, de Jonathan Juursema. Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Felix_3D_Printer_-_Printing_Head.JPG)
