@@ -25,7 +25,7 @@ Este proyecto surgió en 2009 de la mano de [WFMU](https://wfmu.org/), [KBOO](ht
 
 Los archivos ya existentes se trasladaron a [TheInternetArchive](https://archive.org/). Es una biblioteca digital que aboga por el acceso universal al conocimiento en Internet, y que aloja todo tipo de ficheros: copias de páginas web, software, música, libros...  
 
-![The Internet Archive logo](../../images/blog/free-music-archive/Internet_Archive_logo_and_wordmark.svg.png))
+![The Internet Archive logo](../../images/blog/free-music-archive/Internet_Archive_logo_and_wordmark.svg.png)
 
 En 2019 el proyecto [FMA fue adquirido](https://www.prweb.com/releases/global_music_community_tribe_of_noise_acquires_free_music_archive/prweb16583352.htm) por [TribeofNoise](https://www.tribeofnoise.com/), una red social destinada a músicos que comparten su música. Esta red añadió las canciones de FMA a su propio catálogo libre, expandiendo así la colección.
 
