@@ -37,7 +37,7 @@ En mayo de 2020 Tribe of Noise [recibió el premio "Grant for the Web"](https://
 
 Algunas canciones publicadas en Tribe of Noise están limitadas al ámbito Non Commercial. Esto quiere decir que se pueden usar libremente siempre que no sea un proyecto remunerado. Para poder usar estas canciones con ese fin, TribeOfNoise también mantiene una [tienda](https://prosearch.tribeofnoise.com/search/index) que permite a los artistas poner un precio para el uso de sus canciones en proyectos audiovisuales comerciales. 
 
-![Captura Tribe of Noise PRO](../images/blog/free-music-archive/captura02.png)
+![Captura Tribe of Noise PRO](../../images/blog/free-music-archive/captura02.png)
 
 ### Enlaces de interés
 
