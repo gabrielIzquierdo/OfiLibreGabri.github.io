@@ -34,6 +34,8 @@ date: 2021-04-20
 ---
 
 [Open Broadcaster Software (OBS)](https://es.wikipedia.org/wiki/Open_Broadcaster_Software) es una aplicación libre y de código abierto para grabación de vídeo y transmisión en vivo por internet.
+
 Permite la captura y mezcla de fuentes de video y audio en tiempo real, composición de escena, transiciones entre escenas, codificación, grabación y retransmisión.
+
 Soporta el protocolo RTMP para permitir la transmisión de datos, con presets para distintas plataformas de streaming como Youtube, Twitch, Hitbox o DailyMotion. Cuenta con paneles simplificados para configurar la interfaz a cada tipo de grabación, y con un amplio soporte de filtros para utilizar en la edición y montaje de vídeos.
 
