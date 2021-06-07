@@ -7,8 +7,8 @@ excerpt: "Una iniciativa para compartir el conocimiento libre, en colaboración 
 tags: []
 image:
     feature: /blog/el-concilio-de-lo-libre/concilio-banner.jpg
-    teaser: /blog/el-concilio-de-lo-libre/concilio-square.jpg
-    thumb: /blog/el-concilio-de-lo-libre/concilio-square.jpg
+    teaser: /blog/el-concilio-de-lo-libre/concilio-square.png
+    thumb: /blog/el-concilio-de-lo-libre/concilio-square.png
 ---
 
 "Compartir el conocimiento es la clave de una sociedad libre y justa."
