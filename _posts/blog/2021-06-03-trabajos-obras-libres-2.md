@@ -29,4 +29,6 @@ Recursos:
 
 * La actividad tendrá lugar mediante [videoconferencia](https://bbb.educar.encanarias.info/b/jes-i3l-d6m-2rr). Para acceder basta un navegador web (Firefox, Chrome...).
 
+* Carteles: formato horizontal ([PDF](/transpas/trabajos-obras-libres/cartel_obras_libres_horizontal.pdf), [documento fuente para LibreOffice](/transpas/trabajos-obras-libres/cartel_obras_libres_horizontal.odg)), formato vertical ([PDF](/transpas/trabajos-obras-libres/cartel_obras_libres_vertical.pdf), [documento fuente para LibreOffice](/transpas/trabajos-obras-libres/cartel_obras_libres_vertical.odg))
+
 Este es un mini-taller, realizado en el contexto de El Concilio de lo Libre, en el que participan la [Oficina de Software Libre](https://osl.ugr.es/) de la [Universidad de Granada](https://ugr.es/), la [Oficina de Software Libre](https://www.ucm.es/oficina-de-software-libre/) de la [Universidad Complutense de Madrid](https://ucm.es), y la [OfiLibre](https://ofilibre.gitlab.io) de la [Universidad Rey Juan Carlos](https://urjc.es).
