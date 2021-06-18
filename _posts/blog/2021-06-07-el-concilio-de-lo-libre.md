@@ -56,6 +56,15 @@ En esta charla podrás aprender a optimizar la redacción de tu material docente
 
 Impartida por [David Pacios Izquierdo](https://twitter.com/Semi_ingenieros).
 
+#### Charla: Carteles con LibreOffice
+- Fecha: 18 de junio 2021 a las 12:00h. 
+- [Enlace a la charla](https://jitsi.ugr.es/charla-carteles-con-libreoffice-2021-06-21).
+
+![Cartel Charla diseño con LibreOffice](../../images/blog/el-concilio-de-lo-libre/cartel-charla4.jpg)
+
+En esta charla se explicará como crear carteles de manera muy simple usando LibreOffice. 
+
+Impartida por Juan Sánchez Rodríguez.
 
 _______________________
 
