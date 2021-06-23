@@ -3,7 +3,7 @@ layout: article
 title: "Acuerdo transformativo con editorial Wiley para la publicación en abierto"
 modified:
 categories: blog
-draft: true
+draft: false
 excerpt: "La Universidad Rey Juan Carlos firma con la editorial Wiley la licencia para el acceso a sus artículos, y la publicación en abierto en sus revistas."
 tags: []
 image:
@@ -12,9 +12,9 @@ image:
     thumb: /blog/acuerdo-editorial-wiley/acuerdo-square.png
 ---
 
-Según ha informado el Vicerrectorado de Extensión Universitaria, la URJC ha firmado una nueva licencia con la editorial Wiley, que permitirá leer y publicar en abierto los artículos de autores de la URJC.
+Según ha informado el Vicerrectorado de Extensión Universitaria, la URJC ha firmado un nuevo acuerdo con la editorial Wiley, que permitirá leer y publicar en abierto los artículos de autores de la URJC.
 
-Este acuerdo forma parte de una serie de Acuerdos Transformativos alcanzados por la [CRUE](crue.org) y el [CSIC](https://www.csic.es/) con cuatro grandes editoriales científicas ([ACS](https://pubs.acs.org/page/4authors/editorial-offices.html), [Elsevier](https://www.elsevier.com/es-es), [Springer](https://www.springer.com/gp), [Wiley](https://www.wiley.com/en-es)) con el objetivo de fomentar un nuevo entorno de Ciencia Abierta en España. Pretende sustituir el modelo actual de "pagar por leer", por un modelo de "pagar por leer y publicar en acceso abierto".
+Este acuerdo forma parte de una serie de "acuerdos transformativos" alcanzados por la [CRUE](crue.org) y el [CSIC](https://www.csic.es/) con cuatro grandes editoriales científicas ([ACS](https://pubs.acs.org/page/4authors/editorial-offices.html), [Elsevier](https://www.elsevier.com/es-es), [Springer](https://www.springer.com/gp), [Wiley](https://www.wiley.com/en-es)) con el objetivo de fomentar un nuevo entorno de Ciencia Abierta en España. Pretende sustituir el modelo actual de "pagar por leer", por un modelo de "pagar por leer y publicar en acceso abierto".
 
 La vigencia de la anterior licencia finalizaba el día 31 de diciembre de 2020. La nueva licencia con Wiley se firmó por parte de la URJC el día 28 de abril de 2021, y en breve también se cerrarán los acuerdos con Elsevier, Springer y ACS.
 
@@ -26,15 +26,15 @@ La suscripción de la URJC para 2021 a la plataforma de revistas de la Editorial
     
    • El resto del importe de la licencia (70%) se destina a financiar la publicación en abierto en las revistas híbridas de Wiley ([listado de títulos revistas híbridas](https://www.urjc.es/images/Biblioteca/Servicios/AccesoAbierto/LIST_only_hybrid_titles_2021.xlsx)) de los artículos de los autores de la Universidad Rey Juan Carlos, ajustándose a los siguientes criterios:
     
-   1. Del editor Wiley:
+   1. Por parte del editor Wiley:
        
-        a) Se financiarán aquellos artículos aprobados para su publicación entre el día 1 de enero y el 31 de diciembre de 2021.
-        b) La identificación de la filiación del autor ha de corresponder a la Universidad Rey Juan Carlos. El autor tiene que seleccionar en la lista estandarizada de instituciones de la plataforma de [Author Services de Wiley](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/affiliation-policies-payments/crue-csic-agreement.html) la correspondiente a la Universidad Rey Juan Carlos cuando envía el artículo para su publicación.
-        c) Los artículos han de publicarse siempre bajo una [licencia Creative Commons](https://creativecommons.org/licenses/?lang=es_ES). Se puede ver la descripción del procedimiento con más detalle en la Plataforma Autor Services de Wiley en el apartado [Open access agreement for Spanish authors](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/affiliation-policies-payments/crue-csic-agreement.html).
-        d) Una vez aprobado el artículo para su publicación, el personal de la biblioteca encargado de gestionar los Acuerdos Transformativos con las editoriales, tiene que aprobar o rechazar la financiación de dicho artículo con cargo al crédito disponible para la financiación de la publicación en abierto, verificando previamente si la filiación del autor corresponde a la Universidad Rey Juan Carlos.
-        e) La aprobación o rechazo se notificará automáticamente al autor.
+       - Se financiarán aquellos artículos aprobados para su publicación entre el día 1 de enero y el 31 de diciembre de 2021.
+       - La identificación de la filiación del autor ha de corresponder a la Universidad Rey Juan Carlos. El autor tiene que seleccionar en la lista estandarizada de instituciones de la plataforma de [Author Services de Wiley](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/affiliation-policies-payments/crue-csic-agreement.html) la correspondiente a la Universidad Rey Juan Carlos cuando envía el artículo para su publicación.
+       - Los artículos han de publicarse siempre bajo una [licencia Creative Commons](https://creativecommons.org/licenses/?lang=es_ES). Se puede ver la descripción del procedimiento con más detalle en la Plataforma Autor Services de Wiley en el apartado [Open access agreement for Spanish authors](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/affiliation-policies-payments/crue-csic-agreement.html).
+       - Una vez aprobado el artículo para su publicación, el personal de la biblioteca encargado de gestionar los Acuerdos Transformativos con las editoriales, tiene que aprobar o rechazar la financiación de dicho artículo con cargo al crédito disponible para la financiación de la publicación en abierto, verificando previamente si la filiación del autor corresponde a la Universidad Rey Juan Carlos.
+       - La aprobación o rechazo se notificará automáticamente al autor.
     
-2. De la URJC:
+2. Por parte de la URJC:
 
     La aprobación de la financiación de la publicación en abierto se realizará teniendo en cuenta criterios establecidos por el Consejo de Dirección de la universidad:
     - Debe constar obligatoriamente la filiación a la URJC y el mail de correspondencia debe ser la cuenta corporativa.
