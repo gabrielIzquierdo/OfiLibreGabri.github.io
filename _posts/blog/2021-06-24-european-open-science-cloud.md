@@ -22,7 +22,7 @@ La Asociación EOSC se estableció como una entidad legal el 29 de julio de 2020
 La Universidad Rey Juan Carlos participa como observador en este organismo.
 
 La [Comisión Europea](https://europa.eu/european-union/about-eu/institutions-bodies/european-commission_es) financia a la EOSC a través de proyectos pertenecientes al programa [Horizon Europe](https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en). A continuación, se pueden ver los proyectos que contribuyen al desarrollo de la EOSC:
-![Proyectos Europeos EOSC](../../images/blog/european-open-source-cloud/proyectos.png)
+![Proyectos Europeos EOSC](../../images/blog/european-open-science-cloud/proyectos.png)
 ____________________________________________________
 
 ### Enlaces de interés 
