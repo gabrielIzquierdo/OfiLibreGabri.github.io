@@ -17,7 +17,7 @@ La EOSC es una federación de varios servicios cloud abiertos, pensada para dar 
 
 Las infraestructuras de datos ya existentes se agruparán en una sola, la European Research Data Commons, donde los datos serán de acceso abierto y [FAIR](https://www.nature.com/articles/sdata201618) (Findable, Accesible, Interoperable and Reusable). Así, se pretende superar las fronteras entre estados y mejorar la colaboración entre disciplinas científicas.
 
-La Asociación EOSC se estableció como una entidad legal el 29 de julio de 2020 con el [CSIC](https://www.csic.es/) como uno de sus miembros fundadores. Ayer, 23 de junio de 2021, tuvo lugar la firma del "Memorandum of Understanding", ceremonia en la que este organismo se constituyó formalmente.
+La Asociación EOSC se estableció como una entidad legal el 29 de julio de 2020 con el [CSIC](https://www.csic.es/) como uno de sus miembros fundadores. El 23 de junio de 2021 tuvo lugar la firma del "Memorandum of Understanding", ceremonia en la que este organismo se constituyó formalmente.
 
 La Universidad Rey Juan Carlos participa como observador en este organismo.
 
