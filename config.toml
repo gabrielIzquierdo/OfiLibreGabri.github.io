@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://cepalomares.gitlab.io/web-hugo/"
+baseURL = "https://ofilibre.gitlab.io"
 title = "OfiLibre URJC"
 subtitle = "Oficina de Conocimiento y Cultura Libres URJC"
 theme = "educenter-hugo"
