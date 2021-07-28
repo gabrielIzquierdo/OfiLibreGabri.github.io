@@ -1,17 +1,11 @@
-# Skinny Bones Jekyll Starter
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+# Configuración sitio web Hugo
+El principal fichero de configuración es [config.toml](https://gitlab.com/cepalomares/web-hugo/-/blob/master/config.toml).
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+# Cómo reproducir la web en local
 
----
-
-## Notable Features
-
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+- Instalar Hugo-extended (es necesaria la versión extended porque se usa CSS)
+- Abrir un terminal en el directorio raíz del repositorio, donde se encuentra el fichero config.toml.
+- Lanzar el comando `hugo serve`.
+- La web aparece en la dirección `http://localhost:1313/web-hugo/".

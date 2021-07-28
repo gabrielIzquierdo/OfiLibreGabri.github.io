@@ -1,0 +1,162 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/catalogo-banner.png"
+  slider_item:
+    # slider item loop
+    - title : "EsLibre 2021"
+      content : "Un encuentro de personas interesadas en las tecnologías y cultura libres, enfocado a compartir conocimiento y experiencia alrededor de las mismas. Congreso organizado por LibreLabUCM, en colaboración con la OfiLibre URJC. Las charlas estarán disponibles en diferido."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Leer más"
+        link : "blog/eslibre-2021/"
+  
+    # slider item loop
+    - title : "El Concilio de lo Libre"
+      content : "“Compartir el conocimiento es la clave de una sociedad libre y justa.” Actividades gratuitas sobre conocimiento y cultura libres. En colaboración con las oficinas de software libre de la Universidad de Granada y la Universidad Complutense."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Leer más"
+        link : "blog/el-concilio-de-lo-libre/"
+
+    # slider item loop
+    - title : "Catálogo de recursos educativos abiertos"
+      content : "Este catálogo incluye materiales docentes de acceso abierto producidos por personal de la URJC."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Ver recursos"
+        link : "catalogo"
+        
+    # slider item loop
+    - title : "Guías de la OfiLibre"
+      content : "Guías y tutoriales realizados en la OfiLibre."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Ver guías"
+        link : "guias"
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Últimos artículos del blog"
+  # blog item comes from "content/**/blog" folder.
+
+############################# blog ################################
+fichas:
+  enable : true
+  title : "Fichas software libre"
+  # fichas item comes from "content/**/fichas" folder.
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/backgrounds/open-access-round.png"
+  feature_item:
+    # feature item loop
+    - name : "Catálogo de materiales docentes libres"
+      icon : "ti-world"
+      content : "Este catálogo incluye materiales docentes de acceso abierto producidos por personal de la URJC. Puedes incluir tus propios trabajos publicados en abierto."
+      link : "catalogo"
+    
+      # feature item loop
+    - name : "Presentaciones"
+      icon : "ti-blackboard"
+      content : "Diapositivas de las charlas y talleres que hemos realizado anteriormente en la OfiLibre."
+      link : "pres"
+
+    # feature item loop
+    - name : "Fichas"
+      icon : "ti-write"
+      content : "Fichas de software y recursos libres. Información sobre los programas y tutoriales para empezar a usarlos."
+      link : "fichas"
+
+    # feature item loop
+    - name : "Guías"
+      icon : "ti-paint-roller"
+      content : "Guías y tutoriales realizados en la OfiLibre."
+      link : "guias"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "Sobre la OfiLibre"
+  image : "images/about/presentacion.png"
+  content : "En la OfiLibre queremos ayudar a la comunidad universitaria a comprender la cultura libre, la publicación libre, los datos abiertos y el software libre. Para ello nos dedicamos a explicar qué son, cómo funcionan, qué características tienen, y qué beneficios pueden producir, de forma que cualquiera pueda decidir cómo le conviene relacionarse con ellos."
+  button:
+    enable : true
+    label : "Saber más"
+    link : "ofilibre"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/video-presentacion-miniatura.jpg"
+  title : "La OfiLibre en dos minutos"
+  content : "Breve presentación en video de los objetivos de la Oficina de Conocimiento y Cultura Libre."
+            
+  # video link
+  video_link : "https://tv.urjc.es/iframe/5d022dedd68b14cb308b6ae5"
+
+
+############################# Course ################################
+course:
+  enable : false
+  title : "Nuestros talleres"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : false
+  subtitle : "Haz clic aquí para inscribirte al taller"
+  title : "Proximo taller"
+  button:
+    enable : true
+    label : "Inscribirme"
+    link : "contact"
+
+
+
+############################# event ################################
+event:
+  enable : false
+  title : "Próximos eventos"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : false
+  funfact_item:
+    
+    # funfact item loop
+    - name : "CATÁLOGO LIBRE"
+      count : "8"
+
+    # funfact item loop
+    - name : "FICHAS SOFTWARE"
+      count : "28"
+
+    # funfact item loop
+    - name : "GUÍAS"
+      count : "5"
+
+    # funfact item loop
+    - name : "PRESENTACIONES"
+      count : "5"
+
+# funfact is for about page

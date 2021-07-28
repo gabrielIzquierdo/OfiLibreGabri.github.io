@@ -1,0 +1,20 @@
+// Color Variables
+$primary-color: #cb0017;
+$secondary-color: #111111; // Esto tal vez haya que cambiarlo a negro del todo #000000
+$text-color: #777777;
+$text-color-light: #a4a4a4;
+$text-color-dark: #191927; 
+$body-color: #fff;		   
+$border-color: #f1eded;
+$black: #000;
+$white: #fff;
+$light: #fef8f9;
+$gray: #f8f8f8;
+
+$primary-color-darker: darken($color: $primary-color, $amount: 10);
+
+// Font Variables
+$primary-font: 'Poppins', sans-serif;
+$secondary-font: 'futura-bold';
+$icon-font: 'themify';
+$icon-font-2: 'font-awesome';

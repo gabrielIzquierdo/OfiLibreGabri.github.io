@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<!-- catalogo single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ .Title }}</h2>
+      </div>
+      <!-- page image -->
+      <div class="col-12 mb-4"><a href="{{ .Params.enlace }}">
+        <img style="height: 500px;width: 100%;object-fit: contain;" src="{{.Site.BaseURL}}/images/catalogo/{{.File.TranslationBaseName}}.png" alt="{{ .Title }}" class="img-fluid w-100">
+      </a></div>
+    </div>
+
+    <!-- page description -->
+    <div class="row">
+      <div class="col-12 mb-50 description">
+        <h3>Descripción:</h3>
+        <p>{{ .Description }}</p>
+        <ul>
+          <li>Autor(es): {{ .Params.autores }}</li>
+          <li>Centro: {{ .Params.centro }}</li>
+          <li>Titulación(es): {{ .Params.titulaciones }}</li>
+          <li>Licencia: {{ .Params.licencia }}</li>
+          <li><a href="{{ .Params.enlace }}">Enlace a los materiales</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- page content -->
+    <div class="row">
+      <div class="col-12 mb-50 content">
+        {{ .Content }}
+      </div>
+    </div>
+    
+
+  </div>
+</section>
+<!-- /catalogo single -->
+
+{{ end }}
+
+

@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<!-- guias -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      {{ range .Data.Pages}}
+      <!-- guias item -->
+      <div class="col-lg-3 col-sm-6 mb-4">
+        {{ .Render "guias" }}</div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /guias -->
+
+{{ end }}

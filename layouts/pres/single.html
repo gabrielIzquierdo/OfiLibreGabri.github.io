@@ -1,0 +1,65 @@
+{{ define "main" }}
+
+{{ $dir := (.File.TranslationBaseName | lower) }}
+{{ $transpas := "#transpas" }}
+{{ with .Params.transpas.pdf }}
+  {{ $transpas = . }}
+{{ else }}
+  {{ with .Params.transpas.odp }}
+    {{ $transpas = . }}
+  {{ end }}
+{{ end }}
+
+
+<!-- presentacion single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">Presentación: {{ .Title }}</h2>
+      </div>
+
+      <!-- presentacion image -->
+      {{ with .Params.feature}}
+        <div class="col-12 mb-4">
+          <a href="{{$.Site.BaseURL}}transpas/{{$dir}}/{{$transpas}}">
+            <img style="height: 500px;width: 100%;object-fit: cover; border: 2px solid #888" src="{{$.Site.BaseURL}}transpas/{{ $dir }}/{{.}}" alt="{{ $.Title }}" class="img-fluid w-100">
+          </a>
+        </div>
+      {{ end }}
+    </div>
+
+    <!-- presentacion details -->
+    <br>
+    <div class="row">
+      <div class="col-12 mb-50 content">
+        <h3> Descripción </h3>
+        {{ .Content }}
+
+        {{ with .Params.transpas }}
+        <hr><h3> Descarga </h3>
+          <p>La presentación está disponible en los siguientes formatos:</p>
+          <ul>
+            {{ range . }}
+              {{ $format := index (split . ".") 1 }}
+              <li><a href="{{$.Site.BaseURL}}transpas/{{$dir}}/{{ . }}">Presentación formato {{ $format | upper }}</a></li>
+            {{ end }}
+          </ul>       
+        {{ end }}
+
+        {{ with .Params.extras}}
+        <hr><h3> Más información </h3>
+        <ul>
+          {{ range . }}
+            <li><a href="{{ .url }}">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- /presentacion single -->
+
+{{ end }}

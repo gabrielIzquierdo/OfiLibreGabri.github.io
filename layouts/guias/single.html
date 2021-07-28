@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ .Title }}</h2>
+      </div>
+      <!-- if it has feature image -->
+      {{ with .Param "feature" }}
+      <div class="col-12 mb-4">
+        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{$.Site.BaseURL}}images/guias/{{.}}" alt="{{ $.Title }}" class="img-fluid w-100"> 
+      </div>
+      {{ end }}
+      
+    </div>
+    <!-- research details -->
+    <div class="row">
+      <div class="col-12 mb-50 content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /event single -->
+
+{{ end }}

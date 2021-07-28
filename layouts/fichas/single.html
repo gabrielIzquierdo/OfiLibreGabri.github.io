@@ -1,0 +1,90 @@
+{{ define "main" }}
+{{ $dir := ( .File.TranslationBaseName | lower ) }}
+
+
+<!-- fichas single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12" >
+        <h2 class="section-title">{{ .Title }}</h2>
+      </div>
+	</div>
+
+    <!-- images ficha -->
+	<div class="row">
+      <div class="col-3 mb-4" style="margin-left: auto; margin-right: auto;">
+        <img style="height: 100%; width: 100%; text-align: center; object-fit: scale-down;" src="{{$.Site.BaseURL}}images/fichas/{{$dir}}/logo.png" alt="{{ $.Title }} logo" class="img-fluid w-100">
+      </div>
+    </div>
+    {{ with .Params.feature }}
+		<div class="col-12 mb-4">
+        	<img style="height: 500px;width: 100%;object-fit: contain;" src="{{$.Site.BaseURL}}images/fichas/{{$dir}}/{{.}}" alt="{{ $.Title }}" class="img-fluid w-100">
+     	</div>
+	{{ end }}
+
+	<!-- fichas content -->
+    <div class="row">
+		<div class="col-12 mb-50 content">
+		  	{{ .Content }}
+			<ul>
+				<li>Licencias:
+				{{ range .Params.licenses }}
+				 <a href="{{ .url }}">{{ .name }}</a>
+				{{ end }}
+				</li>
+
+				<li><a href="{{ .Params.website }}">Sitio web</a></li>
+				{{ with .Params.website_es }}
+					<li><a href="{{ . }}">Sitio web (español)</a></li>
+				{{ end }}
+
+				{{ range .Params.installs }}
+					<li>Guía de instalación: <a href="{{ .url }}">{{ .name }}</a>
+						{{ with .kind }}
+							({{ . }})
+						{{ end }}
+					</li>
+				{{ end }}
+
+				{{ range .Params.tutorials }}
+					<li>Tutorial: <a href="{{ .url }}">{{ .name }}</a>
+						{{ with .kind }}
+							({{ . }})
+						{{ end }}
+					</li>
+				{{ end }}
+
+				<li><a href="{{ .Params.source }}">Código fuente</a></li>
+
+				{{ range .Params.others }}
+					<li>Enlace adicional: <a href="{{ .url }}">{{ .name }}</a>
+						{{ with .kind }}
+							({{ . }})
+						{{ end }}
+					</li>
+				{{ end }}
+
+				{{ if .Params.myapps }}
+					<li>Disponible en <a href="https://myapps.urjc.es/">MyApps URJC</a></li>
+				{{ end }}
+
+				<li>Última actualización: {{ .Params.date }}</li>
+
+			</ul>
+
+		</div>
+
+
+
+
+
+	</div>
+				
+  </div>
+</section>
+<!-- /fichas single -->
+
+{{ end }}
+
+

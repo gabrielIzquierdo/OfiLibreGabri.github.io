@@ -1,7 +1,0 @@
-<article class="tile" itemscope itemtype="http://schema.org/Article">
-  <a href="{{ site.url }}{{ ficha.url }}" title="{{ ficha.title }}" class="post-teaser">{% if ficha.logo %}<img src="../images/fichas/{{ ficha.title | slugify }}/{{ ficha.logo }}" alt="{{ ficha.title }} logo" itemprop="image">
-    {% else %}<img src="{{ site.url }}/images/catalogo/logo.png" alt="teaser" itemprop="image">{% endif %}</a>
-  {% if ficha.date %}<p class="entry-date date published"><time datetime="{{ ficha.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ ficha.date | date: "%B %d, %Y" }}</time></p>{% endif %}
-  <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ ficha.url }}">{{ ficha.title }}</a></h2>
-  <p class="post-excerpt" itemprop="description">{{ ficha.excerpt | truncate: 160 }}</p>
-</article><!-- /.tile -->
