@@ -22,8 +22,8 @@
       <!-- presentacion image -->
       {{ with .Params.feature}}
         <div class="col-12 mb-4">
-          <a href="{{$.Site.BaseURL}}transpas/{{$dir}}/{{$transpas}}">
-            <img style="height: 500px;width: 100%;object-fit: cover; border: 2px solid #888" src="{{$.Site.BaseURL}}transpas/{{ $dir }}/{{.}}" alt="{{ $.Title }}" class="img-fluid w-100">
+          <a href="{{$.Site.BaseURL}}/transpas/{{$dir}}/{{$transpas}}">
+            <img style="height: 500px;width: 100%;object-fit: cover; border: 2px solid #888" src="{{$.Site.BaseURL}}/transpas/{{ $dir }}/{{.}}" alt="{{ $.Title }}" class="img-fluid w-100">
           </a>
         </div>
       {{ end }}
@@ -42,7 +42,7 @@
           <ul>
             {{ range . }}
               {{ $format := index (split . ".") 1 }}
-              <li><a href="{{$.Site.BaseURL}}transpas/{{$dir}}/{{ . }}">Presentación formato {{ $format | upper }}</a></li>
+              <li><a href="{{$.Site.BaseURL}}/transpas/{{$dir}}/{{ . }}">Presentación formato {{ $format | upper }}</a></li>
             {{ end }}
           </ul>       
         {{ end }}

@@ -57,7 +57,7 @@ logo = "images/logo_white.png"
 description = "Oficina de Conocimiento y Cultura Libres URJC"
 author = "cepalomares"
 # contact info
-address = "Despacho 004, planta baja edificio Rectorado. C/ Tulipán s/n, 28933 Móstoles (Madrid)"
+address = "Despacho 011, planta baja edificio Rectorado. C/ Tulipán s/n, 28933 Móstoles (Madrid)"
 mobile = "91 488 4679"
 email = "ofilibre@urjc.es"
 # contact form action
@@ -81,7 +81,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "40.338006"
 map_longitude = "-3.873924"
