@@ -24,7 +24,8 @@ Las licencias [Creative Commons](https://creativecommons.org/) son hoy día las 
 
 Vente el viernes 29 a la Biblioteca de Fuenlabrada, y celebra con nosotros la [Semana del Acceso Abierto](http://www.openaccessweek.org/). Esta actividad que abre la serie "Cafés con la OfiLibre en la Biblioteca", organizada conjuntamente por la [Biblioteca](https://www.urjc.es/estudiar-en-la-urjc/biblioteca) y la [OfiLibre](https://ofilibre.gitlab.io/), que irá visitando los campus de la URJC durante los próximos meses.
 
+La entrada es libre hasta que se complete el aforo. Más [información en Eventos URJC](https://eventos.urjc.es/73151/detail/cafe-y-creative-commons.html).
+
 * ¿Dónde?: Biblioteca del campus de Fuenlabrada de la URJC, sala de cristal.
 * ¿Cuándo?: Viernes 29 de octubre de 2021, 10:00 a 11:00.
 
-La entrada es libre hasta que se complete el aforo. Más [información en Eventos URJC].
