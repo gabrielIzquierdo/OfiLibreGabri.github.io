@@ -29,5 +29,5 @@ La entrada es libre hasta que se complete el aforo. Más [información en Evento
 * ¿Dónde?: Biblioteca del campus de Fuenlabrada de la URJC, sala de cristal.
 * ¿Cuándo?: Viernes 29 de octubre de 2021, 10:00 a 11:00.
 
-[Cartel](images/blog/cafe-creative-commons/cartel_A3.pdf)
+[Cartel](/images/blog/cafe-creative-commons/cartel_A3.pdf)
 
