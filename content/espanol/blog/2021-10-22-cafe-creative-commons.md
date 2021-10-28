@@ -27,7 +27,12 @@ Vente el viernes 29 a la Biblioteca de Fuenlabrada, y celebra con nosotros la [S
 La entrada es libre hasta que se complete el aforo. Más [información en Eventos URJC](https://eventos.urjc.es/73151/detail/cafe-y-creative-commons.html).
 
 * ¿Dónde?: Biblioteca del campus de Fuenlabrada de la URJC, sala de cristal.
+
 * ¿Cuándo?: Viernes 29 de octubre de 2021, 10:00 a 11:00.
 
-[Cartel](/images/blog/cafe-creative-commons/cartel_A3.pdf)
+Materiales relacionados:
+
+* Transparencias ([PDF](/transpas/creative_commons/CAFE_2021_creative_commons.pdf), [ODP](/transpas/creative_commons/CAFE_2021_creative_commons.odp))
+
+* [Cartel](/images/blog/cafe-creative-commons/cartel_A3.pdf)
 
