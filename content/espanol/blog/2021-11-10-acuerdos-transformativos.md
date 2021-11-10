@@ -24,4 +24,5 @@ Cualquier autor perteneciente a alguna de las universidades e instituciones firm
 
 La lista de editoriales que han suscrito acuerdos con la URJC se puede consultar en el menú superior en el desplegable "Acuerdos Transformativos" tal como se indica en la imagen. Es necesario verificar los requisitos de cada editorial. La web de la Biblioteca indica en cada caso el flujo de trabajo que deben seguir los autores para publicar con dicha editorial bajo el correspondiente acuerdo transformativo con la misma.
 
-![Menú acuerdos transformativos](images/blog/acuerdos-transformativos/Web-acuerdos-transformativos-burjc.md)
+![Menú acuerdos transformativos](images/blog/acuerdos-transformativos/Web-acuerdos-transformativos-burjc.png)
+
