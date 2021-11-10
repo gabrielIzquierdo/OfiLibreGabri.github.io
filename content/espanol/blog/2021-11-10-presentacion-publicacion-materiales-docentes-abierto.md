@@ -1,6 +1,6 @@
 ---
 title: "Publicación de materiales docentes en acceso abierto"
-date: 2021-11-09
+date: 2021-11-10
 slug: materiales_docentes_abierto
 draft: false
 author: "OfiLibre"
