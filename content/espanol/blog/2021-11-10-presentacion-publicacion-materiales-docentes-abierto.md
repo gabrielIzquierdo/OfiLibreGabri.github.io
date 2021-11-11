@@ -24,6 +24,8 @@ imágenes, audios, videos, programas de ordenador, etc.) tiene sus propias parti
 Y no sólo podemos publicar en acceso abierto nuestras obras, también podemos reutilizar las obras de otros al preparar nuestros materiales docentes. Por eso, también hablaremos un poco sobre cómo localizar
 obras en abierto que podamos reutilizar, cómo asegurarnos de que podemos reutilizarlas, y cómo reconocer su autoría.
 
-Por eso, desde la OfiLibre, el martes 16 de noviembre, de 13 a 14, exploraremos las razones que podemos tener para hacerlo y las ventajas y problemas que ésto puede conllevar. Pero sobre todo exploraremos en detalle qué implica publicar en abierto y qué tenemos que hacer con nuestros materiales si queremos publicarlos en abierto. La presentación será online y puedes encontrar [aquí](https://eventos.urjc.es/74286/detail/publicacion-de-materiales-docentes-en-acceso-abierto.html) más información sobre el evento.
+Por eso, desde la OfiLibre, el martes 16 de noviembre, de 13 a 14, exploraremos las razones que podemos tener para hacerlo y las ventajas y problemas que ésto puede conllevar. Pero sobre todo exploraremos en detalle qué implica publicar en abierto y qué tenemos que hacer con nuestros materiales si queremos publicarlos en abierto. La presentación será mediante videoconferencia y puedes encontrar detalles sobre cómo conectarte en la página de [información sobre el evento](https://eventos.urjc.es/74286/detail/publicacion-de-materiales-docentes-en-acceso-abierto.html).
 
 Así que si quieres saber un poco más sobre publicación en abierto, sobre licencias libres, sobre Creative Commons, sobre localización de recursos reutilizables, sobre archivos abiertos... ¡vente!
+
+Esta es una actividad realizada por la [Ofilibre](https://ofilibre.gitlab.io) de la URJC en colaboración con otras oficinas universitarias relacionadas con el conocimiento libre, como parte de las actividades del [Concilio de lo Libre](http://conciliodelolibre.gitlab.io/).
