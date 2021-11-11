@@ -1,6 +1,6 @@
 ---
 title: "Videoconferencia en la web"
-date: 2021-11-10
+date: 2021-11-11
 slug: videoconferencia_web
 draft: false
 author: "OfiLibre"
