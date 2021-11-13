@@ -24,7 +24,7 @@ En la charla contaremos con dos ponentes que conocen en detalle los retos de est
 
 * Micael Gallego, profesor de la URJC y líder del proyecto [OpenVidu](https://openvidu.io/), una solución de código abierto basada en [WebRTC](https://webrtc.org/)[^1] pero que está especialmente orientada a embeber de forma sencilla videoconferencia en cualquier aplicación web moderna a través de librerías para los frameworks de desarrollo web más populares.
 
-* Sergio Murillo, CTO de Millicast, Media Server Lead en CoSMo Software y fundador de [Medooze](https://github.com/medooze) un servidor de media de código abierto que implementa el estándar de WebRTC. Sergio es experto en WebRTC y conoce en detalle los entresijos del estándar. Además participa en la elaboración del nuevo estándar WHIP del W3C.
+* Sergio Murillo, CTO de Millicast, Media Server Lead en CoSMo Software y fundador de [Medooze](https://github.com/medooze) un servidor de media de código abierto que implementa el estándar de WebRTC. Sergio es experto en WebRTC y conoce en detalle los entresijos del estándar. Además participa en la elaboración del nuevo estándar WHIP del IETF.
 
 Si quieres conocer algunas soluciones de código abierto que puedes utilizar para tus videoconferencias, y algunos detalles más sobre cómo funcionan y cuál es el futuro, vente a la charla. 
 
