@@ -30,6 +30,8 @@ Así que si quieres saber un poco más sobre publicación en abierto, sobre lice
 
 Esta es una actividad realizada por la [Ofilibre](https://ofilibre.gitlab.io) de la URJC en colaboración con otras oficinas universitarias relacionadas con el conocimiento libre, como parte de las actividades del [Concilio de lo Libre](http://conciliodelolibre.gitlab.io/).
 
+La presentacion se hará mediante videoconferencia, en la [sala Concilio del BigblueButton de la Universidad de Zaragoza](https://videoconferencia.unizar.es/b/jes-urr-v2p). Todo lo que necesitas para unirte es un navegador.
+
 Materiales de esta presentación:
 
 * Transparencias: [PDF](/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.pdf), [ODP (por ejemplo para LibreOffice)](/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.odp)
