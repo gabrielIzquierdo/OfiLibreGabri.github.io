@@ -29,3 +29,7 @@ Por eso, desde la OfiLibre, el martes 16 de noviembre, de 13 a 14, exploraremos 
 Así que si quieres saber un poco más sobre publicación en abierto, sobre licencias libres, sobre Creative Commons, sobre localización de recursos reutilizables, sobre archivos abiertos... ¡vente!
 
 Esta es una actividad realizada por la [Ofilibre](https://ofilibre.gitlab.io) de la URJC en colaboración con otras oficinas universitarias relacionadas con el conocimiento libre, como parte de las actividades del [Concilio de lo Libre](http://conciliodelolibre.gitlab.io/).
+
+Materiales de esta presentación:
+
+* Transparencias: [PDF](/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.pdf), [ODP (por ejemplo para LibreOffice)](/transpas/publicacion-abierta-docencia/Publicacion_Abierta_Docencia.odp)
