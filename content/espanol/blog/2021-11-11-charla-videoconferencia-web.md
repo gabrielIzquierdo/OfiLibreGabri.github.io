@@ -30,6 +30,6 @@ Si quieres conocer algunas soluciones de código abierto que puedes utilizar par
 
 La charla será 100% online, y la realizaremos a través de BBB, otra solución de videoconferencia de código abierto ;)
 
-En breve publicaremos el enlace desde el que os podréis conectar si queréis participar. ¡Anímate!
+El enlace para la conexión lo tienes disponible en la [página del evento](https://eventos.urjc.es/74373/detail/software-libre-para-videoconferencias.-seminarios-ofilibre.html). ¡Anímate!
 
 [^1]: El logo de WebRTC ha sido obtenido de [aquí](https://es.m.wikipedia.org/wiki/Archivo:WebRTC_Logo.svg) y se distribuye con licencia BSD.
