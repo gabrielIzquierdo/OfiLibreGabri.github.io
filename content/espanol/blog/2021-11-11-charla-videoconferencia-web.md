@@ -26,10 +26,12 @@ En la charla contaremos con dos ponentes que conocen en detalle los retos de est
 
 * Sergio Murillo, CTO de Millicast, Media Server Lead en CoSMo Software y fundador de [Medooze](https://github.com/medooze) un servidor de media de código abierto que implementa el estándar de WebRTC. Sergio es experto en WebRTC y conoce en detalle los entresijos del estándar. Además participa en la elaboración del nuevo estándar WHIP del IETF.
 
-Si quieres conocer algunas soluciones de código abierto que puedes utilizar para tus videoconferencias, y algunos detalles más sobre cómo funcionan y cuál es el futuro, vente a la charla. 
+Si quieres conocer algunas soluciones de código abierto que puedes utilizar para tus videoconferencias, y algunos detalles más sobre cómo funcionan y cuál es el futuro, vente a la charla. Tienes más información en la [página del evento](https://eventos.urjc.es/74373/detail/software-libre-para-videoconferencias.-seminarios-ofilibre.html).
 
-La charla será 100% online, y la realizaremos a través de BBB, otra solución de videoconferencia de código abierto ;)
+Esta es una actividad realizada por la [Ofilibre](https://ofilibre.gitlab.io) de la URJC en colaboración con otras oficinas universitarias relacionadas con el conocimiento libre, como parte de las actividades del [Concilio de lo Libre](http://conciliodelolibre.gitlab.io/).
 
-El enlace para la conexión lo tienes disponible en la [página del evento](https://eventos.urjc.es/74373/detail/software-libre-para-videoconferencias.-seminarios-ofilibre.html). ¡Anímate!
+La presentacion se hará mediante videoconferencia, en la [sala Concilio del BigBlueButton de la Universidad de Zaragoza](https://videoconferencia.unizar.es/b/jes-urr-v2p). Todo lo que necesitas para unirte es un navegador.
+[BigBlueButton](https://bigbluebutton.org) es otra solución de videoconferencia que también se distribuye como software libre.
+
 
 [^1]: El logo de WebRTC ha sido obtenido de [aquí](https://es.m.wikipedia.org/wiki/Archivo:WebRTC_Logo.svg) y se distribuye con licencia BSD.
