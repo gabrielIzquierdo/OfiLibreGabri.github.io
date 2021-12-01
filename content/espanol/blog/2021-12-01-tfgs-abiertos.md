@@ -12,7 +12,6 @@ description: "Presentacion: Publicación en abierto de trabajos fin de grado"
 
 # post images 
 bg_image: "images/blog/tfgs-abiertos/open-access-square.png"
-feature: "images/blog/tfgs-abiertos/open-access-square.png"
 thumb: "images/blog/tfgs-abiertos/open-access-square.png"
 ---
 
