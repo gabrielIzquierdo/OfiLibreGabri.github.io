@@ -1,6 +1,6 @@
 ---
-title: "Publicación en abierto de trabajos fin de grado"
-date: 2021-12-02
+title: "Publicación en abierto de TFGs"
+date: 2021-12-01
 slug: tfgs-abiertos
 draft: false
 author: "OfiLibre"
