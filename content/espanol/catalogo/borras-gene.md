@@ -10,7 +10,7 @@ publicado: SlideShare
 
 description : "Apuntes basados en el PMBOK, metodología en cascada/predictiva para la gestión y dirección de proyectos."
 
-thumb: "images/catalogo/logo.png"
+thumb: "images/catalogo/borras-gene.png"
 type: "catalogo"
 ---
 

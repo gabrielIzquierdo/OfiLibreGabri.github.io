@@ -9,7 +9,7 @@ date: 2020-11-21
 publicado: YouTube
 description: "Clases de repaso de los contenidos teóricos que se imparten en el modo presencial (Introducción a la Estadística, Estadística Descriptiva e Introducción a la Probabilidad)"
 
-thumb: "images/catalogo/logo.png"
+thumb: "images/catalogo/estadistica1.png"
 type: "catalogo"
 ---
 

@@ -10,7 +10,7 @@ publicado: GitHub, YouTube
 
 description : "Curso orientado a comprender la estructura, funcionamiento y diseño de los computadores, así como su programación a nivel de sistemas, utilizando la arquitectura más moderna: RISC-V"
 
-thumb: "images/catalogo/logo.png"
+thumb: "images/catalogo/arqu-ordenadores.png"
 type: "catalogo"
 ---
 

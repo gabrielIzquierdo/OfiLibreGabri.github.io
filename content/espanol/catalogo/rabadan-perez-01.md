@@ -9,7 +9,7 @@ date: 2020-11-25
 publicado: YouTube
 description: "Clases de repaso de los contenidos teóricos que se imparten en el modo presencial (Inferencia estadística, etc.)"
 
-thumb: "images/catalogo/logo.png"
+thumb: "images/catalogo/estadistica2.png"
 type: "catalogo"
 ---
 

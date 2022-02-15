@@ -9,7 +9,7 @@ date: 2020-11-21
 publicado: GitHub
 description: "22 videos con las explicaciones de varios temas de Electrónica Digital. Si los videos se basan en trasparencias tienen un enlace a las trasparencias disponibles en Zenodo."
 
-thumb: "images/catalogo/logo.png"
+thumb: "images/catalogo/electronica-digital.png"
 type: "catalogo"
 ---
 
