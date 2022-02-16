@@ -9,7 +9,7 @@ date: 2020-11-21
 publicado: Web personal
 description: "Simulador del Computador Más Sencillo Posible (SAP-1, Simple-As-Possible Computer), propuesto por Albert Paul Malvino y Jerald A. Brown en el libro «Digital Computer Electronics» (Editorial McGraw-Hill Education). Se trata de un computador de 8 bits programable a través de un sencillo (y limitado) lenguaje ensamblador. El simulador muestra el camino de datos y el proceso de ejecución de las instrucciones ciclo a ciclo. Este recurso puede ser utilizado como introducción a la arquitectura de computadores."
 
-thumb: "images/catalogo/logo.png"
+thumb: "images/catalogo/simulador.png"
 type: "catalogo"
 ---
 

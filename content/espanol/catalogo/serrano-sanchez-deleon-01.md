@@ -9,7 +9,7 @@ date: 2020-11-21
 publicado: Web personal
 description: "Conjunto de animaciones basadas en las leyes físicas para explicar conceptos como el movimiento de caída libre, oscilaciones con muelles, caídas por planos inclinados, momento de inercia, poleas que giran, etc."
 
-thumb: "images/catalogo/logo.png"
+thumb: "images/catalogo/fisica-videojuegos.png"
 type: "catalogo"
 ---
 

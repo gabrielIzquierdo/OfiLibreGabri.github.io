@@ -9,7 +9,7 @@ date: 2020-11-21
 publicado: GitHub, YouTube
 description: "Conjunto de materiales docentes sobre la construcción de sitios web, tanto en el lado del servidor como en el lado del navegador. Incluye transparencias, ejercicios, exámenes, enunciados de prácticas, código fuente de ejemplo, etc."
 
-thumb: "images/catalogo/logo.png"
+thumb: "images/catalogo/tecnologia-web.jpg"
 type: "catalogo"
 ---
 
