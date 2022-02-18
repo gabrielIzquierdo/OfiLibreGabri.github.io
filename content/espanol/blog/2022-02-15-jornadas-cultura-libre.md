@@ -10,8 +10,8 @@ categories: ["OfiLibre", "Jornadas"]
 description: "Primeras Jornadas de Cultura Libre de la URJC"
 
 # post images 
-bg_image: "images/blog/tfgs-abiertos/open-access-square.png"
-thumb: "images/blog/tfgs-abiertos/open-access-square.png"
+bg_image: "images/blog/jornada-cultura-libre/banner.jpg"
+thumb: "images/blog/jornada-cultura-libre/square.jpg"
 ---
 
 
