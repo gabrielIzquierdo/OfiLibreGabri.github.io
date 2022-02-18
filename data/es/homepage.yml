@@ -37,15 +37,15 @@ slider:
         link : "guias"
 
     # slider item loop
-    - title : "EsLibre 2021"
-      content : "Un encuentro de personas interesadas en las tecnologías y cultura libres, enfocado a compartir conocimiento y experiencia alrededor de las mismas. Congreso organizado por LibreLabUCM, en colaboración con la OfiLibre URJC. Las charlas estarán disponibles en diferido."
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : false
-        label : "Leer más"
-        link : "blog/eslibre-2021/"
+#    - title : "EsLibre 2021"
+#      content : "Un encuentro de personas interesadas en las tecnologías y cultura libres, enfocado a compartir conocimiento y experiencia alrededor de las mismas. Congreso organizado por LibreLabUCM, en colaboración con la OfiLibre URJC. Las charlas estarán disponibles en diferido."
+#      animation_in : "left"
+#      animation_out : "right"
+#      # available animation : left, right, up, down
+#      button:
+#        enable : true
+#        label : "Leer más"
+#        link : "blog/eslibre-2021/"
   
     # slider item loop
     - title : "El Concilio de lo Libre"
