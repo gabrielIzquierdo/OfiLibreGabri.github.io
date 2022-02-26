@@ -62,7 +62,7 @@ slider:
 ############################# blog ################################
 blog:
   enable : true
-  title : "Últimos artículos del blog"
+  title : "Artículos (blog)"
   # blog item comes from "content/**/blog" folder.
 
 ############################# blog ################################
