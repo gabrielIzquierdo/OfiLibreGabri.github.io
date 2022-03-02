@@ -10,8 +10,8 @@ categories: ["OfiLibre", "Seminarios"]
 description: "Ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres."
 
 # post images 
-bg_image: "images/blog/tfgs-abiertos/open-access-square.png"
-thumb: "images/blog/tfgs-abiertos/open-access-square.png"
+bg_image: "images/logo-ofilibre-blanco.png"
+thumb: "images/logo-ofilibre.png"
 ---
 
 La OfiLibre va a realizar un pequeño ciclo de seminarios sobre la publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres. En la Universidad Rey Juan Carlos puedes publicar tu Trabajo de Fin de Grado (la memoria y otros resultados que hayas obtenido) en acceso abierto. ¿Qué quiere decir esto? ¿Por qué te puede interesar? ¿Cómo hacerlo, si lo encuentras interesante? Además, también puedes utlizar materiales libres (fotos, gráficos, o incluso videos o programas) para tu TFG, y quizás para incluirlos en su memoria. ¿En qué condiciones puedes incluir materiales libres? ¿Dónde puedes encontrarlos? ¿Cómo se referencia el autor original?
