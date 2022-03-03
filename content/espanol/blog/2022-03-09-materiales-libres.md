@@ -17,7 +17,9 @@ thumb: "images/materiales_libres.jpeg"
 Seminario sobre reutilización de materiales libres, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres. ¿En qué condiciones puedes incluir materiales libres? ¿Dónde puedes encontrarlos? ¿Cómo se referencia el autor original? Responderemos estas y otras preguntas.
 
 ## Inscripción
+
 * [Página de eventos](https://eventos.urjc.es/79125/detail/tfgs-en-abierto_-reutilizacion-de-materiales-libres.html)
+
 ## Resumen de datos
 
 * Cuándo: 9 de marzo de 2022, 13:00-14:30
