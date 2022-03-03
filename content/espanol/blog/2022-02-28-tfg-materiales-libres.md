@@ -20,8 +20,8 @@ La OfiLibre va a realizar un pequeño ciclo de seminarios sobre la publicación 
 
 Para responder estas y otras preguntas relacionadas con la publicación de TFGs en abierto y la reutilización de materiales libres en tus trabajos (incluido el TFG) la OfiLibre ofrece los siguientes seminarios:
 
-* [Reutilización materiales libres](http://eventos.urjc.es/go/tfg-abierto-reutilizacion-materiales): 9 de marzo de 2022, 13:00 - 14:30, en el Campus de Móstoles
-* [Publicación en abierto](http://eventos.urjc.es/go/publicar-en-abierto): 23 de marzo de 2022, 13:00 - 14:30, en el Campus de Vicalvaro
+* [Reutilización materiales libres](https://ofilibre.gitlab.io/blog/2022-03-09-materiales-libres/): 9 de marzo de 2022, 13:00 - 14:30, en el Campus de Móstoles
+* [Publicación en abierto](https://ofilibre.gitlab.io/blog/2022-03-23-tfg-abierto/): 23 de marzo de 2022, 13:00 - 14:30, en el Campus de Vicalvaro
 
 Ambos eventos se ofrecerán en formato híbrido (presencialmente en los campus indicados, y a distancia mediante el mecanismo que se anunciará oportunamente). Consulta el anuncio de cada seminario para tener más detalles.
 

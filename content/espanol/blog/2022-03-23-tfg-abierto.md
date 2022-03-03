@@ -14,8 +14,10 @@ bg_image: "images/logo-ofilibre-blanco.png"
 thumb: "images/logo-ofilibre.png"
 ---
 
-Seminario sobre publicación en abierto del TFG, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.
-
+Seminario sobre publicación en abierto del TFG, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.¿Qué quiere decir esto? ¿Por qué te puede interesar? ¿Cómo hacerlo, si lo encuentras interesante?
+Responderemos estas y otras preguntas.
+# Inscripción
+* [Página de eventos](https://eventos.urjc.es/79128/detail/tfgs-en-abierto_-publicacion.html?private=416e1f340a642335cb5a)
 ## Resumen de datos
 
 * Cuándo: 23 de marzo de 2022, 13:00-14:30
