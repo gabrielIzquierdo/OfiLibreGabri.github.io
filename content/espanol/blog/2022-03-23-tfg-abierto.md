@@ -10,8 +10,8 @@ categories: ["OfiLibre", "Seminarios"]
 description: "Seminario sobre publicación en abierto del TFG, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres."
 
 # post images 
-bg_image: "images/logo-ofilibre-blanco.png"
-thumb: "images/logo-ofilibre.png"
+bg_image: "images/horizontal_TFG_en_abierto.jpeg"
+thumb: "images/Cuadrado_TFG_en_abierto.jpeg"
 ---
 
 Seminario sobre publicación en abierto del TFG, parte del ciclo de seminarios sobre publicación en abierto del Trabajo de Fin de Grado y el uso en él de materiales libres.¿Qué quiere decir esto? ¿Por qué te puede interesar? ¿Cómo hacerlo, si lo encuentras interesante?
