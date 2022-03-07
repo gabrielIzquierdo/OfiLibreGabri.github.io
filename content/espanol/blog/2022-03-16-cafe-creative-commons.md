@@ -1,7 +1,7 @@
 ---
 title: "Café y Creative Commons"
 date: 2022-03-04
-slug: cafe-creative-commons-2021
+slug: cafe-creative-commons-2022
 draft: false
 author: "OfiLibre"
 type: "post"
@@ -11,8 +11,8 @@ categories: ["eventos"]
 description: "Café y Creative Commons con OfiLibre en Biblioteca"
 
 # post images 
-bg_image: "images/Café_Alcorcón_rectangulo_16_marzo.png"
-thumb: "images/Café_Alcorcón_cuadrado_16_marzo.png"
+bg_image: "images/Café_Alcorcón_rectangulo_16_marzo.png"
+thumb: "images/Café_Alcorcón_Cuadrado_16_marzo.png"
 ---
 
 
@@ -27,6 +27,6 @@ La entrada es libre hasta que se complete el aforo. Más [información en Evento
 
 * ¿Dónde?: Biblioteca del campus de Alcorcón de la URJC.
 
-* ¿Cuándo?: Viernes 16 de marzo de 2022, 10:00 a 11:00.
+* ¿Cuándo?: Miércoles 16 de marzo de 2022, 11:00 a 12:00.
 
 
