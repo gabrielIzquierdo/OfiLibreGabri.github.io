@@ -11,7 +11,7 @@ categories: ["eventos"]
 description: "Café y Creative Commons con OfiLibre en Biblioteca"
 
 # post images 
-bg_image: "images/Café_Alcorcón_rectangulo_16_marzo.png"
+bg_image: "images/Café_Alcorcón_rectangulo_16_marzo.png"
 thumb: "images/Café_Alcorcón_Cuadrado_16_marzo.png"
 ---
 
