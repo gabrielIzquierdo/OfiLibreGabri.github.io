@@ -29,3 +29,6 @@ Seminario sobre reutilización de materiales libres, parte del ciclo de seminari
 * [Sala Teams para asistencia a distancia](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjkwOGZmYjUtZjc0My00MTkzLTkwMGQtZDY2MDkxMWIxYWZl%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d)
 * Los asistentes recibirán un certificado de créditos de Reconocimiento Académico de Créditos (RAC)
 
+## Materiales
+
+* Transparencias utilizadas en la presentacion ([PDF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.pdf), [ODF](/transpas/trabajos-obras-libres/Trabajos_Obras_libres-2022-03.odp), para LibreOffice)
