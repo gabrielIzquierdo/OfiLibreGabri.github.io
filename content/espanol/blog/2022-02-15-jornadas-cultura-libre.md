@@ -11,7 +11,7 @@ description: "Primeras Jornadas de Cultura Libre de la URJC"
 
 # post images 
 bg_image: "images/blog/jornada-cultura-libre/banner.jpg"
-thumb: "images/blog/jornada-cultura-libre/square.jpg"
+thumb: "images/blog/jornada-cultura-libre/square.png"
 ---
 
 
