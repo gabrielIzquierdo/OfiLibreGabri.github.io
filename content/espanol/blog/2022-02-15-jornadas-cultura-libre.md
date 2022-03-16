@@ -43,3 +43,9 @@ Si quieres participar como asistente, las inscripciones ya están abiertas hasta
 * Dónde: Salón de Actos, Edificio de Gestión, Campus de Fuenlabrada, URJC
 * Envío de propuesta de ponencias: [formulario de propuesta de ponencias](https://eventos.urjc.es/78452/section/35438/primeras-jornadas-de-cultura-libre-en-la-urjc.html)
 * Registro como asistente: [página de inscripciones](https://eventos.urjc.es/78452/detail/primeras-jornadas-de-cultura-libre-en-la-urjc.html)
+
+## Materiales para ponentes
+
+* Plantilla de transparencias: [formato ODF, para LibreOffice](/transpas/jornada-cultura-libre/presentacion_jornadas.odp), [formato PPTX, para PowerPoint](/transpas/jornada-cultura-libre/presentacion_jornadas.pptx), [formato PDF](/transpas/jornada-cultura-libre/presentacion_jornadas.pdf).
+
+* "Bombilla abierta": [formato PDF](/images/blog/jornada-cultura-libre/bombilla.pdf), [formato PNG](/images/blog/jornada-cultura-libre/bombilla.png). Autor: José Luis Rubio Tamayo. Licencia: Creative Commons Reconocimiento 4.0 Internacional.
