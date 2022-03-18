@@ -21,7 +21,7 @@ Responderemos estas y otras preguntas.
 ## Resumen de datos
 
 * Cuándo: 23 de marzo de 2022, 13:00-14:30
-* Dónde: Campus de Vicálvaro
+* Dónde: Campus de Vicálvaro, Edificio de Gestión, aula G112
 * A quien va dirigido: a todos los estudiantes
 * Formato: híbrido (presencial en los campus indicados, y por videoconferencia para asistencia remota)
 * Los asistentes recibirán un certificado de créditos de Reconocimiento Académico de Créditos (RAC)
