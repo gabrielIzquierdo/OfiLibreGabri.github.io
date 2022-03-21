@@ -21,6 +21,8 @@ Si quieres participar con una ponencia corta, contando tu experiencia de trabajo
 
 Si quieres participar como asistente, las inscripciones ya están abiertas hasta el 29 de marzo. Por favor, regístrate en la [página de inscripciones](https://eventos.urjc.es/78452/detail/primeras-jornadas-de-cultura-libre-en-la-urjc.html). La jornada está dirigida a toda la comunidad universitaria de la URJC, y a cualquier persona interesada en la cultura libre, la publicación en acceso abierto, los datos abiertos, el software libre, y otras manifestaciones relacionadas.
 
+Se podrá seguir todas las jornadas de forma telemática a través de https://tv.urjc.es/live/event/622f6141d3b3341ccf6256c5, aunque el reconocimiento académico de créditos solo se ofrecerá para la asistencia presencial.
+
 ## Programa
 
 [Programa tentativo, puede sufrir aún algún cambio]
