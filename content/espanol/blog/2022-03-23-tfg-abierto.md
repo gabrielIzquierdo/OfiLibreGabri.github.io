@@ -29,3 +29,6 @@ Responderemos estas y otras preguntas.
 * Formato: híbrido (presencial en los campus indicados, y por videoconferencia para asistencia remota)
 * Los asistentes recibirán un certificado de créditos de Reconocimiento Académico de Créditos (RAC)
 
+# Materiales
+
+* Transparencias utilizadas en la presentacion ([PDF](/transpas/tfgs-abiertos/TFGs_Abiertos.pdf), [ODF](/transpas/tfgs-abiertos/TFGs_Abiertos.odp), para LibreOffice)
