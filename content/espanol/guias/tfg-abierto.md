@@ -72,7 +72,7 @@ Además, ten en cuenta que para fragmentos de
 obras ajenas que convenga citar por motivos académicos,
 es posible que te puedas acoger al derecho de cita.
 
-> 1. Es lícita la inclusión en una obra propia de fragmentos
+> Es lícita la inclusión en una obra propia de fragmentos
 > de otras ajenas de naturaleza escrita, sonora o audiovisual,
 > así como la de obras aisladas de carácter plástico o
 > fotográfico figurativo, siempre que se trate de obras
@@ -86,7 +86,7 @@ es posible que te puedas acoger al derecho de cita.
 >> [Texto Refundido de la Ley de Propiedad Intelectual](https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930),
 >> Real Decreto Legislativo 1/1996, de 12 de abril
 >> (Artículo 32: Citas y reseñas e ilustración con fines
->> educativos o de investigación científica)
+>> educativos o de investigación científica, Apartado 1)
 
 Ten en cuenta también que puede haber razones académicas
 por las que puede no ser conveniente incluir ciertas
