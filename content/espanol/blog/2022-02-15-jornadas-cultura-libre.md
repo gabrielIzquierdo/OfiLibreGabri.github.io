@@ -1,6 +1,6 @@
 ---
 title: "Primeras Jornadas de Cultura Libre"
-date: 2022-02-22
+date: 2022-02-21
 slug: jornadas-cultura-libre
 draft: false
 author: "OfiLibre"
