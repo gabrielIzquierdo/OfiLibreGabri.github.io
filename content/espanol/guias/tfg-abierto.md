@@ -223,7 +223,8 @@ Archivo Abierto.
 ## Qué pasa a continuación
 
 La publicación en el archivo abierto proporcionará una dirección
-única ("handle", que es una url o hipervínculo) para la memoria,
+única ("handle", que es un identificador único, normalmente
+representado mediante una url o hipervínculo) para la memoria,
 y que será preservada por la Biblioteca de la Universidad.
 Además, esa dirección, junto con los metadatos de la memoria
 (título, autoría, resumen, etc.) pasará a índices electrónicos
