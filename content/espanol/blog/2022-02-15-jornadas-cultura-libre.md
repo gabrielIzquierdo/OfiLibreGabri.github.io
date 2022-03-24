@@ -25,18 +25,18 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
 
 ## Programa
 
-[Programa tentativo, puede sufrir aún algún cambio]
-
-* 9:00-9:30 - Registro y bienvenida
-* 9:30-9:45 - Apertura
-* 9:45-10:30 - Todo lo que quiso saber sobre ciencia abierta y nunca se animó a preguntar, Pilar Rico (Responsable Unidad de Acceso Abierto, Repositorios y Revistas FECYT).
-* 10:30-11:30 - Ponencias (prácticas docentes abiertas y prácticas de investigación abierta)
-* 11:30-12:00 - Descanso
-* 12:00-12:45 - No sólo de software libre vive la cultura libre. Jesús Tramullas (Catedrático de Documentación, Universidad de Zaragoza)
-* 12:45-13:05 - El rol de la biblioteca en la publicación abierta. Magdalenta Nebot, Directora de la Biblioteca de la URJC.
-* 13:05-13:45 Ponencias (prácticas de liberación de datos, software libre)
-* 13:45-14:00 - Presentación del Manifiesto de Móstoles.
-* 14:00-14:05 - Despedida y cierre.
+* 8:30 - Registro
+* 9:00 - Apertura
+* 9:15 - 10:00 - Todo lo que quiso saber sobre ciencia abierta y nunca se animó a preguntar, Pilar Rico (Responsable Unidad de Acceso Abierto, Repositorios y Revistas FECYT).
+* 10:00 - Ponencias (prácticas docentes abiertas y prácticas de investigación abierta)
+* 10:50 - Descanso
+* 11:10 - No sólo de software libre vive la cultura libre. Jesús Tramullas (Catedrático de Documentación, Universidad de Zaragoza)
+* 11:55 - Ponencias
+* 12:45 -  El rol de la biblioteca en la publicación abierta. Magdalenta Nebot, Directora de la Biblioteca de la URJC.
+* 13:00 - Descanso.
+* 13:20 - Ponencias.
+* 14:05 - El papel de la Ofilibre, La Oficina de Conocimiento y Cultura Libres (OfiLibre), Jesús M. González Barahona.
+* 14:10 - Cierre
 
 ## Resumen de datos
 
