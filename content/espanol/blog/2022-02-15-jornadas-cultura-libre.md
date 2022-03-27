@@ -26,7 +26,7 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
 ## Programa
 
 * 8:30 - Registro
-* 9:00 - Apertura
+* 9:00 - Apertura institucional
 * 9:15 - 10:00 - Todo lo que quiso saber sobre ciencia abierta y nunca se animó a preguntar, Pilar Rico (Responsable Unidad de Acceso Abierto, Repositorios y Revistas FECYT).
 * 10:00 - Ponencias (Datos abiertos y Hardware libre)
 * 10:50 - Descanso
