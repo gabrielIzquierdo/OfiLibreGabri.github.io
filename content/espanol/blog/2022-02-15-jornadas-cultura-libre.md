@@ -28,15 +28,15 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
 * 8:30 - Registro
 * 9:00 - Apertura
 * 9:15 - 10:00 - Todo lo que quiso saber sobre ciencia abierta y nunca se animó a preguntar, Pilar Rico (Responsable Unidad de Acceso Abierto, Repositorios y Revistas FECYT).
-* 10:00 - Ponencias (prácticas docentes abiertas y prácticas de investigación abierta)
+* 10:00 - Ponencias (Datos abiertos y Hardware libre)
 * 10:50 - Descanso
 * 11:10 - No sólo de software libre vive la cultura libre. Jesús Tramullas (Catedrático de Documentación, Universidad de Zaragoza)
-* 11:55 - Ponencias
+* 11:55 - Ponencias (Docencia con recursos libres)
 * 12:45 -  El rol de la biblioteca en la publicación abierta. Magdalenta Nebot, Directora de la Biblioteca de la URJC.
 * 13:00 - Descanso.
-* 13:20 - Ponencias.
+* 13:20 - Ponencias (Software libre)
 * 14:05 - El papel de la Ofilibre, La Oficina de Conocimiento y Cultura Libres (OfiLibre), Jesús M. González Barahona.
-* 14:10 - Cierre
+* 14:10 - Manifiesto y cierre
 
 ## Resumen de datos
 
