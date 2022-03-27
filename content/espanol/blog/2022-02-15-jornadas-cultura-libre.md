@@ -38,6 +38,7 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
 * 14:05 - El papel de la Ofilibre, La Oficina de Conocimiento y Cultura Libres (OfiLibre), Jesús M. González Barahona.
 * 14:10 - Manifiesto y cierre
 
+[Descarga aquí el programa](https://gitlab.etsit.urjc.es/ofilibre/plan/-/raw/master/Jornadas%202022/programa_Jornadas_Cultura_libre.pdf)
 ## Resumen de datos
 
 * A quien va dirigida: a toda la comunidad universitaria
