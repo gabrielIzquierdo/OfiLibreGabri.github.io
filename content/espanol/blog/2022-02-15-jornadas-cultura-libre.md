@@ -51,12 +51,118 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
 
 ## Detalle y materiales de ponencias
 
+### Ponencias invitadas
+
+* *" Todo lo que siempre quiso saber sobre ciencia abierta y nunca se animó a preguntar"* ([Presentación](/transpas/jornada-cultura-libre/invitadas/))  
+  Ponente: Pilar Rico, Fundación Española para la Ciencia y la Tecnología (FECyT)
+
+* *"No solo de software libre vive la Cultura Libre"* ([Presentación](/transpas/jornada-cultura-libre/invitadas/02_Tramullas.pdf))  
+  Ponente: Jesús Tramullas, Universidad de Zaragoza
+
+* *"Laboratorios Ciudadanos: experiencia del proyecto desarrollado en la Biblioteca del campus de Madrid"* ([Presentación](/transpas/jornada-cultura-libre/invitadas/03_Biblioteca.pdf))  
+  Ponentes: María Dolores López García y Cristina Rincón Moreno, Biblioteca
+
+* *"Apoyo a la Ciencia Abierta en la BURJC"* ([Presentación](/transpas/jornada-cultura-libre/invitadas/04_Biblioteca.pdf))  
+  Ponente: Fernando Silva Sánchez, Biblioteca
+
+### Datos abiertos y hardware libre
+
+* *"Uso de LíDAR y datos abiertos de carácter geográfico en Arqueología"* ([Presentación](/transpas/jornada-cultura-libre/datos-hw/01_Morales.pdf))  
+ Ponente: Diana Morales Manzanares  
+ Autoría: Luis Alberto Polo Romero; Diana Morales Manzanares; Francisco Reyes Téllez
+
+* *"La creación de contenidos digitales en abierto: el caso del portal Royal Sites Heritage"* ([Presentación](/transpas/jornada-cultura-libre/datos-hw/02_Labrador.pdf))  
+  Ponente: Félix Labrador Arroyo  
+  Autoría: Félix Labrador Arroyo y Manuel Álvaro Mora  
+
+* *"Proyecto MapCom. Investigación en Comunicación de las Universidades españolas entre 2007 y 2018"* ([Presentación](/transpas/jornada-cultura-libre/datos-hw/03_Lozano.pdf))  
+  Ponente: Carlos Horacio Lozano Ascencio  
+  Autoría: Carlos Horacio Lozano Ascencio
+
+* *"La gestión de datos de investigación en las áreas de Artes y Humanidades: problemas, desafíos y algunas soluciones"* ([Presentación](/transpas/jornada-cultura-libre/datos-hw/04_Battaner.pdf))  
+  Ponente: Elena Battaner  
+  Autoría: Elena Battaner Moro y Juan Alonso López Iniesta
+
+* *"Investigación con acción participativa para los inmigrantes solicitantes de protección internacional a través de medios digitales"* ([Presentación](/transpas/jornada-cultura-libre/datos-hw/05_delPrado.pdf))  
+  Ponente: Cristina del Prado y Guillermo Andrés Duque Silva  
+  Autoría: Cristina del Prado y Guillermo Andrés Duque Silva
+
+* *"Mesa de modelado geológico análogo de bajo coste basada en hardware libre"* ([Presentación](/transpas/jornada-cultura-libre/datos-hw/06_Nieto.pdf))  
+  Ponente:  Rubén Nieto  
+  Autoría: Felipe Machado, Susana Borromeo, Cristina Fernández, Javier Letón, Alicia Merchán, Zeus Román, Rubén Nieto
+
+* *"Hardware Libre y Ciencia Abierta: Biblioteca de piezas paramétricas de FreeCAD para el desarrollo equipos científicos"* ([Presentación](/transpas/jornada-cultura-libre/datos-hw/07_Machado.pdf))  
+  Ponente:  Felipe Machado Sánchez  
+  Autoría: David Muñoz Bernal, Felipe Machado Sánchez, Rubén Nieto Capuchino, Susana Borromeo López
+
+### Docencia con recursos libres
+
+* *"Aprovechamiento de recursos y software libre con estudiantes de grado en para la creación de proyectos de producción de videojuegos"* ([Presentación](/transpas/jornada-cultura-libre/docencia/01_Gertrudis.pdf))  
+  Ponente: Mª del Carmen Gertrudis Casado  
+  Autoría: Mª del Carmen Gertrudis Casado y Juan Romero-Luis
+
+* *"Investigafisio: investigación, docencia y clínica al alcance de todos"* ([Presentación](/transpas/jornada-cultura-libre/docencia/02_Molina.pdf))  
+  Ponente: Francisco Molina Rueda  
+  Autoría: Francisco Molina Rueda
+
+* *"Docencia circular"* ([Presentación](/transpas/jornada-cultura-libre/docencia/03_Jimenez.pdf))  
+  Ponente: Jorge Jiménez Leube  
+  Autoría: Jorge Jiménez Leube
+
+* *"Reflexiones sobre la cláusula "No comercial" en las licencias Creative Commons"* ([Presentación](/transpas/jornada-cultura-libre/docencia/04_Robles.pdf))  
+  Ponente: Gregorio Robles  
+  Autoría: Gregorio Robles
+
+* *"Conocimiento abierto para combatir la desinformación. El proyecto CRESCEnt"* ([Presentación](/transpas/jornada-cultura-libre/docencia/05_Carbonell.pdf))  
+  Ponente: Alejandro Carbonell-Alcocer y Begoña Rivas Rebaque  
+  Autoría: Manuel Gertrudix, Rubén Arcos, Juan Romero-Luis, Alejandro Carbonell-Alcocer, Mario Rajas, Cristina Arribas, Mª Carmen Gertrudis, Mª Carmen Gálvez, José Luis Rubio y Begoña Rivas Rebaque  
+
+* *"Wikipedia para la enseñanza de fuentes documentales: un caso de ¿fracaso?"* ([Presentación](/transpas/jornada-cultura-libre/docencia/06_Martinez.pdf))  
+  Ponente: Lizette Martínez Valerio  
+  Autoría: Lizette Martínez Valerio
+
+* *"Plataforma 'Classroom Ciberimaginario' de Conocimiento Abierto"* ([Presentación](/transpas/jornada-cultura-libre/docencia/07_Galvez.pdf))  
+  Ponente: Mª del Carmen Gálvez de la Cuesta  
+  Autoría: Manuel Gértrudix Barrio, Mª del Carmen Gálvez de la Cuesta, Mª del Carmen Gertrudis Casado, Mario Rajas Fernández, Juan Romero Luis, Alejandro Carbonell Alcocer, Miguel Baños González, José Luis Rubio Tamayo, Rubén Arcos Martín y Ernesto Taborda Hernández
+
+### Software libre
+
+* *"Experiencias y resultados del uso del software libre ImageJ para la evaluación de imágenes ecográficas con fines docentes e investigadores en Ciencias de la Salud"* ([Presentación](/transpas/jornada-cultura-libre/sw/01_Arias.pdf))  
+  Ponente: José Luis Arias Buría  
+  Autoría: José Luis Arias Buría
+
+* *"KDE Activities: El escritorio inteligente"* ([Presentación](/transpas/jornada-cultura-libre/sw/02_Iglesias.pdf))  
+  Ponente: Héctor Rodrigo Iglesias Goldaracena  
+  Autoría: Héctor Rodrigo Iglesias Goldaracena
+
+* *"Simulaciones interactivas: aplicación a la enseñanza en grados de ingeniería"* ([Presentación](/transpas/jornada-cultura-libre/sw/03_Garrido.pdf))  
+  Ponente: Miguel Ángel Garrido Maneiro  
+  Autoría: Miguel Ángel Garrido Maneiro
+
+* *"Software libre y reproducibilidad en ciencia"* ([Presentación](/transpas/jornada-cultura-libre/sw/04_Wagemakers.pdf))  
+  Ponente: Alexandre Wagemakers  
+  Autoría: Alexandre Wagemakers
+
+* *"Fotogrametría, datos abiertos y realidad aumentada para la docencia en Arqueología, Historia y Bellas Artes"* ([Presentación](/transpas/jornada-cultura-libre/sw/05_Polo.pdf))  
+  Ponente: L. Alberto Polo Romero  
+  Autoría: Luis Alberto Polo Romero; Raquel Sardá Sánchez; Francisco Reyes Téllez; Diana Morales Manzanares
+
+* *"Creación de memorias de proyectos con R Markdown y LaTeX"* ([Presentación](/transpas/jornada-cultura-libre/sw/06_Ortega.pdf))  
+  Ponente: Felipe Ortega  
+  Autoría: Felipe Ortega
+
+* *"Concurso de Monty Hall: una aplicación interactiva con R para explicar probabilidad"* ([Presentación](/transpas/jornada-cultura-libre/sw/07_Cano.pdf))  
+  Ponente: Emilio L. Cano  
+  Autoría: Emilio L. Cano
+
 
 ## Materiales para ponentes
 
 * Plantilla de transparencias: [formato ODF, para LibreOffice](/transpas/jornada-cultura-libre/presentacion_jornadas.odp), [formato PPTX, para PowerPoint](/transpas/jornada-cultura-libre/presentacion_jornadas.pptx), [formato PDF](/transpas/jornada-cultura-libre/presentacion_jornadas.pdf).
 
 * "Bombilla abierta": [formato PDF](/images/blog/jornada-cultura-libre/bombilla.pdf), [formato PNG](/images/blog/jornada-cultura-libre/bombilla.png). Autor: José Luis Rubio Tamayo. Licencia: Creative Commons Reconocimiento 4.0 Internacional.
+
+* [Cartel de la jornada](/images/blog/jornada-cultura-libre/square.png)
 
 ## Envío de propuestas e inscripción
 
