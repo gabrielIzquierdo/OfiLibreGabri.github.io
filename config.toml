@@ -18,6 +18,11 @@ defaultContentLanguage = "es"
 [permalinks]
   blog = "/blog/:slug/"
 
+######################## Markdown renderer #########################
+
+#[markup.goldmark.renderer]
+#  hardWraps = true
+
 ############################# Plugins ##############################
 
 # CSS Plugins
