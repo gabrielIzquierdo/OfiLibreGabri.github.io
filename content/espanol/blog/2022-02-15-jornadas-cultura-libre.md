@@ -65,6 +65,9 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
 * *"Apoyo a la Ciencia Abierta en la BURJC"* ([Presentación](/transpas/jornada-cultura-libre/invitadas/04_Biblioteca.pdf))  
   Ponente: Fernando Silva Sánchez, Biblioteca
 
+* *"OfiLibre URJC: Oficina de Conocimiento y Cultura Libres"* ([Presentación](/transpas/jornada-cultura-libre/invitadas/05_OfiLibre.pdf))  
+  Ponente: Jesús M. González Barahona
+  
 ### Datos abiertos y hardware libre
 
 * *"Uso de LíDAR y datos abiertos de carácter geográfico en Arqueología"* ([Presentación](/transpas/jornada-cultura-libre/datos-hw/01_Morales.pdf))  
