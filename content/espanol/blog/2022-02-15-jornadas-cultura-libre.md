@@ -53,7 +53,7 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
 
 ### Ponencias invitadas
 
-* *" Todo lo que siempre quiso saber sobre ciencia abierta y nunca se animó a preguntar"* ([Presentación](/transpas/jornada-cultura-libre/invitadas/))  
+* *" Todo lo que siempre quiso saber sobre ciencia abierta y nunca se animó a preguntar"* ([Presentación](/transpas/jornada-cultura-libre/invitadas/01_Rico.pdf))  
   Ponente: Pilar Rico, Fundación Española para la Ciencia y la Tecnología (FECyT)
 
 * *"No solo de software libre vive la Cultura Libre"* ([Presentación](/transpas/jornada-cultura-libre/invitadas/02_Tramullas.pdf))  
