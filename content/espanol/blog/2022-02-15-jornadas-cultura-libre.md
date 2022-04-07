@@ -167,6 +167,8 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
 
 * [Cartel de la jornada](/images/blog/jornada-cultura-libre/square.png)
 
+* [Cartel Innovawiki](/images/blog/jornada-cultura-libre/innova-wiki.pdf)
+
 ## Envío de propuestas e inscripción
 
 Si quieres participar con una ponencia corta, contando tu experiencia de trabajo con materiales libres, publicando en abierto o liberando datos, envía tu resumen antes del 28 de febrero a través del [formulario de propuesta de ponencias](https://eventos.urjc.es/78452/section/35438/primeras-jornadas-de-cultura-libre-en-la-urjc.html). **Nota:** El envío de propuestas ya está cerrado
