@@ -128,6 +128,10 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
   Ponente: Mª del Carmen Gálvez de la Cuesta  
   Autoría: Manuel Gértrudix Barrio, Mª del Carmen Gálvez de la Cuesta, Mª del Carmen Gertrudis Casado, Mario Rajas Fernández, Juan Romero Luis, Alejandro Carbonell Alcocer, Miguel Baños González, José Luis Rubio Tamayo, Rubén Arcos Martín y Ernesto Taborda Hernández
 
+* *"Innovawiki: repositorio en abierto con recursos para el adecuado uso de Wikipedia"* ([Póster](/images/blog/jornada-cultura-libre/innova-wiki.pdf))  
+  Ponente: Marta García Sahagún  
+  Autoría: Marta García Sahagún, Florencia Claes, Lizette Martínez Valerio, Antonio García Jiménez, Luis Deltell, María Sefidari Huici, Bárbara Caffarel Rodríguez, Patricia Izquierdo Iranzo, Francisco Javier Pérez Blanco.
+  
 ### Software libre
 
 * *"Experiencias y resultados del uso del software libre ImageJ para la evaluación de imágenes ecográficas con fines docentes e investigadores en Ciencias de la Salud"* ([Presentación](/transpas/jornada-cultura-libre/sw/01_Arias.pdf))  
@@ -166,8 +170,6 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
 * "Bombilla abierta": [formato PDF](/images/blog/jornada-cultura-libre/bombilla.pdf), [formato PNG](/images/blog/jornada-cultura-libre/bombilla.png). Autor: José Luis Rubio Tamayo. Licencia: Creative Commons Reconocimiento 4.0 Internacional.
 
 * [Cartel de la jornada](/images/blog/jornada-cultura-libre/square.png)
-
-* [Cartel Innovawiki](/images/blog/jornada-cultura-libre/innova-wiki.pdf)
 
 ## Envío de propuestas e inscripción
 
