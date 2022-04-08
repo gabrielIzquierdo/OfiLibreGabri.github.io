@@ -172,11 +172,11 @@ Una vez sabemos qué licencia vamos a usar, tenemos que marcar
 la memoria con esa licencia. Para ello, pondremos en la memoria
 un texto similar a este:
 
-> ©2021 Autora Mengánez Zutánez<br>
-> Algunos derechos reservados<br>
-> Este documento se distribuye bajo la licencia<br>
+> ©2021 Autora Mengánez Zutánez  
+> Algunos derechos reservados  
+> Este documento se distribuye bajo la licencia  
 > “Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
-> disponible en<br>
+> disponible en  
 > https://creativecommons.org/licenses/by-sa/4.0/deed.es
 
 Normalmente, este texto se pone en una de las primeras páginas
