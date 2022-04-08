@@ -36,5 +36,5 @@ Así que si te interesa saber qué es el software libre, si quieres saber qué v
 * Formato: híbrido (presencial y por videoconferencia para asistencia remota).
 * Asistencia presencial: Campus de Móstoles, Edificio Aulario I, Aula 004.
 * Asistencia remota: [Sala de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2JlNzY2ODctM2ZmOS00YTdlLThjYjItZjU0MTU2NmJhOTcw%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d).
-* Registro (necesario para poder asistir): Se indicará la dirección de registro en breve.
+* Registro (necesario para poder asistir): El registro se hará en eventos: https://eventos.urjc.es/82054/detail/que-es-el-software-libre.html.
 * Los asistentes recibirán un certificado de créditos de Reconocimiento Académico de Créditos (RAC). Para poder optar a los créditos será imprescindible haberse registrado con la dirección de correo de la Universidad, figurar en la hoja de firmas (para asistentes presenciales) o en el listado de asistentes de Teams (asistentes remotos, por favor autenticarse en Teams con la dirección de correo de la URJC), y participar, durante el propio seminario, en las actividades que se planteen.
