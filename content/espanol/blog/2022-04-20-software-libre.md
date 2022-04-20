@@ -29,6 +29,11 @@ Así que si te interesa saber qué es el software libre, si quieres saber qué v
 * Licencias de software libre
 * Cómo publicar software libre
 
+## Materiales
+
+* Transparencias: [formato PDF](/transpas/software-libre/transpas.pdf)
+* [Guía: Publicación de software libre](/guias/publicar-software-libre)
+
 ## Resumen de datos
 
 * A quien va dirigido: a toda la comunidad universitaria, pero muy especialmente a los que producen programas de ordenador.
