@@ -128,7 +128,7 @@ Se podrá seguir todas las jornadas de forma telemática a través de https://tv
   Ponente: Mª del Carmen Gálvez de la Cuesta  
   Autoría: Manuel Gértrudix Barrio, Mª del Carmen Gálvez de la Cuesta, Mª del Carmen Gertrudis Casado, Mario Rajas Fernández, Juan Romero Luis, Alejandro Carbonell Alcocer, Miguel Baños González, José Luis Rubio Tamayo, Rubén Arcos Martín y Ernesto Taborda Hernández
 
-* *"Innovawiki: repositorio en abierto con recursos para el adecuado uso de Wikipedia"* ([Póster](/images/blog/jornada-cultura-libre/innova-wiki.pdf))  
+* *"Innovawiki: repositorio en abierto con recursos para el adecuado uso de Wikipedia"* [Póster](/transpas/jornada-cultura-libre/posters/innova-wiki.pdf)
   Ponente: Marta García Sahagún  
   Autoría: Marta García Sahagún, Florencia Claes, Lizette Martínez Valerio, Antonio García Jiménez, Luis Deltell, María Sefidari Huici, Bárbara Caffarel Rodríguez, Patricia Izquierdo Iranzo, Francisco Javier Pérez Blanco.
   
