@@ -40,7 +40,7 @@ para poder configurar impresoras CUPS (alternativamente,
 se pueden configurar desde la interfaz web):
 
 ```
-$ system-config-printer
+$ sudo apt install system-config-printer
 ```
 
 Dependiendo del sistema operativo exacto que tengas, puede que
@@ -71,14 +71,12 @@ La impresora es una Konica Minolta bizhub C458,
 que configuraremos como "C759SeriesPS(P) BEU".
 Comenzamos por descargar los ficheros necesarios
 de la página de la
-[bizhub C458](https://www.konicaminolta.es/es-es/hardware/oficina/bizhub-c458):
-"Especificaciones y descargas", "Descargas", "Driver", ultima versión,
-1.20 al escribir esta guía, "Descargar". Tras aceptar la licencia,
-se bajan los tres archivos que ofrece, en nuestro caso:
+[bizhub C458](https://kmbs.konicaminolta.us/kmbs/technology/multifunction/color-multi-function/bizhub-c458):
+"Drivers", "Drivers", "Linux", "Version 1.21" (última versión al editar esta guía, 1.21, el nombre de los ficheros variará si aparecen nuevas versiones), y en esa entrada se descargan los tres ficheros que ofrece:
 
-* GenericBeuUXv1_20_multi_language.tar.gz
+* GenericBeuUXv1_21_multi_language.tar.gz
 * BEU Linux CUPS Driver Guide.pdf
-* KMbeuUXv1_20_multi_language.tar.gz
+* KMbeuUXv1_21_multi_language.tar.gz
 
 Guardamos los tres en el mismo directorio.que
 
@@ -116,7 +114,7 @@ Cuando nos pide la dirección de la impresora, ponemos
 `smb://<dominio>/iveco.urjc.es/URJC_IMPRESORA_VIRTUAL`
 
 El `<dominio>` es el dominio WINS en el que estás, puede ser
-`people`, `escet`, cct`, u otros (ver más abajo "[En qué dominio estoy](#dominio)".
+`people`, `escet`, `cct`, u otros (ver más abajo "[En qué dominio estoy](#dominio)").
 
 Asegúrate tambien de marcar "avisar al usuario si hace falta autenticación"
 (o si prefieres, deja ya grabado tu nombre de usuario y tu contraseña)
