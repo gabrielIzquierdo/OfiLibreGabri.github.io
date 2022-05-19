@@ -22,6 +22,8 @@ defaultContentLanguage = "es"
 
 #[markup.goldmark.renderer]
 #  hardWraps = true
+[markup.goldmark.renderer]
+unsafe = true
 
 ############################# Plugins ##############################
 
