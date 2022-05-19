@@ -15,11 +15,13 @@ thumb: "images/blog/jornada-cultura-libre/square.png"
 ---
 
 
-El próximo 30 de marzo tendrá lugar las Primeras Jornadas de Cultura Libre de la URJC en el Campus de Fuenlabrada. La Jornada está concebida como un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos, software libre, etc. Contará con presentaciones de expertos sobre algunos de estos temas, con reuniones sobre temas específicos, y con presentación de ponencias por parte de miembros de la comunidad universitaria.
+El pasado 30 de marzo de 2022 tuvo lugar la Primera Jornada de Cultura Libre de la URJC en el Campus de Fuenlabrada. La Jornada está concebida como un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos, software libre, etc. Contó con presentaciones de expertos sobre algunos de estos temas, con reuniones sobre temas específicos, y con presentación de ponencias por parte de miembros de la comunidad universitaria.
 
 La jornada está dirigida a toda la comunidad universitaria de la URJC, y a cualquier persona interesada en la cultura libre, la publicación en acceso abierto, los datos abiertos, el software libre, y otras manifestaciones relacionadas.
 
-Se podrá seguir todas las jornadas de forma telemática a través de https://tv.urjc.es/live/event/622f6141d3b3341ccf6256c5, aunque el reconocimiento académico de créditos solo se ofrecerá para la asistencia presencial.
+Está disponible el video con todas las presentaciones de la jornada, y un [resumen de su desarrollo](/2022-05-19-jornadas-resultado/).
+
+<iframe src='https://tv.urjc.es/iframe/626bfdadd3b334bb231e753c' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
 
 ## Programa resumido
 
