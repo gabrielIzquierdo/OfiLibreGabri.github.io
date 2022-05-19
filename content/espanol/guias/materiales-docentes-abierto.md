@@ -175,16 +175,18 @@ Una vez sabemos qué licencia vamos a usar, tenemos que marcar
 el material con esa licencia. Para ello, idealmente deberíamos 
 incluir en el material un texto similar a este:
 
-> ©2021 Autora Mengánez Zutánez  
-> Algunos derechos reservados  
-> Este documento se distribuye bajo la licencia  
-> “Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
-> disponible en  
-> https://creativecommons.org/licenses/by-sa/4.0/deed.es
+```
+©2022 Autora Mengánez Zutánez  
+Algunos derechos reservados  
+Este documento se distribuye bajo la licencia  
+“Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
+disponible en  
+https://creativecommons.org/licenses/by-sa/4.0/deed.es
+```
 
 El año es el año de publicación, y "Autora Mengánez Zutánez" sería
-el nombre de al persona autora del material. Obviamente si son
-varios los autores, aparecerá el nombre de todos ellos.
+el nombre de al persona autora del material (si son
+varios los autores, aparecerá el nombre de todos ellos).
 Naturalmente, la referencia a la licencia será a la que
 se haya elegido en el paso anterior.
 
