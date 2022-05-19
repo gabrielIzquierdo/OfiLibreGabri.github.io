@@ -14,6 +14,7 @@ bg_image: "images/blog/jornada-cultura-libre/banner.jpg"
 thumb: "images/blog/jornada-cultura-libre/square.png"
 ---
 
+[ Después de la jornada hemos editado esta noticia incorporando los materiales que se generaron en ella, para que sirva como archivo ]
 
 El pasado 30 de marzo de 2022 tuvo lugar la Primera Jornada de Cultura Libre de la URJC en el Campus de Fuenlabrada. La Jornada está concebida como un punto de encuentro, formación, e intercambio de experiencias sobre los temas relacionados con la cultura libre en la Universidad: publicación abierta (de materiales docentes, de investigación, etc.), ciencia abierta, datos abiertos, software libre, etc. Contó con presentaciones de expertos sobre algunos de estos temas, con reuniones sobre temas específicos, y con presentación de ponencias por parte de miembros de la comunidad universitaria.
 
