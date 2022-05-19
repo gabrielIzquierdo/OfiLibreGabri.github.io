@@ -1,6 +1,6 @@
 ---
 title: Publicación de materiales docentes en abierto
-logo: software-libre/logo.png
+logo: openaccess-square.png
 date: 2022-05-19
 published: true
 type: guias
