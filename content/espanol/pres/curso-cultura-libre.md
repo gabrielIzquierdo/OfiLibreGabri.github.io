@@ -6,13 +6,16 @@ feature: Cultura_Libre.png
 teaser: Cultura_Libre.png
 transpas:
   pdf: Cultura_Libre.pdf
-  odp: Cultura_Libre.odp
 
 extras:
   - name: Introducción a la Cultura Libre (PDF)
     url: /transpas/curso-cultura-libre/Cultura_Libre_Intro.pdf
   - name: Introducción a la Cultura Libre (ODP, para LibreOffice)
     url: /transpas/curso-cultura-libre/Cultura_Libre_Intro.odp
+  - name: Licencias (PDF)
+    url: /transpas/curso-cultura-libre/Cultura_Libre_Licencias.pdf
+  - name: Licencias (ODP, para LibreOffice)
+    url: /transpas/curso-cultura-libre/Cultura_Libre_Licencias.odp
 
 type: pres
 
