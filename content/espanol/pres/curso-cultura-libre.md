@@ -16,6 +16,10 @@ extras:
     url: /transpas/curso-cultura-libre/Cultura_Libre_Licencias.pdf
   - name: Licencias (ODP, para LibreOffice)
     url: /transpas/curso-cultura-libre/Cultura_Libre_Licencias.odp
+  - name: Búsqueda de obras libres (PDF)
+    url: /transpas/curso-cultura-libre/Cultura_Libre_Busqueda.pdf
+  - name: Búsqueda de obras libres (ODP, para LibreOffice)
+    url: /transpas/curso-cultura-libre/Cultura_Libre_Busqueda.odp
 
 type: pres
 
