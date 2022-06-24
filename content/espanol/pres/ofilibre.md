@@ -1,12 +1,21 @@
 ---
-title: Presentación de la OfiLibre
+title: "Presentación de la OfiLibre"
 date: 2019-04-01
 feature: Ofilibre-presentacion.png
 teaser: Ofilibre-presentacion.png
-
 transpas:
     pdf: Ofilibre-presentacion.pdf
     odp: Ofilibre-presentacion.odp
+
+extras:
+  - name: "La OfiLibre de la URJC: un modelo para fomentar la cultura libre en la Universidad (presentación en esLibre 2022) (PDF)"
+    url: /transpas/ofilibre/Modelo-OfiLibre.pdf
+  - name: "La OfiLibre de la URJC: un modelo para fomentar la cultura libre en la Universidad (ODF)"
+    url: /transpas/ofilibre/Modelo-OfiLibre.odp
+  - name: "Repensando las Oficinas de Software Libre en las Universidades (presentación en esLibre 2021) (PDF)"
+    url: /transpas/ofilibre/Modelo-OfiLibre-2021-06-25.pdf
+  - name: "Repensando las Oficinas de Software Libre en las Universidades (ODF)"
+    url: /transpas/ofilibre/Modelo-OfiLibre-OfiLibre-2021-06-25.odp
 
 type: pres
 ---

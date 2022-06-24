@@ -22,7 +22,6 @@ extras:
     url: /transpas/curso-cultura-libre/Cultura_Libre_Busqueda.odp
 
 type: pres
-
 ---
 
 Materiales del curso sobre conocimiento y cultura libres, parte del Plan de Formación del PDI de la URJC. Tuvo lugar los días 21 y 23 de junio de 2022.
