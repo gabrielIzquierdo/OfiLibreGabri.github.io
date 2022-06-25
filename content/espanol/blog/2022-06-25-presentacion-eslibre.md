@@ -1,7 +1,7 @@
 ---
 title: "La OfiLibre de la URJC: un modelo para fomentar la cultura libre en la Universidad"
 date: 2022-06-25
-slug: 2022-06-25-presentacion-eslibre.md
+slug: 2022-06-25-presentacion-eslibre
 draft: false
 author: "OfiLibre"
 type: "post"
