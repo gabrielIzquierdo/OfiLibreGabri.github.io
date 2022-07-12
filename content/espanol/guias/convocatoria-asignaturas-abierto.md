@@ -6,7 +6,7 @@ published: true
 type: guias
 ---
 
-> Presentación de detalles de esta convocatoria: miércoles 13 de julio, a las 11:00, en [este canal de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEwNDFmMWEtZTRjMy00NDFjLThkNzQtOGU5YzY0NWI3OWJl%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d).
+> Presentación de detalles de esta convocatoria: miércoles 13 de julio, a las 11:00, en [este canal de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEwNDFmMWEtZTRjMy00NDFjLThkNzQtOGU5YzY0NWI3OWJl%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d). Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.odp).
 
 Esta convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Extensión Universitaria y Ordenación Académica y Formación del Profesorado. Se enmarca dentro las acciones del proyecto colaborativo RED (Recursos educativos digitales: calidad y compartición en abierto), financiado en el marco del Plan UniDigital del Ministerio de Universidades.
 
