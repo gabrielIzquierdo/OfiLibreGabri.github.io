@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ofilibre.gitlab.io"
+baseURL = "https://ofilibre.urjc.es"
 title = "OfiLibre URJC"
 subtitle = "Oficina de Conocimiento y Cultura Libres URJC"
 theme = "educenter-hugo"
