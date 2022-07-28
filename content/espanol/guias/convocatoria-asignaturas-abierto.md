@@ -96,7 +96,11 @@ De cara a la convocatoria, ponga los enlaces a los recursos abiertos en un sitio
 
 Los vídeos y podcasts se pueden subir a la plataforma [URJC TV](https://tv.urjc.es). Conviene que consultes el [Procedimiento de publicación de materiales en abierto en TV URJC](https://infotic.urjc.es/pages/viewpage.action?pageId=154370093).
 
+#### ¿Cómo enlazo mis vídeos desde el aula virtual? 
 
-#### ¿Cómo enlazo mis vídeos desde el aula virtual?
+Los vídeos deben estar publicados dentro de una misma colección, y dicha colección se enlazará desde el aula virtual, en un sitio fácilmente accesible. Se recomienda incluir este enlace en la parte superior de la página de contenidos. 
 
-Los vídeos deben estar publicados dentro de la misma colección, y dicha colección se enlazará desde el aula virtual, en un sitio fácilmente accesible. Se recomienda incluir este enlace en la parte superior de la página de contenidos. 
+#### Ya he enviado el formulario, pero quiero realizar cambios, ¿cómo lo hago?
+
+Una vez enviado el formulario, no se puede modificar. Puede rellenar el formulario de nuevo, y el comité evaluador considerará siempre la última versión enviada para cada asignatura.
+
