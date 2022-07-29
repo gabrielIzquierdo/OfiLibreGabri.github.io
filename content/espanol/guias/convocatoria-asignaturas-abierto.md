@@ -43,7 +43,7 @@ Las asignaturas que se impartan durante el primer cuatrimestre podrán presentar
 
 Para resolver dudas relacionadas con esta convocatoria, se pueden consultar las preguntas más frecuents, con sus respuestas, más adelante en este documento. En caso de que no se puedan resolver así, se podrán plantear por correo electrónico a la dirección ofilibre@urjc.es, donde se les tratará de dar solución lo antes posible.
 
-### Preguntas frecuentes, con sus respuestas (#faq)
+### Preguntas frecuentes, con sus respuestas {#faq}
 
 Para facilitar su consulta, todas aquellas dudas que se vayan resolviendo se incluirán en esta sección.
 
