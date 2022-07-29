@@ -6,7 +6,9 @@ published: true
 type: guias
 ---
 
-> Presentación de detalles de esta convocatoria: miércoles 13 de julio, a las 11:00, en [este canal de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEwNDFmMWEtZTRjMy00NDFjLThkNzQtOGU5YzY0NWI3OWJl%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d). Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.odp).
+> Presentación de detalles de esta convocatoria: sesión realizada el miércoles 13 de julio. Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.odp). [Video de la presentación](https://tv.urjc.es/video/62e2b32867a0a661cb0b6e20).
+
+[Preguntas más frecuentes sobre esta convocatoria](#faq)
 
 Esta convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Extensión Universitaria y Ordenación Académica y Formación del Profesorado. Se enmarca dentro las acciones del proyecto colaborativo RED (Recursos educativos digitales: calidad y compartición en abierto), financiado en el marco del Plan UniDigital del Ministerio de Universidades.
 
@@ -41,7 +43,7 @@ Las asignaturas que se impartan durante el primer cuatrimestre podrán presentar
 
 Para resolver dudas relacionadas con esta convocatoria, se pueden consultar las preguntas más frecuents, con sus respuestas, más adelante en este documento. En caso de que no se puedan resolver así, se podrán plantear por correo electrónico a la dirección ofilibre@urjc.es, donde se les tratará de dar solución lo antes posible.
 
-### Preguntas frecuentes, con sus respuestas
+### Preguntas frecuentes, con sus respuestas (#faq)
 
 Para facilitar su consulta, todas aquellas dudas que se vayan resolviendo se incluirán en esta sección.
 
