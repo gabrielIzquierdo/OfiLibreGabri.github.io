@@ -6,14 +6,24 @@ published: true
 type: guias
 ---
 
-> Presentación de detalles de esta convocatoria: sesión realizada el miércoles 13 de julio. Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.odp). [Video de la presentación](https://tv.urjc.es/video/62e2b32867a0a661cb0b6e20).
-
 [Preguntas más frecuentes sobre esta convocatoria](#faq)
 
 Esta convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Extensión Universitaria y Ordenación Académica y Formación del Profesorado. Se enmarca dentro las acciones del proyecto colaborativo RED (Recursos educativos digitales: calidad y compartición en abierto), financiado en el marco del Plan UniDigital del Ministerio de Universidades.
 
 Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria
 para el reconocimiento de publicación de asignaturas en acceso abierto 2022-2023](/documentos/convocatoria-asignaturas-abierto-2022-2023.pdf). A continuación se resumen y se explican algunos de sus aspectos más importantes. En caso de diferencia entre este resumen y el documento, tendrá validad el documento, que es el oficialmente publicado por la Universidad.
+
+Los detalles sobre esta convocatoria se presentaron en sesión realizada el miércoles 13 de julio de 2022:
+
+* Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.odp).
+ * [Video de la presentación](https://tv.urjc.es/video/62e2b32867a0a661cb0b6e20).
+
+En el siguiente horario habrá sesiones telemáticas públicas de resolución de dudas sobre la convocatoria, vía [sala de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNhZjFhOTEtZmRjNi00YzQzLWI5NTQtZWU0Nzg3MmU0YWQ0%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d):
+
+* Martes 6 de septiembre, 17:00
+* Miércoles 14 de septiembre, 12:00
+* Martes 20 de septiembre, 17:00
+* Miércoles 28 de septiembre, 12:00
 
 ### Objeto
 
