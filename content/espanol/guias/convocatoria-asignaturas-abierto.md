@@ -116,3 +116,6 @@ Los vídeos deben estar publicados dentro de una misma colección, y dicha colec
 
 Una vez enviado el formulario, no se puede modificar. Puede rellenar el formulario de nuevo, y el comité evaluador considerará siempre la última versión enviada para cada asignatura.
 
+#### ¿Puedo aportar software (programas de ordenador) que utilizo en mis clases en alguna categoría?
+
+El software libre que se utiliza en docencia podría aportarse en la categoría "Otros materiales" de la convocatoria, si cumple ciertos requisitos. Para explicar cuáles son estos requisitos, y en general para su consulta por los docentes que son autores de software libre que utilizan en sus clases hemos preparado unas recomendaciones específicas: [Convocatoria de asignaturas en abierto: software para docencia"](/guias/convocatoria-asignaturas-abierto-software)
