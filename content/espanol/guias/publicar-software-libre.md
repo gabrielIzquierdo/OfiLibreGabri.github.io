@@ -6,8 +6,6 @@ published: true
 type: guias
 ---
 
-[Borrador: documento no definitivo, en proceso de revisión]
-
 Cualquier miembro de la comunidad universitaria puede querer publicar
 como software libre un programa que haya realizado. Esta guía explica
 cómo hacerlo.
