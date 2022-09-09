@@ -114,6 +114,6 @@ En el formulario de solicitud de la Convocatoria de Reconocimiento de Asignatura
 
 Puede instalarse tanto en Firefox como en Chrome la [extensión de Software Hertiage](https://www.softwareheritage.org/browser-extensions/), que permite comprobar cómodamente el estado de archivo de un repositorio alojado en GitHub o GitLab, pedir la actualización del archivo, conseguir su SWHID, o incluso el fichero comprimido con sus contenidos.
 
-## Referncias
+## Referencias
 
 Puede ser útil, antes de componer el repositiro, consultar la guía [Publicación de software libre](/guias/publicar-software-libre).
