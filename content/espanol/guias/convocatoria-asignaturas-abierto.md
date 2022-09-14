@@ -119,3 +119,12 @@ Una vez enviado el formulario, no se puede modificar. Puede rellenar el formular
 #### ¿Puedo aportar software (programas de ordenador) que utilizo en mis clases en alguna categoría?
 
 El software libre que se utiliza en docencia podría aportarse en la categoría "Otros materiales" de la convocatoria, si cumple ciertos requisitos. Para explicar cuáles son estos requisitos, y en general para su consulta por los docentes que son autores de software libre que utilizan en sus clases hemos preparado unas recomendaciones específicas: [Convocatoria de asignaturas en abierto: software para docencia"](/guias/convocatoria-asignaturas-abierto-software)
+
+#### ¿Cómo se vería mi asignatura en abierto? ¿Puedo ver algún ejemplo?
+
+Para ver una asignatura en abierto, puedes ir al Aula Virtual y antes de ingresar, hay varias disponibles. [Ejemplo 1](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=171109)
+[Ejemplo 2](https://www.aulavirtual.urjc.es/moodle/theme/urjc/code/courses.php)
+
+#### ¿Tengo que cambiar la forma de presentar mis materiales para participar?
+
+No necesariamente. Aunque para subirlos al Archivo Abierto Institucional de la URJC (BURJC Digital) debe estar agrupados. La idea es mantener la forma en que damos las clases y hacer un compilado para depositar.
