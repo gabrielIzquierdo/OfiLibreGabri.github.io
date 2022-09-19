@@ -102,15 +102,13 @@ En caso de materiales que no encajan en ninguna categoría, inclúyalos en otros
 #### ¿Dónde pongo mis recursos abiertos en mi asignatura de aula virtual?
 
 De cara a la convocatoria, ponga los enlaces a los recursos abiertos en un sitio fácilmente accesible, como al principio de la página de contenidos, con independencia de que luego sean enlazados desde otras partes de la asignatura. Esto facilitará el acceso a los mismos durante el proceso de evaluación de solicitudes. Tenga en cuenta que los evaluadores deben encontrar fácilmente los enlaces a estos materiales.
-      
 
-#### ¿Cómo subo mis vídeos?
+#### ¿Cómo subo mis vídeos y los enlazo desde Aula Virtual?
 
-Los vídeos y podcasts se pueden subir a la plataforma [URJC TV](https://tv.urjc.es). Conviene que consultes el [Procedimiento de publicación de materiales en abierto en TV URJC](https://infotic.urjc.es/pages/viewpage.action?pageId=154370093).
+Los vídeos y podcasts se deben subir primero a la plataforma [TV URJC](https://tv.urjc.es) y después enlazarlos para que queden visibles en la asignatura de Aula Virtual. Conviene que consultes el [Procedimiento de publicación de materiales en abierto en TV URJC](https://infotic.urjc.es/pages/viewpage.action?pageId=154370093). En este procedimiento se indica cómo los vídeos se deben publicar en TV URJC en una misma colección, que será la que se indique posteriormente en el formulario de solicitud de esta convocatoria. También el procedimiento muestra cómo insertar en Aula Virtual los vídeos subidos a TV URJC.
 
-#### ¿Cómo enlazo mis vídeos desde el aula virtual? 
+Los vídeos subidos desde TV URJC a Aula Virtual siguiendo este procedimiento son visibles para los estudiantes de la asignatura. Si la asignatura se aprueba para que esté disponible en abierto, esa colección se abrirá al público en general, por lo que la podrá ver todo el mundo.
 
-Los vídeos deben estar publicados dentro de una misma colección, y dicha colección se enlazará desde el aula virtual, en un sitio fácilmente accesible. Se recomienda incluir este enlace en la parte superior de la página de contenidos. 
 
 #### Ya he enviado el formulario, pero quiero realizar cambios, ¿cómo lo hago?
 
