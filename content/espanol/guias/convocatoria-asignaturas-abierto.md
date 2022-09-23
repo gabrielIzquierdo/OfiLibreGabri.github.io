@@ -126,3 +126,55 @@ Para ver una asignatura en abierto, puedes ir al Aula Virtual y antes de ingresa
 #### ¿Tengo que cambiar la forma de presentar mis materiales para participar?
 
 No necesariamente. Aunque para subirlos al Archivo Abierto Institucional de la URJC (BURJC Digital) debe estar agrupados. La idea es mantener la forma en que damos las clases y hacer un compilado para depositar.
+
+#### Yo imparto la misma asignatura en dos grupos, es decir, me aparece dos veces en el Aula virtual… ¿tengo que presentarla dos veces? ¿Completar el formulario de participación en la convocatoria dos veces?
+
+Sí. Hay que rellenar el formulario de la convocatoria tantas veces como asignaturas tengas en el aula virtual.
+
+#### ¿Cómo se vería mi asignatura en abierto? ¿Puedo ver algún ejemplo?
+
+Para ver una asignatura en abierto, puedes ir al Aula Virtual y antes de ingresar, hay varias disponibles. [Ejemplo 1](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=171109)
+[Ejemplo 2](https://www.aulavirtual.urjc.es/moodle/theme/urjc/code/courses.php)
+
+
+#### ¿Tengo que cambiar la forma de presentar mis materiales para participar?
+
+No necesariamente. Aunque para subirlos al Archivo Abierto Institucional de la URJC (BURJC Digital) debe estar agrupados. La idea es mantener la forma en que damos las clases y hacer un compilado para depositar.
+
+
+#### ¿Tengo que cambiar la forma de presentar mis materiales para participar?
+
+No necesariamente. Aunque para subirlos al Archivo Abierto Institucional de la URJC (BURJC Digital) debe estar agrupados. La idea es mantener la forma en que damos las clases y hacer un compilado para depositar.
+
+#### ¿Solo se pueden usar las licencias CCBY y CCBYSA? ¿Por qué no CCBYNC?
+R: Las licencias aceptadas son CCBY y CCBYSA. CCBYNC no se acepta porque no es parte de las licencias acordadas por el Consejo de publicación en abierto.
+
+#### ¿Cuándo es el último día para participar de la Convocatoria?
+El 30/09/2022 es el último día para completar el formulario de la convocatoria con la información requerida, pero para poder hacerlo deben estar subidos, previamente, en los repositorios correspondientes. Es importante tomar en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material al  BURJC Digital es el 28 de septiembre.
+Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto.
+
+#### En la convocatoria, el el punto 2 dice lo siguiente “Han de incluir claramente en el encabezado, primera página o equivalente los siguientes datos: Autores, título, y fecha. También incluirá una referencia a la URJC, a la asignatura o asignaturas en las que se utiliza el material y al lugar de depósito (TV URJC o BURJC digital, incluyendo su enlace) y de forma clara la licencia de distribución en acceso abierto”. Entonces, cuando dice “incluyendo su enlace” ¿qué quiere decir?
+
+De este trámite se encargará el mismo Archivo digital. Cuando se proceda a la inclusión en el archivo y se genere el enlace (handle) desde el mismo archivo incluirán esta información en el material depositado.
+
+
+
+#### Quiero publicar un paquete de ejercicios, pero muchas veces son heredados de años y años… ¿puedo usarlos y subirlos al repositorio?
+La convocatoria está pensada para liberar y publicar materiales de creación propia, o en coautoría con autorización de los restantes autores. Publicar algo como propio, sin estar seguro de si somos los autores o no, no es aconsejable.
+
+#### Hasta el año pasado éramos dos profesoras impartiendo la asignatura. Para este curso solo la impartirá la otra profesora. ¿Puedo participar de la convocatoria?
+No. Participan de la convocatoria los docentes que la imparten este año. Por otro lado, los materiales (que pueden ser en coautoría con otros profesores) si finalmente reciben reconocimiento económico, será para los profesores que imparten la asignatura en el actual curso.
+
+#### Si tengo mis vídeos en Youtube, ¿sirve para la convocatoria?
+No. Deben estar en el repositorio de URJC-TV con una de las licencias propuestas.
+
+#### Tengo un programa de ordenador que me gustaría que participara de la convocatoria. ¿Cómo lo incluyo?
+Los programas de ordenador sí pueden participar de la convocatoria. Hay un procedimiento para su almacenamiento y en el formulario de participación, debe incluirse en la categoría de “Otros”  https://ofilibre.urjc.es/guias/convocatoria-asignaturas-abierto-software/
+
+
+#### Si imparto clases en el segundo cuatrimestre... ¿Puedo participar ahora?
+No, hay que esperar a la convocatoria del segundo cuatrimestre
+
+#### Si finalmente mi asignatura es elegida para publicarse en abierto pero hay en mi aula virtual algún material que en realidad no se pueda poner en abierto...¿ qué pasa?
+Llegado el caso, se puede configurar ese material en concreto para que no sea visible (eso se hará en el momento de la publicación).
+
