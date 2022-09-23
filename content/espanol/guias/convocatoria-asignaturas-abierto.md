@@ -178,3 +178,26 @@ No, hay que esperar a la convocatoria del segundo cuatrimestre
 #### Si finalmente mi asignatura es elegida para publicarse en abierto pero hay en mi aula virtual algún material que en realidad no se pueda poner en abierto...¿ qué pasa?
 Llegado el caso, se puede configurar ese material en concreto para que no sea visible (eso se hará en el momento de la publicación).
 
+#### He subido vídeos a TV URJC y no los veo disponibles
+
+Pregunta completa:
+Ayer subí a TV URJC una serie de vídeos/audios para una asignatura que quiero presentar a la convocatoria en acceso abierto. El caso es que, cuando accedo al link de la serie para ver si está todo correcto, no me aparece ningún vídeo. En cambio, si me meto en gestor de contenidos de mi perfil de TV URJC, sí que me dice que los vídeos están correctamente subidos y publicados. No sé si esto es normal o si me falta algún paso por hacer para poder presentar la asignatura a la convocatoria.
+Respuesta:  es normal, porque los videos están subidos, pero no son aún públicos. Lo serán si tu asignatura es finalmente puesta en abierto. Mientras tanto, sólo los alumnos de tu asignatura podrán verlos, llegando a ellos por enlace del aula virtual.
+
+#### ¿Tengo Apuntes y Transparencias, ¿cómo las deposito?
+Pregunta completa: En mi caso, tengo dos tipos de materiales: apuntes y presentaciones. Según la convocatoria debería subir dos PDFsy, uno para apuntes y otro para presentaciones. La duda es si lo puedo subir todo de una vez o si tengo que hacer dos entradas para solicitar dos enlaces en la BURJC Digital.
+
+Respuesta: Como son dos documentos PDF (correspondientes cada uno a una categoría)
+tendrían que ser dos entradas en BURJC Digital, una para cada
+documento.
+
+#### Al subir mis apuntes a la BURJC… ¿los subo por tema o por tipo de material?
+Pregunta completa: En la convocatoria dice: En el caso de materiales bibliográficos (apuntes, presenta-ciones o transparencias, colecciones de problemas, colecciones de exámenes), deben estar depositados en el Archivo Abierto Institucional de la URJC (BURJC Digital), como un solo documento por categoría, en formato PDF y en el formato fuente que se haya utilizado para su realización (como archivo anexo al documento).
+¿No se pueden subir los apuntes por cada tema? (Es como yo los tengo hechos y subidos a BURJC, porque parece más pedagógico que en cada tema tengan sus vídeos, sus apuntes, sus ejercicios resueltos, etc.). Del mismo modo, los ejercicios son por cada tema (e incluso archivos diferentes para cada ejercicio).
+
+Respuesta: Pues lo siento, pero en esta convocatoria hay que subir los documentos
+en un único PDF por categoría. Eso no quita que tú en tus clases los utilices tema por tema, y tengas un PDF por tema (o por sesión de clase, o por lo que te parezca mejor). Pero en el momento de subirlo a BURJC Digital, ha de ser un solo documento. Luego, en alguna parte visible de la asignatura enlazarás a ese documento (puede ser, por ejemplo, "colección completa de apuntes"), para que cuando la asignatura se ponga en abierto se pueda ver claramente dónde está el documento completo.
+
+El documento completo puede ser simplemente una concatenación de los PDF (si necesitas ayuda para componer esa concatenación, dinos), si es posible con una portada y un índice. O, dependiendo de la herramienta que uses para escribirlos, todos los apuntes en un documento conjunto, del que producirás un único PDF.
+Pero luego, si prefieres ir subiendo los materiales tema a tema para tus alumnos, porque así los manejáis mejor (o porque en ello haces pequeños cambios por ejemplo para arreglar errores que detectas al preparar las sesiones de cada semana), no hay ningún problema en ello. Únicamente, advierte a tus alumnos que mejor que usen las versiones tema a tema.
+
