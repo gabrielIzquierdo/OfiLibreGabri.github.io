@@ -6,7 +6,7 @@ draft: false
 author: "OfiLibre"
 type: "post"
 tags: [OfiLibre]
-categories: ["OTROSSSSSSSSSSSSS"]
+categories: ["guias"]
 
 description: "Consultas a Javier de la Cueva sobre CC"
 
