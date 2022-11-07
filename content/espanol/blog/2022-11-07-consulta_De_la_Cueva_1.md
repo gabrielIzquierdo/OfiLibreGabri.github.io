@@ -5,14 +5,13 @@ slug: consulta_expertos_octubre
 draft: false
 author: "OfiLibre"
 type: "post"
-tags: [OfiLibre]
+tags: ["publicación abierta"]
 categories: ["guias"]
 
 description: "Consultas a Javier de la Cueva sobre CC"
 
 # post images 
 bg_image: "images/cc horizontal.jpeg/"
-feature: "images/cc horizontal.jpeg/"
 thumb: "images/CC.png/"
 ---
 
