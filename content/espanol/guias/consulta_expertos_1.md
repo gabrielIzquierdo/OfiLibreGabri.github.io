@@ -12,7 +12,7 @@ description: "Consultas a Javier de la Cueva sobre CC"
 
 # post images 
 bg_image: "images/cc horizontal.jpeg/"
-feature: "images/CC.png/"
+feature: 
 thumb: "images/CC.png/"
 ---
 
