@@ -18,12 +18,11 @@ Los detalles sobre esta convocatoria se presentaron en sesión realizada el mié
 * Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.odp).
  * [Video de la presentación](https://tv.urjc.es/video/62e2b32867a0a661cb0b6e20).
 
-En el siguiente horario habrá sesiones telemáticas públicas de resolución de dudas sobre la convocatoria, vía [sala de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNhZjFhOTEtZmRjNi00YzQzLWI5NTQtZWU0Nzg3MmU0YWQ0%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d):
+En el siguiente horario habrá una sesión telemática pública de resolución de dudas sobre la convocatoria, vía [sala de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2RlYThlZjgtZDAwNi00MGFhLWI0ZDctYmNiNWY4MGMxMjdl%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d):
 
-* Martes 6 de septiembre, 17:00
-* Miércoles 14 de septiembre, 12:00
-* Martes 20 de septiembre, 17:00
-* Miércoles 28 de septiembre, 12:00
+* Jueves 12 de enero, 13:00
+
+El enlace al formulario para las solicitudes del segundo cuatrimestre puede encontrarse más abajo en esta misma página, en la sección "Presentación de solicitudes".
 
 ### Objeto
 
@@ -45,7 +44,7 @@ Puede consultarse el documento [Cómo publicar materiales docentes en abierto](/
 
 ### Presentación de solicitudes
 
-Para propuesta de una asignatura, una vez sus materiales se hayan publicado en abierto, la realizará su responsable de grupo de actas (según figure en el Plan de Ordenación Docente) rellenando el [formulario de la convocatoria (primer cuatrimestre)](https://forms.office.com/r/APNK3BMBNY) o el [formulario de la convocatoria (segundo cuatrimestre)](https://forms.office.com/e/v623XaKDSk). 
+Para propuesta de una asignatura, una vez sus materiales se hayan publicado en abierto, la realizará su responsable de grupo de actas (según figure en el Plan de Ordenación Docente) rellenando el formulario de la convocatoria (primer cuatrimestre) (convocatoria ya cerrada) o el [formulario de la convocatoria (segundo cuatrimestre)](https://forms.office.com/e/v623XaKDSk). 
 
 Las asignaturas que se impartan durante el primer cuatrimestre podrán presentarse hasta el día 30 de septiembre de 2022, y las que se impartan durante el segundo cuatrimestre, hasta el 20 de enero de 2023.
 
