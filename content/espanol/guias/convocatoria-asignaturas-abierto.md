@@ -209,4 +209,10 @@ Pero luego, si prefieres ir subiendo los materiales tema a tema para tus alumnos
 
 Pregunta completa: El texto de la convocatoria indica que hay un máximo de incentivo económico por persona de 1.500 euros. ¿Ese máximo es por cuatrimestre, o para todo el curso?
 
-Respuesta: El máximo de 1.500 por persona es para todo el curso académico. Esto supone, por ejemplo, que si ya se ha alcanzado el máximo personal con asignaturas del primer cuatrimestre no se va a poder recibir incentivo económico si se participa en asignaturas presentadas en el segundo cuatrimestre. En cualquier caso, si se llega a este máximo, los demás beneficios de la convocatoria se seguirán aplicando, por lo que se puede participar en la convocatoria con asignaturas del segundo cuatrimestre aunque ya se haya alcanzado el máximo personal durante el primer cuatrimestre. 
+Respuesta: El máximo de 1.500 por persona es para todo el curso académico. Esto supone, por ejemplo, que si ya se ha alcanzado el máximo personal con asignaturas del primer cuatrimestre no se va a poder recibir incentivo económico si se participa en asignaturas presentadas en el segundo cuatrimestre. En cualquier caso, si se llega a este máximo, los demás beneficios de la convocatoria se seguirán aplicando, por lo que se puede participar en la convocatoria con asignaturas del segundo cuatrimestre aunque ya se haya alcanzado el máximo personal durante el primer cuatrimestre.
+
+#### Una asignatura anual, ¿en qué cuatrimestre se puede presentar?
+
+Pregunta completa: Mi asignatura no es cuatrimestral, sino anual. ¿En qué convocatoria de cuatrimestre puedo presentarla?
+
+Respuesta: Puedes presentar la asignatura en la convocatoria de cualquiera de los dos cuatrimestres, pero sólo en una de ellas. En cualquier caso, se presentará toda la asignatura.
