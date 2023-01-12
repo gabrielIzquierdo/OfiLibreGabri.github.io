@@ -187,6 +187,7 @@ Ayer subí a TV URJC una serie de vídeos/audios para una asignatura que quiero 
 Respuesta:  es normal, porque los videos están subidos, pero no son aún públicos. Lo serán si tu asignatura es finalmente puesta en abierto. Mientras tanto, sólo los alumnos de tu asignatura podrán verlos, llegando a ellos por enlace del aula virtual.
 
 #### ¿Tengo Apuntes y Transparencias, ¿cómo las deposito?
+
 Pregunta completa: En mi caso, tengo dos tipos de materiales: apuntes y presentaciones. Según la convocatoria debería subir dos PDFsy, uno para apuntes y otro para presentaciones. La duda es si lo puedo subir todo de una vez o si tengo que hacer dos entradas para solicitar dos enlaces en la BURJC Digital.
 
 Respuesta: Como son dos documentos PDF (correspondientes cada uno a una categoría)
@@ -194,12 +195,18 @@ tendrían que ser dos entradas en BURJC Digital, una para cada
 documento.
 
 #### Al subir mis apuntes a la BURJC… ¿los subo por tema o por tipo de material?
+
 Pregunta completa: En la convocatoria dice: En el caso de materiales bibliográficos (apuntes, presenta-ciones o transparencias, colecciones de problemas, colecciones de exámenes), deben estar depositados en el Archivo Abierto Institucional de la URJC (BURJC Digital), como un solo documento por categoría, en formato PDF y en el formato fuente que se haya utilizado para su realización (como archivo anexo al documento).
 ¿No se pueden subir los apuntes por cada tema? (Es como yo los tengo hechos y subidos a BURJC, porque parece más pedagógico que en cada tema tengan sus vídeos, sus apuntes, sus ejercicios resueltos, etc.). Del mismo modo, los ejercicios son por cada tema (e incluso archivos diferentes para cada ejercicio).
 
-Respuesta: Pues lo siento, pero en esta convocatoria hay que subir los documentos
+Respuesta: En esta convocatoria hay que subir los documentos
 en un único PDF por categoría. Eso no quita que tú en tus clases los utilices tema por tema, y tengas un PDF por tema (o por sesión de clase, o por lo que te parezca mejor). Pero en el momento de subirlo a BURJC Digital, ha de ser un solo documento. Luego, en alguna parte visible de la asignatura enlazarás a ese documento (puede ser, por ejemplo, "colección completa de apuntes"), para que cuando la asignatura se ponga en abierto se pueda ver claramente dónde está el documento completo.
 
 El documento completo puede ser simplemente una concatenación de los PDF (si necesitas ayuda para componer esa concatenación, dinos), si es posible con una portada y un índice. O, dependiendo de la herramienta que uses para escribirlos, todos los apuntes en un documento conjunto, del que producirás un único PDF.
 Pero luego, si prefieres ir subiendo los materiales tema a tema para tus alumnos, porque así los manejáis mejor (o porque en ello haces pequeños cambios por ejemplo para arreglar errores que detectas al preparar las sesiones de cada semana), no hay ningún problema en ello. Únicamente, advierte a tus alumnos que mejor que usen las versiones tema a tema.
 
+#### El máximo de incentivo económico personal ¿es para todo el curso?
+
+Pregunta completa: El texto de la convocatoria indica que hay un máximo de incentivo económico por persona de 1.500 euros. ¿Ese máximo es por cuatrimestre, o para todo el curso?
+
+Respuesta: El máximo de 1.500 por persona es para todo el curso académico. Esto supone, por ejemplo, que si ya se ha alcanzado el máximo personal con asignaturas del primer cuatrimestre no se va a poder recibir incentivo económico si se participa en asignaturas presentadas en el segundo cuatrimestre. En cualquier caso, si se llega a este máximo, los demás beneficios de la convocatoria se seguirán aplicando, por lo que se puede participar en la convocatoria con asignaturas del segundo cuatrimestre aunque ya se haya alcanzado el máximo personal durante el primer cuatrimestre. 
