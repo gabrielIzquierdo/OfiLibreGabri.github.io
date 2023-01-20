@@ -11,8 +11,8 @@ categories: ["guias"]
 description: "Consultas a Javier de la Cueva sobre CC"
 
 # post images 
-bg_image: "images/cc horizontal.jpeg/"
-thumb: "images/CC.png/"
+bg_image: "/images/cc horizontal.jpeg/"
+thumb: "/images/CC.png/"
 ---
 
 En la OfliLibre solemos recibir muchas consultas sobre uso de materiales libres, licencias, software libre, etc. No siempre tenemos respuesta para todo ;) Así que cuando tenemos dudas, buscamos ayuda consultando a expertos.
