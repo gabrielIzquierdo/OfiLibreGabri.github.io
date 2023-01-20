@@ -22,5 +22,5 @@ Las consultas que le hicimos vienen derivadas de la [Convocatoria de Asignaturas
 
 [Aquí tenemos el informe detallado que nos manda Javier de la Cueva](https://ofilibre.urjc.es/guias/consulta_a_expertos_1/).
 
-Y si tienes dudas... ¡no dudes en preguntarnos!
+Y si tienes más dudas... ¡no dudes en preguntarnos!
 
