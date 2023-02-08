@@ -22,5 +22,6 @@ Guárdate el miércoles 29 y jueves 30 de marzo para compartir con el equipo de 
 # ¿Qué haremos en las jornadas?
 Tendremos actividades como talleres, ponencias y charlas, con invitados especiales, en torno a la cultura libre. Veremos cómo crear contenidos libres, profundizaremos en el software libre y en las publicaciones y datos en abierto y, ¡sin olvidar los descansos para comer y tomar un café!
 
+Aquí encontrarás toda la información y las fechas importantes https://eventos.urjc.es/94261/detail/segundas-jornadas-de-cultura-libre-de-la-urjc.html 
 
 ¡Te esperamos! :)
