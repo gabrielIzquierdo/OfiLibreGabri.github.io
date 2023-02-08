@@ -10,7 +10,7 @@ categories: ["OfiLibre", "Jornadas"]
 description: "Jornadas de Cultura Libre 2023 de la URJC"
 
 # post images 
-bg_image: "images/blog/jornada-cultura-libre/SAVE_THE_DATE_7.jpg" 
+bg_image: "images/blog/banner_jornadas_23.jpg"   
 thumb: "images/blog/jornada-cultura-libre/SAVE_THE_DATE_7.jpg"
 ---
 
