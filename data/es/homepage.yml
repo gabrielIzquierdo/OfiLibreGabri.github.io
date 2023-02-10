@@ -4,15 +4,16 @@ slider:
   bg_image : "images/logo-ofilibre.png"
   slider_item:
     # slider item loop
-    - title : "Convocatoria de publicación de asignaturas en acceso abierto"
-      content : "Esta convocatoria está orientada a promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Extensión Universitaria y Ordenación Académica y Formación del Profesorado. Se enmarca dentro las acciones del proyecto colaborativo RED (Recursos educativos digitales: calidad y compartición en abierto), financiado en el marco del Plan UniDigital del Ministerio de Universidades."
+    - title : "Segundas Jornadas de Cultura Libre de la URJC"
+      content : "La cultura libre está más cerca de lo que creemos. Está tan cerca que en marzo de 2023 volveremos a tener en la URJC las Jornadas de Cultura libre, en el campus de Fuenlabrada. ¡Resérvate el miércoles 29 y jueves 30 marzo!.
+"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
         label : "Más información"
-        link : "guias/convocatoria-asignaturas-abierto"
+        link : "blog/jornadas-cultura-libre-2"
 
     # slider item loop
     - title : "Primeras Jornadas de Cultura Libre"

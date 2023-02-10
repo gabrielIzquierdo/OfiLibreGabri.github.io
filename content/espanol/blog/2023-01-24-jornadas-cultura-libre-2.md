@@ -1,7 +1,7 @@
 ---
 title: "Jornadas de Cultura Libre 2023"
 date: 2023-01-24
-slug: jornadas-cultura-libre
+slug: jornadas-cultura-libre-2
 draft: false
 author: "OfiLibre"
 type: "post"
