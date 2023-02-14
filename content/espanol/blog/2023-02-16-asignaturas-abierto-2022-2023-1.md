@@ -12,6 +12,9 @@ description: "Listado de asignaturas que se ponen en acceso abierto como resulta
 # post images 
 bg_image: "images/guias/openaccess-square.png"
 thumb: "images/guias/openaccess-square.png"
+
+_build:
+  list: never
 ---
 
 Este es el listado de las asignaturas que han obtenido la baremación suficiente como para ser consideradas "Asignaturas en Acceso Abierto", entre las que se han presentado a la [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2022-2023](/guias/convocatoria-asignaturas-abierto/) (primer cuatrimestre). Junto a cada una, se incluyen sus materiales publicados en acceso abierto.
