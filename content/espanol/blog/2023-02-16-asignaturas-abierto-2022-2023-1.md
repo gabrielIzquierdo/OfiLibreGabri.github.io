@@ -1,6 +1,6 @@
 ---
 title: "Asignaturas en acceso abierto (primer cuatrimestre 2022-23)"
-date: 2023-02-14
+date: 2023-02-16
 slug: asignaturas-abierto-2022-2023-1
 draft: true
 author: "OfiLibre"
