@@ -394,9 +394,9 @@ Asignatura destacada
 **Autores que son docentes en la asignatura:** [oriol.borras](https://gestion2.urjc.es/pdi/ver/oriol.borras)
 
 * **[Guía de estudio](http://hdl.handle.net/10115/20148)**
-* **[Presentaciones](http://hdl.handle.net/10115/20139 http://hdl.handle.net/10115/20140   http://hdl.handle.net/10115/20141 http://hdl.handle.net/10115/20142 http://hdl.handle.net/10115/20138 http://hdl.handle.net/10115/20137) (material destacado)**
-* **[Ejercicios](http://hdl.handle.net/10115/20143 http://hdl.handle.net/10115/20144 http://hdl.handle.net/10115/20145 http://hdl.handle.net/10115/20146 http://hdl.handle.net/10115/20147)**
-* **[Videos y audios](https://tv.urjc.es/series/6327f80eea9143448b3370ee (Idserie: 6327f80eea9143448b3370ee))**
+* **[Presentaciones](https://burjcdigital.urjc.es/handle/10115/20529) (material destacado)**
+* **[Ejercicios](https://burjcdigital.urjc.es/handle/10115/20528)**
+* **[Videos y audios](https://tv.urjc.es/series/6327f80eea9143448b3370ee)**
 
 ### [2239 - DIRECCION DE OPERACIONES EN SERVICIOS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=197620) {#id15}
 
