@@ -211,7 +211,7 @@ Asignatura destacada
 * **[Guía de estudio](https://burjcdigital.urjc.es/handle/10115/20249)**
 * **[Apuntes](https://hdl.handle.net/10115/20548) (material destacado)**
 * **[Ejercicios](https://burjcdigital.urjc.es/handle/10115/20550)**
-* **[Pruebas de evaluación](https://burjcdigital.urjc.es/handle/10115/20551 subsanado)**
+* **[Pruebas de evaluación](https://burjcdigital.urjc.es/handle/10115/20551)**
 * **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=6336fb8634a4ca7f64144a52)**
 
 ### [2041 - LABORATORIO DE ADMINISTRACION Y GESTION DE REDES Y SISTEMAS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187589) {#id44}
