@@ -29,8 +29,9 @@ El pasado mes de junio se publicó la [Convocatoria para el Reconocimiento de pu
 - 4 talleres formativos 
 - Más de 10 tutorías personalizadas para ayudar a resolver dudas
 
-### La convocatoria en gráfico:
-![captura01](../../images/blog/generar-documentos-libreoffice/captura01.png)
+### La convocatoria en barras:
+
+![Captura_Materiales_Baremo_2](../../images/blog/Captura_Materiales_Baremo_2.PNG )
 
 
 ¡Enhorabuena al profesorado participante! :)
