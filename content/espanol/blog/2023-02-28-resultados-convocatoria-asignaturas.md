@@ -1,7 +1,7 @@
 ---
 title: "Asignaturas en abierto: una feliz realidad"
 date: 2023-02-28
-slug: resultados-convocatoria-asignaturas
+slug: 2023-02-28-resultados-convocatoria-asignaturas
 draft: false
 author: "OfiLibre"
 type: "post"
