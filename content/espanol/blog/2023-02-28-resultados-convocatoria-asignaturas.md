@@ -6,7 +6,7 @@ draft: false
 author: "OfiLibre"
 type: "post"
 tags: ["asignaturas", "acceso abierto", "URJC"]
-categories: ["OfiLibre"]
+categories: ["OfiLibre", "recursos educativos abiertos", "publicación abierta"]
 description: "Resultado de la convocatoria de Asignaturas en acceso abierto"
 
 # post images 
