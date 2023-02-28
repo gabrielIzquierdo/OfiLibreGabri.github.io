@@ -2,7 +2,7 @@
 title: "Asignaturas en acceso abierto (primer cuatrimestre 2022-23)"
 date: 2023-02-16
 slug: asignaturas-abierto-2022-2023-1
-draft: true
+draft: 
 author: "OfiLibre"
 type: "post"
 tags: ["acceso abierto", "materiales docentes", "URJC"]
@@ -18,6 +18,8 @@ _build:
 ---
 
 Este es el listado de las asignaturas que han obtenido la baremación suficiente como para ser consideradas "Asignaturas en Acceso Abierto", entre las que se han presentado a la [Convocatoria para el reconocimiento de publicación de asignaturas en acceso abierto 2022-2023](/guias/convocatoria-asignaturas-abierto/) (primer cuatrimestre). Junto a cada una, se incluyen sus materiales publicados en acceso abierto.
+
+Puedes consultarlas también en el [Portal de Asignaturas en Abierto](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto) de la URJC.
 
 ### [2039 - SISTEMAS TELEMATICOS PARA MEDIOS AUDIOVISUALES - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187487#section-10) {#id37}
 
@@ -91,7 +93,7 @@ Asignatura destacada
 * **[Apuntes](http://hdl.handle.net/10115/20175) (material destacado)**
 * **[Presentaciones]( http://hdl.handle.net/10115/20176) (material destacado)**
 * **[Ejercicios](http://hdl.handle.net/10115/20177)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=632af965eafd514bc808c743)**
+* **[Videos y audios](https://tv.urjc.es/series/632af965eafd514bc808c743)**
 * **[Otros materiales]( http://hdl.handle.net/10115/20208)**
 
 ### [2040 - SOFTWARE DE SISTEMAS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=190215) {#id14}
@@ -103,7 +105,7 @@ Asignatura destacada
 * **[Apuntes](http://hdl.handle.net/10115/20175) (material destacado)**
 * **[Presentaciones](http://hdl.handle.net/10115/20176) (material destacado)**
 * **[Ejercicios](http://hdl.handle.net/10115/20177)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=632af965eafd514bc808c743)**
+* **[Videos y audios](https://tv.urjc.es/series/632af965eafd514bc808c743)**
 * **[Otros materiales](http://hdl.handle.net/10115/20208)**
 
 ### [2173 - INTRODUCCION A LA EDUCACION FISICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=192718) {#id38}
@@ -152,7 +154,7 @@ Asignatura destacada
 * **[Presentaciones](http://hdl.handle.net/10115/20194) (material destacado)**
 * **[Ejercicios](http://hdl.handle.net/10115/20195) (material destacado)**
 * **[Pruebas de evaluación](http://hdl.handle.net/10115/20210)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=63284db646ce65436a3b0bb6) (material destacado)**
+* **[Videos y audios](https://tv.urjc.es/series/63284db646ce65436a3b0bb6) (material destacado)**
 
 ### [2285 - INTRODUCCION A LA CIBERSEGURIDAD - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=196834) {#id5}
 
@@ -164,7 +166,7 @@ Asignatura destacada
 * **[Presentaciones](http://hdl.handle.net/10115/20030) (material destacado)**
 * **[Ejercicios](http://hdl.handle.net/10115/20030) (material destacado)**
 * **[Pruebas de evaluación](http://hdl.handle.net/10115/20030)**
-* **[Videos y audios](https://tv.urjc.es/series/631b0e4b7e595f7c1b3f79d5  (la colección no está en abierto, supongo que está en proceso?))**
+* **[Videos y audios](https://tv.urjc.es/series/631b0e4b7e595f7c1b3f79d5)**
 
 ### [2339 - FUNDAMENTOS DE LA PROGRAMACION Y DE LA INFORMATICA - TARDE B - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=199605) {#id45}
 
@@ -200,7 +202,7 @@ Asignatura destacada
 * **[Apuntes](http://hdl.handle.net/10115/19990) (material destacado)**
 * **[Ejercicios](http://hdl.handle.net/10115/19988) (material destacado)**
 * **[Pruebas de evaluación](http://hdl.handle.net/10115/19989)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=6319b751054d914c930d036a)**
+* **[Videos y audios](https://tv.urjc.es/series/6319b751054d914c930d036a)**
 
 ### [2052 - PUBLICIDAD INTERACTIVA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=188983) {#id43}
 
@@ -211,8 +213,8 @@ Asignatura destacada
 * **[Guía de estudio](https://burjcdigital.urjc.es/handle/10115/20249)**
 * **[Apuntes](https://hdl.handle.net/10115/20548) (material destacado)**
 * **[Ejercicios](https://burjcdigital.urjc.es/handle/10115/20550)**
-* **[Pruebas de evaluación](https://burjcdigital.urjc.es/handle/10115/20551)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=6336fb8634a4ca7f64144a52)**
+* **[Pruebas de evaluación]()**
+* **[Videos y audios](https://tv.urjc.es/series/6336fb8634a4ca7f64144a52)**
 
 ### [2041 - LABORATORIO DE ADMINISTRACION Y GESTION DE REDES Y SISTEMAS - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187589) {#id44}
 
@@ -258,7 +260,7 @@ Asignatura destacada
 * **[Guía de estudio](https://burjcdigital.urjc.es/handle/10115/20342)**
 * **[Apuntes](https://burjcdigital.urjc.es/handle/10115/20031) (material destacado)**
 * **[Presentaciones](https://burjcdigital.urjc.es/handle/10115/20029) (material destacado)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=6336d1f9bb39f9214c6e3cc3)**
+* **[Videos y audios](https://tv.urjc.es/series/6336d1f9bb39f9214c6e3cc3)**
 
 ### [2004 - FOTOPERIODISMO (SEMIPRESENCIAL) - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187280) {#id41}
 
@@ -269,7 +271,7 @@ Asignatura destacada
 * **[Guía de estudio]( https://burjcdigital.urjc.es/handle/10115/20342)**
 * **[Apuntes](https://burjcdigital.urjc.es/handle/10115/20031) (material destacado)**
 * **[Presentaciones](https://burjcdigital.urjc.es/handle/10115/20029) (material destacado)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=6336d1f9bb39f9214c6e3cc3)**
+* **[Videos y audios](https://tv.urjc.es/series/6336d1f9bb39f9214c6e3cc3)**
 
 ### [2228 - NORMA Y USO DEL ESPAÑOL - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=195173) {#id11}
 
@@ -293,7 +295,7 @@ Asignatura destacada
 * **[Presentaciones](https://burjcdigital.urjc.es/handle/10115/20251)**
 * **[Ejercicios](https://burjcdigital.urjc.es/handle/10115/20240)**
 * **[Pruebas de evaluación](https://burjcdigital.urjc.es/handle/10115/20008)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=62ea8c688c9816724446b28d)**
+* **[Videos y audios](https://tv.urjc.es/series/62ea8c688c9816724446b28d)**
 
 ### [2170 - INTRODUCTION TO PHYSICAL EDUCATION - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=194168) {#id46}
 
@@ -347,7 +349,7 @@ Asignatura destacada
 * **[Guía de estudio](http://hdl.handle.net/10115/20283)**
 * **[Presentaciones](http://hdl.handle.net/10115/20284) (material destacado)**
 * **[Ejercicios](http://hdl.handle.net/10115/20285)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=6324b20be39058198c26b603)**
+* **[Videos y audios](https://tv.urjc.es/series/6324b20be39058198c26b603)**
 * **[Otros materiales](http://hdl.handle.net/10115/20286)**
 
 ### [2285 - LOGICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=196836) {#id8}
@@ -358,7 +360,7 @@ Asignatura destacada
 
 * **[Presentaciones](http://hdl.handle.net/10115/20014) (material destacado)**
 * **[Ejercicios](http://hdl.handle.net/10115/20119)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=63225436749db0424d5eca57)**
+* **[Videos y audios](https://tv.urjc.es/series/63225436749db0424d5eca57)**
 * **[Otros materiales](http://hdl.handle.net/10115/20168)**
 
 ### [2361 - LOGICA - MAÑANA A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=198881) {#id9}
@@ -369,7 +371,7 @@ Asignatura destacada
 
 * **[Presentaciones]( http://hdl.handle.net/10115/20014) (material destacado)**
 * **[Ejercicios]( http://hdl.handle.net/10115/20119)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=63225436749db0424d5eca57)**
+* **[Videos y audios](https://tv.urjc.es/series/63225436749db0424d5eca57)**
 * **[Otros materiales](http://hdl.handle.net/10115/20168)**
 
 ### [2008 - TECNOLOGIAS AUDIOVISUALES: CAMARA Y SONIDO - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=187527) {#id36}
@@ -379,7 +381,7 @@ Asignatura destacada
 * **[Guía de estudio](http://hdl.handle.net/10115/20341)**
 * **[Apuntes](http://hdl.handle.net/10115/20334) (material destacado)**
 * **[Ejercicios](http://hdl.handle.net/10115/20341)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=631f3b019916f127970f971b)**
+* **[Videos y audios](https://tv.urjc.es/series/631f3b019916f127970f971b)**
 
 ### [2128 - PHYSICAL EDUCATION - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=193257) {#id47}
 
@@ -394,7 +396,7 @@ Asignatura destacada
 **Autores que son docentes en la asignatura:** [oriol.borras](https://gestion2.urjc.es/pdi/ver/oriol.borras)
 
 * **[Guía de estudio](http://hdl.handle.net/10115/20148)**
-* **[Presentaciones](https://burjcdigital.urjc.es/handle/10115/20529) (material destacado)**
+* **[Presentaciones](https://burjcdigital.urjc.es/handle/10115/20148) (material destacado)**
 * **[Ejercicios](https://burjcdigital.urjc.es/handle/10115/20528)**
 * **[Videos y audios](https://tv.urjc.es/series/6327f80eea9143448b3370ee)**
 
@@ -406,7 +408,7 @@ Asignatura destacada
 * **[Presentaciones](http://hdl.handle.net/10115/20172)**
 * **[Ejercicios](http://hdl.handle.net/10115/20150)**
 * **[Pruebas de evaluación](http://hdl.handle.net/10115/20151)**
-* **[Videos y audios](https://tv.urjc.es/admin/mms/series?id=632b49733feb4e24e86c0061)**
+* **[Videos y audios](https://tv.urjc.es/series/632b49733feb4e24e86c0061)**
 
 ### [2147 - DERECHO PENITENCIARIO - TARDE A - 1Q](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=194183#section-4) {#id4}
 
@@ -436,3 +438,10 @@ Asignatura destacada
 
 * **[Presentaciones](https://hdl.handle.net/10115/20635) (material destacado)**
 * **[Ejercicios](https://hdl.handle.net/10115/20636)**
+
+
+
+
+
+
+
