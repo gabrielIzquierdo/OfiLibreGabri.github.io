@@ -32,6 +32,7 @@ El pasado mes de junio se publicó la [Convocatoria para el Reconocimiento de pu
 ### La convocatoria en barras:
 
 ![Captura_Materiales_Baremo_2](../../images/blog/Captura_Materiales_Baremo_2.PNG )
+
 Según la Rública de evaluaciuón de los materiales, cada categoría podía recibir entre 0 y 14 puntos. En este gráfico cada barra muestra una categoría de materiales (apuntes, diapositivas, ejercicios, etc.). Dentro de cada barra los colores indican la cantidad de materiales según puntuación recibida.
 
 
