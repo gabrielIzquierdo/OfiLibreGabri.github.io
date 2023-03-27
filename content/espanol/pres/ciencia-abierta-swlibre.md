@@ -1,8 +1,8 @@
 ---
 title: Importancia del Software Libre para la Ciencia Abierta
 date: 2021-06-11
-feature: ciencia-abierta.png
-teaser: ciencia-abierta.png
+feature: ciencia-abierta-swlibre.png
+teaser: ciencia-abierta-swlibre.png
 
 transpas:
     pdf: Ciencia_Abierta_Software_Libre.pdf
