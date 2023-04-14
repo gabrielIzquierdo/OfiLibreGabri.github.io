@@ -1,0 +1,43 @@
+backend:
+  name: gitlab
+  repo: ofilibre/ofilibre.gitlab.io
+  branch: master # Branch to update (optional; defaults to master)
+  api_root: https://gitlab.com/api/v4 
+  base_url: https://gitlab.com
+  auth_type: pkce
+  app_id: ba44978a94e18763a29c4f3f365d09e9d6e5b4fdbbb02c271ba13d0cbf0694d5
+  auth_endpoint: oauth/authorize
+media_folder: static/images
+public_folder: /images
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/espanol/blog'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'date' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - {label: 'Slug', name: 'slug', widget: 'string'}
+      - { label: 'Type', name: 'type', widget: 'hidden', default: 'post'}
+      - { label: 'Categories', name: 'categories', widget: 'hidden', default: ["OfiLibre"]}
+      - { label: 'Tags', name: 'tags', widget: 'list'}
+      - { label: 'bg_image', name: 'bg_image', widget: 'image', default: '/images/guias/openaccess-square.png'}
+      - { label: 'Thumb', name: 'thumb', widget: 'image', default: '/images/guias/openaccess-square.png'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'guias'
+    label: 'Guías'
+    folder: 'content/espanol/guias'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'date' }
+      - { label: 'Logo', name: 'logo', widget: 'image' }
+      - { label: 'Type', name: 'type', widget: 'hidden', default: 'guias'}
+      - { label: 'Body', name: 'body', widget: 'markdown' }
