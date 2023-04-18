@@ -23,5 +23,5 @@ Si tienes preguntas o sugerencias, no dudes en escribirnos ofilibre@urjc.es
 
 Más información:
 
-* [Portal de revistas de la URJC](https://www.urjc.es/burjc/actualidad-burjc/372-portal-revistas-urjc)
+* [Portal de revistas de la URJC](https://www.urjc.es/images/Biblioteca/portal_revistas/index.html)
 * Convocartoria de apoyo a la publicación de revistas: [en el tablón de aununcios](https://sede.urjc.es/tablon-oficial/anuncio/9739/), [documento con el texto completo de la convocatoria](/documentos/convocatoria-revistas-2023.pdf).
