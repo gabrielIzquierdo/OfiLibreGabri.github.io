@@ -15,7 +15,7 @@ para el reconocimiento de publicación de asignaturas en acceso abierto 2022-202
 
 Los detalles sobre esta convocatoria se presentaron en sesión realizada el miércoles 13 de julio de 2022:
 
-* Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asiganturas_Abierto.odp).
+* Transparencias utilizadas en la presentación: [formato PDF](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.pdf), [formato ODF para LibreOffice](/transpas/convocatoria-asignaturas-abierto/Convocatoria_Asignaturas_Abierto.odp).
  * [Video de la presentación](https://tv.urjc.es/video/62e2b32867a0a661cb0b6e20).
 
 En los siguientes horarios habrá sesiones telemáticas públicas de resolución de dudas sobre la convocatoria, vía [sala de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2RlYThlZjgtZDAwNi00MGFhLWI0ZDctYmNiNWY4MGMxMjdl%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d):
