@@ -1,18 +1,13 @@
 ---
-title: "Utilización de licencias CC-BY y CC-BY-SA. Consultas a expertos"
+title: "Consulta al experto: Utilización de licencias CC BY y CC BY-SA"
+logo: openaccess-square.png
 date: 2022-10-27
+published: true
+type: guias
 slug: consulta_a_expertos_1
-draft: false
-author: "OfiLibre"
-type: "post"
 tags: [OfiLibre]
 categories: ["guias"]
-
-description: "Consultas a Javier de la Cueva sobre CC"
-
-# post images 
-bg_image: "/images/cc horizontal.jpeg/"
-thumb: "/images/CC.png/"
+description: "Consultas a Javier de la Cueva (jurista experto) sobre licencias Creative Commons"
 ---
 
 En la OfliLibre solemos recibir muchas consultas sobre uso de materiales libres, licencias, software libre, etc. No siempre tenemos respuesta para todo ;) Así que cuando tenemos dudas, buscamos ayuda consultando a expertos.
