@@ -13,6 +13,8 @@ thumb: /images/contenidos-ii-jornadas-vertical.jpg
 ---
 <!--StartFragment-->
 
+A continucación encontraréis el programa con los contenidos de cada ponente y su correspondiente enlace.
+
 ## Miércoles 29 de marzo
 
 ### Ponencia invitada
