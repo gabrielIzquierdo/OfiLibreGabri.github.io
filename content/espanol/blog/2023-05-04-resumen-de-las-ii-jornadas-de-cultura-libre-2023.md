@@ -9,7 +9,7 @@ categories:
 tags:
   - jornadas
   - cultura_libre
-bg_image: /images/4-jornadastwitter-042-04-2.jpg
+bg_image: /images/4-jornadastwitter-042-04-2-v3.jpg
 thumb: /images/resumen-de-las-jornadas-2.jpg
 ---
 Los pasados 29 y 30 de Marzo de 2023 celebramos en el Edificio de Gestión de la URJC, las[ *II Jornadas de Cultura Libre:*](https://ofilibre.urjc.es/blog/jornadas-cultura-libre-2/) un evento muy especial para nuestra OfiLibre, donde profesionales, estudiantes, y personas dedicadas a la investigación y creación nos unimos en pos de un objetivo común: fomentar la Cultura Libre.
