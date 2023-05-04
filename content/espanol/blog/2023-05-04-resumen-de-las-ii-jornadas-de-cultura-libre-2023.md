@@ -21,3 +21,21 @@ Contamos también con talleres de introducción al software libre (Zotero, OJS, 
 Y en el evento no faltaron momentos para las risas, pues de vez en cuando aparecía un dinosaurio en el escenario, avisando a quienes iban justos de tiempo de que debían terminar. En definitiva, el evento reunió a profesionales con proyectos de todo tipo, algunos incluso de otras partes del mundo, como Ítalo Vignoli que vino a hablarnos de LibreOffice desde Italia.
 
 Estas II Jornadas han supuesto un espacio de intercambio muy enriquecedor y queremos dar las gracias a todas las personas que participaron. ¡A por las terceras!
+
+## Las jornadas en números
+
+Asistentes a las jornadas: 125
+
+Asistentes a talleres: 93
+
+Presentación de asignaturas en abierto: 8
+
+Stands en feria: 10
+
+Ponencias cortas: 15
+
+Presentación de pósters: 8
+
+Presentación de revistas: 3
+
+Lectura dramatizada: 1
