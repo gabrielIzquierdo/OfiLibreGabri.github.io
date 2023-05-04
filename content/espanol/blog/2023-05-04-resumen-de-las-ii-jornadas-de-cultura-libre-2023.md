@@ -14,7 +14,7 @@ thumb: /images/resumen-de-las-jornadas.jpg
 ---
 Los pasados 29 y 30 de Marzo de 2023 celebramos en el Edificio de Gestión de la URJC, las[ *II Jornadas de Cultura Libre:*](https://ofilibre.urjc.es/blog/jornadas-cultura-libre-2/) un evento muy especial para nuestra OfiLibre, donde profesionales, estudiantes, y personas dedicadas a la investigación y creación nos unimos en pos de un objetivo común: fomentar la Cultura Libre.
 
-Contamos con intervenciones de todo tipo: desde la apertura del evento por la Vicerrectora Mercedes del Hoyo Hurtado, hasta [presentaciones invitadas como la de Marc Bria,](< <https://hackmd.io/@marcbria/slos-urjc-2023#/>>) de la UAB. Sin olvidar los momentos de descanso, café y[ ¡la feria!, un espacio con 10 estands](https://eventos.urjc.es/97038/detail/feria-de-lo-libre.html), para caminar entre la creación y la investigación con licencias libres.
+Contamos con intervenciones de todo tipo: desde la apertura del evento por la Vicerrectora Mercedes del Hoyo Hurtado, hasta [presentaciones invitadas como la de Marc Bria](https://hackmd.io/@marcbria/slos-urjc-2023#/) de la UAB. Sin olvidar los momentos de descanso, café y[ ¡la feria!, un espacio con 10 estands](https://eventos.urjc.es/97038/detail/feria-de-lo-libre.html), para caminar entre la creación y la investigación con licencias libres.
 
 Contamos también con talleres de introducción al software libre (Zotero, OJS, Libre Office,...). Y, además, participaron docentes que nos presentaron sus Asignaturas destacadamente en abierto. ¡Hasta tuvimos una lectura dramatizada libre, de la mano del grupo de teatro de la URJC, Arrojo Escénico!
 
