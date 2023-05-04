@@ -28,6 +28,8 @@ Asistentes a las jornadas: 125
 
 Asistentes a talleres: 93
 
+Número de talleres: 10
+
 Presentación de asignaturas en abierto: 8
 
 Stands en feria: 10
