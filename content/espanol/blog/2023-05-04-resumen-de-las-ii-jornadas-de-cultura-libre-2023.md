@@ -40,4 +40,4 @@ Presentación de pósters: 8
 
 Presentación de revistas: 3
 
-Lectura dramatizada: 1
+Lectura dramatizada: 1 (Grupo de teatro de la URJC: Arrojo escénico)
