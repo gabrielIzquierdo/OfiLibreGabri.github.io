@@ -8,7 +8,7 @@ type: post
 categories:
   - OfiLibre
 bg_image: /images/1200px-logo_consorcio_madroño.jpg
-thumb: /images/1200px-logo_consorcio_madroño.png
+thumb: /images/1200px-logo_consorcio_madroño.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
