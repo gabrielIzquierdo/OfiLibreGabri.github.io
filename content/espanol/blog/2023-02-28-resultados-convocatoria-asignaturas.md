@@ -1,5 +1,5 @@
 ---
-bg_image: images/blog/banner_jornadas_23.jpg
+bg_image: /images/1-asignaturas.png
 draft: false
 author: OfiLibre
 title: "Asignaturas en abierto: una feliz realidad"
