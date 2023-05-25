@@ -8,6 +8,10 @@ transpas:
     odp: Ofilibre-presentacion.odp
 
 extras:
+  - name: "OfiLibre: una unidad transversal sobre ciencia abierta (presentación Jornadas CRAI 2023) (PDF)"
+    url: /transpas/ofilibre/Ofilibre-transversal.pdf
+  - name: "OfiLibre: una unidad transversal sobre ciencia abierta (presentación Jornadas CRAI 2023) (ODF)"
+    url: /transpas/ofilibre/Ofilibre-transversal.odp
   - name: "La OfiLibre de la URJC: un modelo para fomentar la cultura libre en la Universidad (presentación en esLibre 2022) (PDF)"
     url: /transpas/ofilibre/Modelo-OfiLibre.pdf
   - name: "La OfiLibre de la URJC: un modelo para fomentar la cultura libre en la Universidad (ODF)"
