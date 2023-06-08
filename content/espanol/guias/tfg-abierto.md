@@ -6,8 +6,6 @@ published: true
 type: guias
 ---
 
-[Borrador: documento no definitivo, en proceso de revisión]
-
 En la Universidad Rey Juan Carlos, los alumnos que realizan un
 Trabajo Fin de Grado (TFG) pueden decidir que éstos se publiquen
 en acceso abierto en el Archivo Abierto de la Universidad
@@ -26,7 +24,7 @@ Puedes publicar en acceso abierto la memoria de tu TFG,
 y también datos y otros materiales que puedan estar
 relacionados con él, incluyendo programas de ordenador
 que hayas creado (en este caso, publicándolo como
-software libre).
+software libre). Si decides publicar tu TFG en acceso abierto, aparecerá como parte de la [colección de TFGs de la Universidad](https://burjcdigital.urjc.es/handle/10115/19269).
 
 ## Cómo publicar tu TFG en acceso abierto
 
@@ -40,7 +38,9 @@ podido utilizar.
 * Elegir la licencia de distribución de tu memoria, entre
 las que se consideran como de acceso abierto.
 * Marcar la memoria con la licencia elegida.
-* Publicar la memoria en el Archivo Abierto de la Universidad.
+* Publicar la memoria en el Archivo Abierto de la Universidad. Desde el 12 de junio de 2023 este es un proceso automático, que se realiza al subir la memoria a la plataforma de TFGs.
+
+<iframe src='https://tv.urjc.es/iframe/64820d00f8ceb7023e4d5862' id='pumukitiframe' frameborder='0' border='0' width='50%' height='300px' allowfullscreen></iframe>
 
 Vamos a ver estos pasos con más detalle.
 
@@ -172,12 +172,12 @@ Una vez sabemos qué licencia vamos a usar, tenemos que marcar
 la memoria con esa licencia. Para ello, pondremos en la memoria
 un texto similar a este:
 
-> ©2021 Autora Mengánez Zutánez  
-> Algunos derechos reservados  
-> Este documento se distribuye bajo la licencia  
-> “Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
-> disponible en  
-> https://creativecommons.org/licenses/by-sa/4.0/deed.es
+    ©2021 Autora Mengánez Zutánez  
+    Algunos derechos reservados  
+    Este documento se distribuye bajo la licencia  
+    “Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
+    disponible en  
+    https://creativecommons.org/licenses/by-sa/4.0/deed.es
 
 Normalmente, este texto se pone en una de las primeras páginas
 de la memoria, en el mismo sitio que suele verse en los libros
@@ -196,14 +196,15 @@ Y con esto estaremos listos para el último paso.
 ## Publicación
 
 El proceso termina con la publicación de la memoria.
-En unos meses, la plataforma de TFGs estará conectada
-automáticamente con el Archivo Abierto de la Universidad.
-Cuando estén conectadas, al depositar la memoria en
+Desde el 12 de junio de 2023, la plataforma de TFGs está conectada
+automáticamente con el Archivo Abierto de la Universidad. Por ello,
+al depositar la memoria en
 la plataforma de TFGs se indicará mediante un formulario
 la licencia que se ha elegido, y el depósito en el Archivo
 Abierto se realizará automáticamente, con esa licencia,
 una vez el TFG haya sido evaluado positivamente.
 
+<!--
 Mientras la plataforma de TFGs no esté conectada con
 el Archivo Abierto, hay que hacer el depósito en el Archivo
 Abierto manualmente. Para ello, una vez el TFG ha sido
@@ -219,6 +220,7 @@ LaTeX, etc.), fotos, figuras, datos, software, documentos multimedia, etc.
 Poco tiempo después de haber realizado el depósito,
 el TFG quedará depositado, y disponible públicamente en el
 Archivo Abierto.
+-->
 
 ## Qué pasa a continuación
 
