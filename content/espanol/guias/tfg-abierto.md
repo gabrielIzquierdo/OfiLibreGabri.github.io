@@ -6,7 +6,7 @@ published: true
 type: guias
 ---
 
-[ [Infografía resumen](/static/images/guias/tfg-abierto/publicar-tu-tfg-en-abierto.jpg) | [Video-píldora resumen](https://tv.urjc.es/video/64820d00f8ceb7023e4d5862) ]
+[ ¡Publicación automática del TFG en abierto a partir del 13 de junio de 2023!: [Infografía resumen](/images/guias/tfg-abierto/publicar-tu-tfg-en-abierto.jpg) | [Video-píldora resumen](https://tv.urjc.es/video/64820d00f8ceb7023e4d5862) ]
 
 En la Universidad Rey Juan Carlos, los alumnos que realizan un
 Trabajo Fin de Grado (TFG) pueden decidir que éstos se publiquen
@@ -40,7 +40,7 @@ podido utilizar.
 * Elegir la licencia de distribución de tu memoria, entre
 las que se consideran como de acceso abierto.
 * Marcar la memoria con la licencia elegida.
-* Publicar la memoria en el Archivo Abierto de la Universidad. Desde el 12 de junio de 2023 este es un proceso automático, que se realiza al subir la memoria a la plataforma de TFGs.
+* Publicar la memoria en el Archivo Abierto de la Universidad. Desde el 13 de junio de 2023 este es un proceso automático, que se realiza al subir la memoria a la plataforma de TFGs.
 
 <iframe src='https://tv.urjc.es/iframe/64820d00f8ceb7023e4d5862' id='pumukitiframe' frameborder='0' border='0' width='50%' height='300px' allowfullscreen></iframe>
 
