@@ -26,6 +26,17 @@ slider:
         link : "blog/jornadas-programa/"
 
     # slider item loop
+    - title : "Resultados de la convocatoria de asignaturas en abierto"
+      content : "Una vez finalizada la convocatoria de asignaturas en abierto para el segundo cuatrimestre, ya está disponible el análisis de resultados realizado desde la Ofilibre."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Más información"
+        link : "blog/2023-resultados-convocatoria-asignaturas/"
+
+    # slider item loop
     - title : "Catálogo de recursos educativos abiertos"
       content : "Este catálogo incluye materiales docentes de acceso abierto producidos por personal de la URJC."
       animation_in : "left"
