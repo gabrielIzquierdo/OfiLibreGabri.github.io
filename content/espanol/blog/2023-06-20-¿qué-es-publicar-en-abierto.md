@@ -11,11 +11,11 @@ tags:
 bg_image: /images/búho-4.jpg
 thumb: /images/búho-4.jpg
 ---
-¿EN QUÉ CONSISTE?
+**¿EN QUÉ CONSISTE?**
 
 Publicar en abierto tu trabajo (ya sea fotografía, investigación, dibujo, apuntes, TFG, tesis, etc.) es poner a disposición de la ciudadanía tu material: cualquier persona lo podrá reaprovechar, reconociendo siempre tu autoría, sin necesidad de pedirte permiso.
 
-CONOCE LAS LICENCIAS CREATIVE CO﻿MMONS (que preferimos en URJC)
+**CONOCE LAS LICENCIAS CREATIVE CO﻿MMONS (que preferimos en URJC)**
 
 Para publicar en abierto puedes utilizar las licencias Creative Commons (CC), que avisan de antemano que tu material se puede utilizar con ciertas condiciones. Desde la URJC recomendamos dos:
 
@@ -26,6 +26,8 @@ Para publicar en abierto puedes utilizar las licencias Creative Commons (CC), qu
 ![](/images/creative-commons-1.jpg)
 
 Estas licencias permiten que cualquier persona pueda utilizar, compartir, modificar, incluso con fines comerciales, el material que has liberado.
+
+**AÑADIRLE LA LICENCIA A TU MATERIAL**
 
 El solo hecho de escribir en tu material la licencia lo convierte en libre. Debes añadir el texto o iconos de la licencia en un lugar visible de una de las primeras páginas, junto con el enlace a la web de CC donde se la explica con más detalle. 
 
