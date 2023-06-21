@@ -29,7 +29,7 @@ Estas licencias permiten que cualquier persona pueda utilizar, compartir, modifi
 
 **AÑADIR LA LICENCIA A TU MATERIAL**
 
-El solo hecho de escribir en tu material la licencia lo convierte en libre. Debes añadir el texto o iconos de la licencia en un lugar visible de una de las primeras páginas, junto con el enlace a la web de CC donde se la explica con más detalle. 
+El solo hecho de escribir en tu material la licencia lo convierte en libre. Debes añadir el texto o iconos de la licencia en un lugar visible de una de las primeras páginas, junto con el enlace a la web de CC donde se explica con más detalle. 
 
 Por ejemplo:
 
