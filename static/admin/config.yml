@@ -18,16 +18,16 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'date' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - {label: 'Slug', name: 'slug', widget: 'string'}
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Fecha de publicación', name: 'date', widget: 'date' }
+      - { label: 'Descripción', name: 'description', widget: 'string' }
+      - {label: 'URL', name: 'slug', widget: 'string'}
       - { label: 'Type', name: 'type', widget: 'hidden', default: 'post'}
-      - { label: 'Categories', name: 'categories', widget: 'hidden', default: ["OfiLibre"]}
+      - { label: 'Categorías', name: 'categories', widget: 'hidden', default: ["OfiLibre"]}
       - { label: 'Tags', name: 'tags', widget: 'list'}
-      - { label: 'bg_image', name: 'bg_image', widget: 'image', default: '/images/guias/openaccess-square.png'}
-      - { label: 'Thumb', name: 'thumb', widget: 'image', default: '/images/guias/openaccess-square.png'}
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Imagen de fondo del post (alargada)', name: 'bg_image', widget: 'image', default: '/images/guias/openaccess-square.png'}
+      - { label: 'Imagen cuadrada para la portada', name: 'thumb', widget: 'image', default: '/images/guias/openaccess-square.png'}
+      - { label: 'Cuerpo del post', name: 'body', widget: 'markdown' }
   - name: 'guias'
     label: 'Guías'
     folder: 'content/espanol/guias'
