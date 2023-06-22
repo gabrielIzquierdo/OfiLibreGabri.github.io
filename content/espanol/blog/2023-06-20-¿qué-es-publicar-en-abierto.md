@@ -8,7 +8,7 @@ categories:
   - OfiLibre
 tags:
   - guias-publicar
-bg_image: /images/búho-4.jpg
+bg_image: /images/buho-alargada.jpeg
 thumb: /images/búho-4.jpg
 ---
 **¿EN QUÉ CONSISTE?**
