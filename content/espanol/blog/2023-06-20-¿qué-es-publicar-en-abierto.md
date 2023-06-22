@@ -42,3 +42,5 @@ Por ejemplo:
 ***Atribución-CompartirIgual 4.0 Internacional de Creative Commons. Disponible en <http://creativecommons.org/licenses/by-sa/4.0/deed.es>***
 
 Con el solo hecho de escribir esto ¡tu material ya es libre! Pero para que realmente se comparta, es necesario subirlo a un repositorio como BURJC o TV-URJC.
+
+![Infofrafía publicación en abierto](/images/2-cómo-publicar-en-abierto.jpg "Iinfofrafía publicación en abierto")
