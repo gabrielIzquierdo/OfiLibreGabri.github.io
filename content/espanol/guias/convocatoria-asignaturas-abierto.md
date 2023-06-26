@@ -6,6 +6,8 @@ published: true
 type: guias
 ---
 
+**En breve estará disponible el formulario para la convocatoria 2023-2024**
+
 [Preguntas más frecuentes sobre esta convocatoria](#faq)
 
 Esta convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Extensión Universitaria y Ordenación Académica y Formación del Profesorado. Se enmarca dentro las acciones del proyecto colaborativo RED (Recursos educativos digitales: calidad y compartición en abierto), financiado en el marco del Plan UniDigital del Ministerio de Universidades.
