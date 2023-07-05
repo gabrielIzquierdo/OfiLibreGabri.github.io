@@ -21,21 +21,8 @@ thumb: /images/17-_cartel_revista_forum_docentis-2.jpg
   Autor: Carla de León y Laura Díaz
 
   ![Póster sobre este nuevo sistema de comunicación](/images/2-sistema_de_comunicación_para_pacientes_intubados.jpg "Sistema de comunicación para pacientes intubados")
-* “Virtualízate en la web”
 
-  Autor: Alberto Sánchez Acedo
 
-  ![Póster informativo](/images/3-alberto_sánchez_acedo-cartel_ofilibres.jpg "Virtualízate en la web")
-* Revista "Guerra colonial”
-
-  Autor: Miguel Madueño Álvarez
-
-  ![Póster sobre la revista](/images/4-cartel_revista_guerra_colonial_2.jpg "Guerra colonial")
-* Revista "Forum Docentis"
-
-  Autor: Regino Criado Herrero
-
-  ![Póster sobre la revista](/images/17-_cartel_revista_forum_docentis.jpg "Revista Forum docentis")
 * Revista "ASTRI Arte y sociedad"
 
   Autores: Tomás Zarza Núñez y Miguel S. Moñita
