@@ -1,5 +1,5 @@
 ---
-title: Posters de las II Jornadas de 2023
+title: Posters de las II Jornadas de Cultura Libre 2023
 date: 2023-07-05T15:08:53.031Z
 description: Conjunto de pósters explicativos relacionados con la cultura libre
 slug: poster-libre
@@ -24,8 +24,6 @@ A﻿quí se encuentran todos los posters que se presentaron en las II Jornadas d
   Autor: Carla de León y Laura Díaz
 
   ![Póster sobre este nuevo sistema de comunicación](/images/2-sistema_de_comunicación_para_pacientes_intubados.jpg "Sistema de comunicación para pacientes intubados")
-
-
 * **Revista "ASTRI Arte y sociedad"**
 
   Autores: Tomás Zarza Núñez y Miguel S. Moñita
@@ -41,8 +39,6 @@ A﻿quí se encuentran todos los posters que se presentaron en las II Jornadas d
   Autora: Liuba González Cid
 
   ![Póster explicativo](/images/6-infografía-el_teatro_como_herramienta_creativa-fecyt-urjc-cultura-libre_2_2_.jpg "El teatro como herramienta creativa")
-
-
 * **"Classroom ciberimaginario"**
 
   ![Póster explicativo](/images/16-poster-classroom-ciberimaginario-impresion.jpg "Classroom ciberimaginario")
