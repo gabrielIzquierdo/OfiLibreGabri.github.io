@@ -49,21 +49,42 @@ thumb: /images/4-cartel_revista_guerra_colonial_2.jpg
 * “El teatro como herramienta creativa”
 
   Autora: Liuba González Cid
+
+  ![](/images/6-infografía-el_teatro_como_herramienta_creativa-fecyt-urjc-cultura-libre_2_2_.jpg)
 * "Open science"
 
   CRUE
+
+  ![](/images/11_ciencia_abierta_crue.png)
 * "Beneficios de publicar en repositorios institucionales"
 
   CRUE
+
+  ![](/images/12-_beneficios_de_publicar_en_repositorios_crue.jpg)
 * "Versiones de los artículos científicos y acceso abierto"
+
+  ![](/images/13-versiones_de_los_artículos.jpg)
 * "Conserva tus derechos de autor frente a las editoriales"
+
+  ![](/images/14-conserva_tus_derechos_de_autor_frente_a_editoriaes.jpg)
 * "Difunde tus datos de investigación en e-cienciaDatos"
+
+  ![](/images/15-difusion_edatos.jpg)
 * "Classroom ciberimaginario"
+
+  ![](/images/16-poster-classroom-ciberimaginario-impresion.jpg)
 * "Open source robotics"
-* "Intelligent Robotics Lab"
+
+  Intelligent Robotics Lab
+
+  ![](/images/20-robotsposter_cultura_libre_v2-1.jpg)
 * "Club Wikipedia"
 
   Autor: José María García De Madariaga Miranda
+
+  ![](/images/club_wikipedia.jpg)
 * "Co-creación de materiales didácticos a través de Instagram para Arqueología Industrial"
 
   Autor: Alberto Polo Romero e Irene Salinero Sánchez
+
+  ![](/images/polo_salinero_poster_ofilibre.jpg)
