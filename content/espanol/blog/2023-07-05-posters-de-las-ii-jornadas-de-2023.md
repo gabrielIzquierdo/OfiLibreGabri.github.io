@@ -15,18 +15,18 @@ thumb: /images/4-cartel_revista_guerra_colonial_2.jpg
 
   Autor: Daniel Martín Cudero
 
-  ![](/images/1-póster-daniel_martín_cudero.jpg)
-* 2 “Sistema de comunicación para pacientes intubados”
+  ![Re-diseñando la enseñanza-aprendizaje de las matemáticas](/images/1-póster-daniel_martín_cudero.jpg "Webquest en el aula")
+* “Sistema de comunicación para pacientes intubados”
 
   Autor: Carla de León y Laura Díaz
 
   ![](/images/2-sistema_de_comunicación_para_pacientes_intubados.jpg)
-* 3 “Virtualízate en la web”
+* “Virtualízate en la web”
 
   Autor: Alberto Sánchez Acedo
 
   ![](/images/3-alberto_sánchez_acedo-cartel_ofilibres.jpg)
-* 4 Revista "Guerra colonial”
+* Revista "Guerra colonial”
 
   Autor: Miguel Madueño Álvarez
 
@@ -35,15 +35,17 @@ thumb: /images/4-cartel_revista_guerra_colonial_2.jpg
 
   Autor: Regino Criado Herrero
 
-  ![](/images/17-_cartel_revista_forum_docentis.jpg)
+  ![Póster sobre la revista](/images/17-_cartel_revista_forum_docentis.jpg "Revista forum docentis")
 * Revista "ASTRI Arte y sociedad"
 
   Autores: Tomás Zarza Núñez y Miguel S. Moñita
 
-  ![](/images/poster_asri.jpg)
+  ![Poster explicativo sobre la revista Astri](/images/poster_asri.jpg "Revista Astri")
 * “Periodic table of popular computer fonts and open alternatives”
 
   Autor: José F. Vélez Serrano
+
+  ![Tabla sobre las distintas tipografías libres](/images/5-fuentesimprimible.jpg "Fuentes libres")
 * “El teatro como herramienta creativa”
 
   Autora: Liuba González Cid
