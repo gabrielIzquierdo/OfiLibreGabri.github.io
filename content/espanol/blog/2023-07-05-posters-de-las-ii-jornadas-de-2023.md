@@ -9,7 +9,7 @@ categories:
 tags:
   - explicacion-cultura
 bg_image: /images/4-cartel_revista_guerra_colonial_2.jpg
-thumb: /images/4-cartel_revista_guerra_colonial_2.jpg
+thumb: /images/17-_cartel_revista_forum_docentis-2.jpg
 ---
 * “Sobre el uso de las Webquest en el aula: Re-diseñando la enseñanza-aprendizaje de las matemáticas”
 
