@@ -38,25 +38,8 @@ thumb: /images/17-_cartel_revista_forum_docentis-2.jpg
   Autora: Liuba González Cid
 
   ![Póster explicativo](/images/6-infografía-el_teatro_como_herramienta_creativa-fecyt-urjc-cultura-libre_2_2_.jpg "El teatro como herramienta creativa")
-* "Open science"
 
-  CRUE
 
-  ![Póster explicativo](/images/11_ciencia_abierta_crue.png "Ciencia abierta")
-* "Beneficios de publicar en repositorios institucionales"
-
-  CRUE
-
-  ![Póster explicativo](/images/12-_beneficios_de_publicar_en_repositorios_crue.jpg "Beneficios de publicar en repositorios institucionales")
-* "Versiones de los artículos científicos y acceso abierto"
-
-  ![Póster explicativo](/images/13-versiones_de_los_artículos.jpg "Versiones de los artículos científicos y acceso abierto")
-* "Conserva tus derechos de autor frente a las editoriales"
-
-  ![Póster explicativo](/images/14-conserva_tus_derechos_de_autor_frente_a_editoriaes.jpg "Conserva tus derechos de autor frente a las editoriales")
-* "Difunde tus datos de investigación en e-cienciaDatos"
-
-  ![Póster explicativo](/images/15-difusion_edatos.jpg "Difunde tus datos de investigación en e-cienciaDatos")
 * "Classroom ciberimaginario"
 
   ![Póster explicativo](/images/16-poster-classroom-ciberimaginario-impresion.jpg "Classroom ciberimaginario")
@@ -74,4 +57,4 @@ thumb: /images/17-_cartel_revista_forum_docentis-2.jpg
 
   Autor: Alberto Polo Romero e Irene Salinero Sánchez
 
-  ![Póster explicativo](/images/polo_salinero_poster_ofilibre.jpg "* Co-creación de materiales didácticos a través de Instagram para Arqueología Industrial")
+  ![Póster explicativo](/images/polo_salinero_poster_ofilibre.jpg "Co-creación de materiales didácticos a través de Instagram para Arqueología Industrial")
