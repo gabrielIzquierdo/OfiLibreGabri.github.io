@@ -4,6 +4,17 @@ slider:
   bg_image : "images/logo-ofilibre.png"
   slider_item:
     # slider item loop
+    - title : "Convocatoria de publicación de asignaturas en abierto 2023-2024"
+      content : "La URJC ha publicado la convocatoria de publicación de asignaturas en abierto para el curso 2023-2024."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Más información"
+        link : "guias/convocatoria-asignaturas-abierto/"
+
+    # slider item loop
     - title : "Publicación de Trabajos de Fin de Grado en abierto"
       content : "La URJC ha hecho un esfuerzo para integrar la plataforma de TFGs con el archivo abierto institucional con el objeto de permitir la publicación de TFGs en abierto."
       animation_in : "left"
