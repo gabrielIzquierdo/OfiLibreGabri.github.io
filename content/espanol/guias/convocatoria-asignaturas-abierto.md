@@ -117,10 +117,6 @@ El responsable de la asignatura en el curso académico 2022-2023 es quien debe r
 
 En caso de materiales que no encajan en ninguna categoría, inclúyalos en otros y justifiquelo adecuadamente.
 
-#### ¿Qué ocurre si mis materiales no encajan en ninguna de las categorías contempladas en la convocatoria?
-
-En caso de materiales que no encajan en ninguna categoría, inclúyalos en otros y justifiquelo adecuadamente.
-
 #### ¿Dónde pongo mis recursos abiertos en mi asignatura de aula virtual?
 
 De cara a la convocatoria, ponga los enlaces a los recursos abiertos en un sitio fácilmente accesible, como al principio de la página de contenidos, con independencia de que luego sean enlazados desde otras partes de la asignatura. Esto facilitará el acceso a los mismos durante el proceso de evaluación de solicitudes. Tenga en cuenta que los evaluadores deben encontrar fácilmente los enlaces a estos materiales.
@@ -141,9 +137,7 @@ El software libre que se utiliza en docencia podría aportarse en la categoría 
 
 #### ¿Cómo se vería mi asignatura en abierto? ¿Puedo ver algún ejemplo?
 
-Para ver una asignatura en abierto, puedes ir al Aula Virtual y antes de ingresar, hay varias disponibles: 
-* [Ejemplo 1](https://www.aulavirtual.urjc.es/moodle/course/view.php?id=171109)
-* [Ejemplo 2](https://www.aulavirtual.urjc.es/moodle/theme/urjc/code/courses.php)
+Para ver una asignatura en abierto, puedes ir al Aula Virtual y antes de ingresar, [hay varias disponibles](https://www.aulavirtual.urjc.es/moodle/theme/urjc/code/courses.php)
 
 #### ¿Tengo que cambiar la forma de presentar mis materiales para participar?
 
@@ -155,9 +149,9 @@ Las licencias aceptadas son CCBY y CCBYSA. CCBYNC no se acepta porque no es part
 
 #### ¿Cuándo es el último día para participar de la Convocatoria?
 
-El 30/09/2022 es el último día para completar el formulario de la convocatoria con la información requerida, pero para poder hacerlo deben estar subidos, previamente, en los repositorios correspondientes. Es importante tomar en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material al BURJC Digital es el 28 de septiembre. Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto.
+El 10/09/2022 es el último día para completar el formulario de la convocatoria con la información requerida, pero para poder hacerlo deben estar subidos, previamente, en los repositorios correspondientes. Es importante tomar en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material al BURJC Digital es el 28 de septiembre. Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto.
 
-En la convocatoria, el el punto 2 dice lo siguiente:
+En la convocatoria, el punto 2 dice lo siguiente:
 
  “Han de incluir claramente en el encabezado, primera página o equivalente los siguientes datos: Autores, título, y fecha. También incluirá una referencia a la URJC, a la asignatura o asignaturas en las que se utiliza el material y al lugar de depósito (TV URJC o BURJC digital, incluyendo su enlace) y de forma clara la licencia de distribución en acceso abierto”. 
  
@@ -191,7 +185,7 @@ Llegado el caso, se puede configurar ese material en concreto para que no sea vi
 
 #### He subido vídeos a TV URJC y no los veo disponibles
 
-Pregunta completa: Ayer subí a TV URJC una serie de vídeos/audios para una asignatura que quiero presentar a la convocatoria en acceso abierto. El caso es que, cuando accedo al link de la serie para ver si está todo correcto, no me aparece ningún vídeo. En cambio, si me meto en gestor de contenidos de mi perfil de TV URJC, sí que me dice que los vídeos están correctamente subidos y publicados. No sé si esto es normal o si me falta algún paso por hacer para poder presentar la asignatura a la convocatoria. Respuesta: es normal, porque los videos están subidos, pero no son aún públicos. Lo serán si tu asignatura es finalmente puesta en abierto. Mientras tanto, sólo los alumnos de tu asignatura podrán verlos, llegando a ellos por enlace del aula virtual.
+Es normal, porque los videos están subidos, pero no son aún públicos. Lo serán si tu asignatura es finalmente puesta en abierto. Mientras tanto, sólo los alumnos de tu asignatura podrán verlos, llegando a ellos por enlace del aula virtual.
 
 #### ¿Tengo Apuntes y Transparencias, ¿cómo las deposito?
 
