@@ -86,10 +86,6 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.es
 Las imágenes e infografías incluidas en este trabajo pertenecen a sus autores y salvo que se indique lo contrario tienen Todos los derechos reservados.
 ```
 
-#### ¿Quién puede subir los materiales de una asignatura al archivo abierto?
-
-Exclusivamente el responsable del grupo de actas de la asignatura. 
-
 #### ¿Cómo especifico la licencia en mis documentos?
 
 Son dos las licencias que han sido aprobadas por el Consejo de Publicación Abierta de la URJC como licencias válidas para materiales en abierto:
@@ -111,7 +107,7 @@ Las instrucciones para subir los materiales al archivo abierto institucional pue
 
 #### ¿Quién puede presentar la solicitud para mi asignatura en la convocatoria?
 
-El responsable de la asignatura en el curso académico 2022-2023 es quien debe realizar la solicitud.
+Exclusivamente el responsable del grupo de actas de la asignatura. 
 
 #### ¿Qué ocurre si mis materiales no encajan en ninguna de las categorías contempladas en la convocatoria?
 
