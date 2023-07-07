@@ -29,7 +29,7 @@ Descárgalo en:/images/1-daniel_martín_cudero-grande.jpg
 
 ![Póster sobre este nuevo sistema de comunicación](/images/2-sistema_de_comunicación_para_pacientes_intubados.jpg "Sistema de comunicación para pacientes intubados")
 
-Descárgalo en: 
+Descárgalo en: /images/2-pacientes-intubados-grande.jpg
 
 
 
@@ -39,7 +39,7 @@ Descárgalo en:
 
 ![Póster explicativo sobre la revista Astri](/images/poster_asri.jpg "Revista ASTRI")
 
-Descárgalo en:
+Descárgalo en: /images/poster_asri-grande.jpg
 
 
 
@@ -49,7 +49,7 @@ Descárgalo en:
 
 ![Tabla sobre las distintas tipografías libres](/images/5-fuentesimprimible.jpg "Fuentes libres")
 
-Descárgalo en:
+Descárgalo en: /images/5-fuentesimprimible-grande.jpg
 
 
 
@@ -59,7 +59,7 @@ Descárgalo en:
 
 ![Póster explicativo](/images/6-infografía-el_teatro_como_herramienta_creativa-fecyt-urjc-cultura-libre_2_2_.jpg "El teatro como herramienta creativa")
 
-Descárgalo en:
+Descárgalo en: /images/6-el_teatro_como_herramienta_creativa-grande.jpg
 
 
 
@@ -67,7 +67,7 @@ Descárgalo en:
 
 ![Póster explicativo](/images/16-poster-classroom-ciberimaginario-impresion.jpg "Classroom ciberimaginario")
 
-Descárgalo en:
+Descárgalo en: 
 
 
 
