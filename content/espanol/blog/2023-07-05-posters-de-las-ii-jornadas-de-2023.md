@@ -11,6 +11,8 @@ tags:
 bg_image: /images/17-_cartel_revista_forum_docentis-3.jpg
 thumb: /images/17-_cartel_revista_forum_docentis-2.jpg
 ---
+
+
 A﻿quí se encuentran todos los posters que se presentaron en las II Jornadas de Cultura Libre. Esperamos que los disfrutéis y,si los queréis usar, ¡recordad citar autoría! 
 
 * **“Sobre el uso de las Webquest en el aula: Re-diseñando la enseñanza-aprendizaje de las matemáticas”**
@@ -87,7 +89,7 @@ Descárgalo en: /images/20-robotsposter_grande.jpg
 
 ![Póster explicativo](/images/club_wikipedia.jpg "Club Wikipedia")
 
-Descárgalo en:
+Descárgalo en: /images/club_wikipedia-grande.jpg
 
 
 
@@ -96,3 +98,5 @@ Descárgalo en:
   Autor: Alberto Polo Romero e Irene Salinero Sánchez
 
 ![Póster explicativo](/images/polo_salinero_poster_ofilibre.jpg "Co-creación de materiales didácticos a través de Instagram para Arqueología Industrial")
+
+D﻿escárgalo en: /images/polo_salinero_grande.jpg
