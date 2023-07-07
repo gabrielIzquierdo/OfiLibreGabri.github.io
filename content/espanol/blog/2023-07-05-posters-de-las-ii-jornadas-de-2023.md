@@ -11,19 +11,15 @@ tags:
 bg_image: /images/17-_cartel_revista_forum_docentis-3.jpg
 thumb: /images/17-_cartel_revista_forum_docentis-2.jpg
 ---
-
-
 A﻿quí se encuentran todos los posters que se presentaron en las II Jornadas de Cultura Libre. Esperamos que los disfrutéis y,si los queréis usar, ¡recordad citar autoría! 
 
 * **“Sobre el uso de las Webquest en el aula: Re-diseñando la enseñanza-aprendizaje de las matemáticas”**
 
-  Autor: Daniel Martín Cudero
+  Autor: Daniel Martín Cudero 
 
 ![Re-diseñando la enseñanza-aprendizaje de las matemáticas](/images/1-póster-daniel_martín_cudero.jpg "Webquest en el aula")
 
 Descárgalo en:/images/1-daniel_martín_cudero-grande.jpg
-
-
 
 * **“Sistema de comunicación para pacientes intubados”**
 
@@ -33,8 +29,6 @@ Descárgalo en:/images/1-daniel_martín_cudero-grande.jpg
 
 Descárgalo en: /images/2-pacientes-intubados-grande.jpg
 
-
-
 * **Revista "ASTRI Arte y sociedad"**
 
   Autores: Tomás Zarza Núñez y Miguel S. Moñita
@@ -42,8 +36,6 @@ Descárgalo en: /images/2-pacientes-intubados-grande.jpg
 ![Póster explicativo sobre la revista Astri](/images/poster_asri.jpg "Revista ASTRI")
 
 Descárgalo en: /images/poster_asri-grande.jpg
-
-
 
 * **“Periodic table of popular computer fonts and open alternatives”**
 
@@ -53,8 +45,6 @@ Descárgalo en: /images/poster_asri-grande.jpg
 
 Descárgalo en: /images/5-fuentesimprimible-grande.jpg
 
-
-
 * **“El teatro como herramienta creativa”**
 
   Autora: Liuba González Cid
@@ -63,15 +53,11 @@ Descárgalo en: /images/5-fuentesimprimible-grande.jpg
 
 Descárgalo en: /images/6-el_teatro_como_herramienta_creativa-grande.jpg
 
-
-
 * **"Classroom ciberimaginario"**
 
 ![Póster explicativo](/images/16-poster-classroom-ciberimaginario-impresion.jpg "Classroom ciberimaginario")
 
 Descárgalo en: /images/16-classroom-ciberimaginario-grande.jpg
-
-
 
 * **"Open source robotics"**
 
@@ -81,8 +67,6 @@ Descárgalo en: /images/16-classroom-ciberimaginario-grande.jpg
 
 Descárgalo en: /images/20-robotsposter_grande.jpg
 
-
-
 * **"Club Wikipedia"**
 
   Autor: José María García De Madariaga Miranda
@@ -90,8 +74,6 @@ Descárgalo en: /images/20-robotsposter_grande.jpg
 ![Póster explicativo](/images/club_wikipedia.jpg "Club Wikipedia")
 
 Descárgalo en: /images/club_wikipedia-grande.jpg
-
-
 
 * **"Co-creación de materiales didácticos a través de Instagram para Arqueología Industrial"**
 
