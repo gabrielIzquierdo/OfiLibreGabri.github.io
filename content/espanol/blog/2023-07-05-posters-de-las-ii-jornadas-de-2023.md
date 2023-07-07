@@ -67,7 +67,7 @@ Descárgalo en: /images/6-el_teatro_como_herramienta_creativa-grande.jpg
 
 ![Póster explicativo](/images/16-poster-classroom-ciberimaginario-impresion.jpg "Classroom ciberimaginario")
 
-Descárgalo en: 
+Descárgalo en: /images/16-classroom-ciberimaginario-grande.jpg
 
 
 
@@ -77,7 +77,7 @@ Descárgalo en:
 
 ![Póster explicativo](/images/20-robotsposter_cultura_libre_v2-1.jpg "Open source robotics")
 
-Descárgalo en:
+Descárgalo en: /images/20-robotsposter_grande.jpg
 
 
 
