@@ -1,13 +1,11 @@
 ---
 title: Reconocimiento de publicación de asignaturas en abierto 2023-2024
-logo: logo-urjc-square.png
 date: 2023-07-05
+logo: logo-urjc-square.png
 published: true
 type: guias
 ---
-
 **El formulario para la convocatoria 2023-2024 se encuentra ya disponible [aquí](https://forms.office.com/e/gPrvVmFYah)**
-
 
 Esta segunda convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado. Se enmarca dentro las acciones del proyecto colaborativo RED (Recursos educativos digitales: calidad y compartición en abierto), financiado en el marco del Plan UniDigital del Ministerio de Universidades.
 
@@ -63,7 +61,6 @@ Sí, pero solo se valorarán las categorías en donde no se haya obtenido el má
 
 Aunque no es obligatorio, en la OfiLibre se han elaborado unas [plantillas que pueden ser uilizadas para los materiales publicados en acceso abierto](/guias/plantillas-asignaturas-abierto/).
 
-
 #### ¿Cómo especifico la licencia en mis documentos?
 
 Dependiendo del tipo de documento se suele incluir la licencia o bien al principio, o al final. En documentos de texto, suele aparecer al principio donde normalmente iría la nota de copyright. En vídeos, puede aperecer al principio, donde aparezca el título, o al final donde aparecerían los títulos de crédito. En locuciones de audio, igualmente al principio o al final. Lo importante es que aparezca dentro del material de forma que se pueda reconocer la licencia. Puede ver más información en [esta guía de publicación de materiales docentes en abierto](/guias/materiales-docentes-abierto/#marcado-con-la-licencia-elegida) donde se explica con más detalle cómo incluir la licencia en los materiales.
@@ -83,7 +80,7 @@ disponible en
 
 https://creativecommons.org/licenses/by-sa/4.0/deed.es
 
-Las imágenes e infografías incluidas en este trabajo pertenecen a sus autores y salvo que se indique lo contrario tienen Todos los derechos reservados.
+Esta licencia no se aplica a materiales de terceros que puedan estar incluídos en esta obra y que mantiene los derechos de los autores originales.
 ```
 
 #### ¿Cómo especifico la licencia en mis documentos?
@@ -150,7 +147,7 @@ El 10/09/2022 es el último día para completar el formulario de la convocatoria
 En la convocatoria, el punto 2 dice lo siguiente:
 
  “Han de incluir claramente en el encabezado, primera página o equivalente los siguientes datos: Autores, título, y fecha. También incluirá una referencia a la URJC, a la asignatura o asignaturas en las que se utiliza el material y al lugar de depósito (TV URJC o BURJC digital, incluyendo su enlace) y de forma clara la licencia de distribución en acceso abierto”. 
- 
+
 #### Entonces, cuando dice “incluyendo su enlace” ¿qué quiere decir?
 
 De este trámite se encargará el mismo Archivo digital. Cuando se proceda a la inclusión en el archivo y se genere el enlace (handle) desde el mismo archivo incluirán esta información en el material depositado.
@@ -200,4 +197,3 @@ El máximo de 1.500 por persona es para todo el curso académico. Esto supone, p
 #### Una asignatura anual, ¿en qué cuatrimestre se puede presentar?
 
 Puedes presentar la asignatura en la convocatoria de cualquiera de los dos cuatrimestres, pero sólo en una de ellas. En cualquier caso, se presentará toda la asignatura.
-
