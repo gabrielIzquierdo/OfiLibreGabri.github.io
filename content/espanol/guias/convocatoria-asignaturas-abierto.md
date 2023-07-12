@@ -65,12 +65,15 @@ Aunque no es obligatorio, en la OfiLibre se han elaborado unas [plantillas que p
 
 Dependiendo del tipo de documento se suele incluir la licencia o bien al principio, o al final. En documentos de texto, suele aparecer al principio donde normalmente iría la nota de copyright. En vídeos, puede aperecer al principio, donde aparezca el título, o al final donde aparecerían los títulos de crédito. En locuciones de audio, igualmente al principio o al final. Lo importante es que aparezca dentro del material de forma que se pueda reconocer la licencia. Puede ver más información en [esta guía de publicación de materiales docentes en abierto](/guias/materiales-docentes-abierto/#marcado-con-la-licencia-elegida) donde se explica con más detalle cómo incluir la licencia en los materiales.
 
-Este es un ejemplo:  
+Este es un ejemplo: 
+
+![](/images/cc-by-sa-miniatura.jpg)
 
 ```
 ©2023 Autora Hermenegilda Gómez Stravinsky
 
-Algunos derechos reservados  
+Algunos derechos reservados 
+
 
 Este documento se distribuye bajo la licencia  
 
@@ -82,6 +85,8 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.es
 
 Esta licencia no se aplica a materiales de terceros que puedan estar incluidos en esta obra y que mantiene los derechos de los autores originales.
 ```
+
+![](/images/cc_by-sa_3.0.png)
 
 #### ¿Cómo especifico la licencia en mis documentos?
 
