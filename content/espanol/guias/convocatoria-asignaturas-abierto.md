@@ -74,7 +74,6 @@ Este es un ejemplo:
 
 Algunos derechos reservados 
 
-
 Este documento se distribuye bajo la licencia  
 
 “Atribución-CompartirIgual 4.0 Internacional” de Creative Commons,
@@ -85,8 +84,6 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.es
 
 Esta licencia no se aplica a materiales de terceros que puedan estar incluidos en esta obra y que mantiene los derechos de los autores originales.
 ```
-
-![](/images/cc_by-sa_3.0.png)
 
 #### ¿Cómo especifico la licencia en mis documentos?
 
