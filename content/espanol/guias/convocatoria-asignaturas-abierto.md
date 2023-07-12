@@ -85,7 +85,7 @@ https://creativecommons.org/licenses/by-sa/4.0/deed.es
 Esta licencia no se aplica a materiales de terceros que puedan estar incluidos en esta obra y que mantiene los derechos de los autores originales.
 ```
 
-#### ¿Cómo se vermi asignatura en abierto?
+#### ¿Cómo se ver  mi asignatura en abierto?
 
 [Aqu puedes ver ejemplos ](https://online.urjc.es/es/para-futuros-estudiantes/asignaturas-en-abierto)de asignaturas publicadas en la convocatoria anterior
 
