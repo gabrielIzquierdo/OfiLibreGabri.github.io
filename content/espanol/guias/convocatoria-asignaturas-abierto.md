@@ -80,7 +80,7 @@ disponible en
 
 https://creativecommons.org/licenses/by-sa/4.0/deed.es
 
-Esta licencia no se aplica a materiales de terceros que puedan estar incluídos en esta obra y que mantiene los derechos de los autores originales.
+Esta licencia no se aplica a materiales de terceros que puedan estar incluidos en esta obra y que mantiene los derechos de los autores originales.
 ```
 
 #### ¿Cómo especifico la licencia en mis documentos?
