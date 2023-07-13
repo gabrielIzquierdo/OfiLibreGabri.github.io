@@ -15,7 +15,8 @@ Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria
 
 Ofrecemos una sesión telemática pública de resolución de dudas sobre la convocatoria, vía sala de Teams:
 
-* Miércoles 12 de julio, 13:00 en [esta sala de teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjJiZDJjNWItMDdlNy00YWI0LWJiYWUtNDZkNjc2YzI5Yzcx%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d) (será grabada)
+* Miércoles 12 de julio, 13:00 (será grabada)
+  [Grabación del encuentro disponible en TV-URJC](https://tv.urjc.es/video/64af9ea3f8ceb74e7203fbf8)
 
 ### Objeto
 
