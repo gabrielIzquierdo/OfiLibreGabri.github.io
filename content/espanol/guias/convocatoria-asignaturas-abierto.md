@@ -18,6 +18,10 @@ Ofrecemos una sesión telemática pública de resolución de dudas sobre la conv
 * Miércoles 12 de julio, 13:00 (será grabada)
   [Grabación del encuentro disponible en TV-URJC](https://tv.urjc.es/video/64af9ea3f8ceb74e7203fbf8)
 
+<iframe src='https://tv.urjc.es/iframe/64af9ea3f8ceb74e7203fbf8' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
+
+
+
 ### Objeto
 
 Esta convocatoria pretende promover el trabajo del personal docente de la URJC para que publiquen sus materiales en asignaturas en acceso abierto, evaluándose dicho trabajo y asignando, en su caso, un incentivo económico y otros beneficios y efectos, por los que se reconoce el esfuerzo realizado en la elaboración de materiales publicados durante el curso 2023-24.
