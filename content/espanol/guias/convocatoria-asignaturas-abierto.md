@@ -15,12 +15,10 @@ Los detalles de la convocatoria pueden consultarse en el documento [Convocatoria
 
 Ofrecemos una sesión telemática pública de resolución de dudas sobre la convocatoria, vía sala de Teams:
 
-* Miércoles 12 de julio, 13:00 (será grabada)
-  [Grabación del encuentro disponible en TV-URJC](https://tv.urjc.es/video/64af9ea3f8ceb74e7203fbf8)
+* Lunes 4 de septiembre, 13hs [vía TEAMs en este enlace](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZkYjc0YjUtYjQ3YS00OTMyLTljYzEtNGUzZjE2ZWEyNGFj%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%224b95d670-09cc-412f-8199-23774cac862f%22%7d)
+* Aquí la grabación de la sesión de julio:
 
 <iframe src='https://tv.urjc.es/iframe/64af9ea3f8ceb74e7203fbf8' id='pumukitiframe' frameborder='0' border='0' width='100%' height='500px' allowfullscreen></iframe>
-
-
 
 ### Objeto
 
@@ -50,7 +48,7 @@ Las asignaturas que se impartan durante el primer cuatrimestre podrán presentar
 
 Para resolver dudas relacionadas con esta convocatoria, se ha planificado un videoencuentro que quedará grabado y colgado el enlace en esta misma web:
 
-* Miércoles 12 de julio, 13:00 en [esta sala de Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjJiZDJjNWItMDdlNy00YWI0LWJiYWUtNDZkNjc2YzI5Yzcx%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%22f39a6111-b3eb-43a6-98c0-a4d0f78c6742%22%7d).
+* Lunes 4 de septiembre, 13hs [vía TEAMs en este enlace](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZkYjc0YjUtYjQ3YS00OTMyLTljYzEtNGUzZjE2ZWEyNGFj%40thread.v2/0?context=%7b%22Tid%22%3a%225f84c4ea-370d-4b9e-830c-756f8bf1b51f%22%2c%22Oid%22%3a%224b95d670-09cc-412f-8199-23774cac862f%22%7d)
 
 También, se pueden consultar las preguntas más frecuentes, con sus respuestas, más adelante en este documento. En caso de que no se puedan resolver así, se podrán plantear por correo electrónico a la dirección ofilibre@urjc.es, donde se les tratará de dar solución lo antes posible.
 
