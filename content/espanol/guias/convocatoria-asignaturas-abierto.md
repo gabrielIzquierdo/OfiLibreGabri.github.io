@@ -151,7 +151,7 @@ Las licencias aceptadas son CCBY y CCBYSA. CCBYNC no se acepta porque no es part
 
 #### ¿Cuándo es el último día para participar de la Convocatoria?
 
-El 10/09/2023 es el último día para completar el formulario de la convocatoria con la información requerida, pero para poder hacerlo deben estar subidos, previamente, en los repositorios correspondientes. Es importante tomar en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material al BURJC Digital es el 7de septiembre. Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto.
+El 10/09/2023 es el último día para completar el formulario de la convocatoria con la información requerida, pero para poder hacerlo deben estar subidos, previamente, en los repositorios correspondientes. Es importante tomar en cuenta que el Archivo Abierto Institucional de la URJC (BURJC Digital) debe poder procesar el material, aceptarlo y darle un handle (identificador url). Por lo tanto, la fecha límite de subida de material al BURJC Digital es el 6 de septiembre. Si el material es rechazado por la biblioteca, no se obtendrá el handle y por tanto no se podrá participar en ese punto.
 
 En la convocatoria, el punto 2 dice lo siguiente:
 
