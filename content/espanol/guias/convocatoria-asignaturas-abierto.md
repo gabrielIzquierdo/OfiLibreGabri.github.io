@@ -34,8 +34,6 @@ Los materiales que se sometan a evaluación deben estar tener en [lugar visible 
 
 Los materiales en formato bibliográfico (guías, apuntes, colecciones de problemas y ejercicios, colecciones de exámenes, presentaciones, etc.) deben publicarse en el repositorio abierto institucional, [BURJC Digital](https://burjcdigital.urjc.es). Los vídeos y audios deben subirse a [TV URJC](https://tv.urjc.es/).
 
-Una vez publicados los materiales, deberán enlazarse desde la asignatura correspondiente del aula virtual, en lugar claramente visible de forma que se pueda verificar fácilmente que los materiales publicados en abierto están referenciados en la asignatura.
-
 Puede consultarse el documento [Cómo publicar materiales docentes en abierto](/guias/materiales-docentes-abierto/) para entender el proceso completo de publicación en abierto de materiales docentes. En el caso específico de podcast y videos, debe consultarse también el [Procedimiento de publicación de materiales en abierto en TV URJC](https://infotic.urjc.es/pages/viewpage.action?pageId=154370093).
 
 ### Presentación de solicitudes
@@ -121,11 +119,11 @@ En caso de materiales que no encajan en ninguna categoría, inclúyalos en otros
 
 #### ¿Dónde pongo mis recursos abiertos en mi asignatura de aula virtual?
 
-De cara a la convocatoria, ponga los enlaces a los recursos abiertos en un sitio fácilmente accesible, como al principio de la página de contenidos, con independencia de que luego sean enlazados desde otras partes de la asignatura. Esto facilitará el acceso a los mismos durante el proceso de evaluación de solicitudes. Tenga en cuenta que los evaluadores deben encontrar fácilmente los enlaces a estos materiales.
+No hace falta ponerlos en ningún sitio en especial, solo es necesario incluir los enlaces en el formulario de participación.
 
-#### ¿Cómo subo mis vídeos y los enlazo desde Aula Virtual?
+#### ¿Cómo subo mis vídeos?
 
-Los vídeos y podcasts se deben subir primero a la plataforma [TV URJC](https://tv.urjc.es) y después enlazarlos para que queden visibles en la asignatura de Aula Virtual. Conviene que consultes el [Procedimiento de publicación de materiales en abierto en TV URJC](https://infotic.urjc.es/pages/viewpage.action?pageId=154370093). En este procedimiento se indica cómo los vídeos se deben publicar en TV URJC en una misma colección, que será la que se indique posteriormente en el formulario de solicitud de esta convocatoria. También el procedimiento muestra cómo insertar en Aula Virtual los vídeos subidos a TV URJC.
+Los vídeos y podcasts se deben subir primero a la plataforma [TV URJC](https://tv.urjc.es). Conviene que consultes el [Procedimiento de publicación de materiales en abierto en TV URJC](https://infotic.urjc.es/pages/viewpage.action?pageId=154370093). En este procedimiento se indica cómo los vídeos se deben publicar en TV URJC en una misma colección, que será la que se indique posteriormente en el formulario de solicitud de esta convocatoria. También el procedimiento muestra cómo insertar en Aula Virtual los vídeos subidos a TV URJC.
 
 Los vídeos subidos desde TV URJC a Aula Virtual siguiendo este procedimiento son visibles para los estudiantes de la asignatura. Si la asignatura se aprueba para que esté disponible en abierto, esa colección se abrirá al público en general, por lo que la podrá ver todo el mundo.
 
@@ -180,10 +178,6 @@ Los programas de ordenador sí pueden participar de la convocatoria. Hay un proc
 #### Si imparto clases en el segundo cuatrimestre… ¿Puedo participar ahora?
 
 No, hay que esperar a la convocatoria del segundo cuatrimestre
-
-#### Si finalmente mi asignatura es elegida para publicarse en abierto pero hay en mi aula virtual algún material que en realidad no se pueda poner en abierto…¿ qué pasa?
-
-Llegado el caso, se puede configurar ese material en concreto para que no sea visible (eso se hará en el momento de la publicación).
 
 #### He subido vídeos a TV URJC y no los veo disponibles
 
