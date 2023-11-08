@@ -153,8 +153,8 @@ url = "blog"
 weight = 2
 
 [[Languages.es.menu.main]]
-name = "Eventos"
-url = "categories/eventos"
+name = "Acciones"
+url = "acciones"
 weight = 3
 
 [[Languages.es.menu.main]]
