@@ -1,23 +1,21 @@
-# Hugo template
-# All available Hugo versions are listed here:
-# https://gitlab.com/pages/hugo/container-registry
-
-image: registry.gitlab.com/pages/hugo/hugo_extended:latest
+default:
+  image: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo:latest"
 
 variables:
-    GIT_SUBMODULE_STRATEGY: recursive
+  GIT_SUBMODULE_STRATEGY: recursive
 
-test:
-    script:
-        - hugo
-    except:
-        - master
+test:  # builds and tests your site
+  script:
+    - hugo
+  rules:
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
 
-pages:
-    script:
-        - hugo --buildDrafts --buildFuture
-    artifacts:
-        paths:
-            - public
-    only:
-        - master
+pages:  # a predefined job that builds your pages and saves them to the specified path.
+  script:
+    - hugo --buildDrafts --buildFuture
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  environment: production
