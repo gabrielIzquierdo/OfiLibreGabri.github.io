@@ -20,8 +20,8 @@ Apunta en tu agenda: empezando el próximo 25 de octubre, todos los miércoles l
 Programa (tentativo) para los próximos cafés:
 
 * 25 de octubre: Presentación de Café con la OfiLibre. 20 años de la [Declaración de Berlín sobre Acceso Abierto](https://openaccess.mpg.de/Berlin-Declaration).
-* 8 de noviembre: Revistas en acceso abierto
-* 15 de noviembre: ¿Por qué publicar en acceso abierto?
+* 8 de noviembre: Revistas en acceso abierto. Resumen sobre el Programa de Apoyo a la Publicación de Revistas Académicas en Acceso Abierto del Vicerrectorado de Comunidad Campus, Cultura y Deporte
+* 15 de noviembre: Publicación en acceso abierto y software libre. Contaremos con la colaboración de José Luis Aznarte Mellado, Director de la División de Evaluación de Enseñanzas e Instituciones de ANECA y profesor en la UNED.
 * 22 de noviembre: Asignaturas en acceso abierto
 * 29 de noviembre: ¿Qué software libre usamos en la Universidad?
 
