@@ -1,10 +1,9 @@
-#default:
-#  image: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo:latest"
-#  entrypoint: [""]
+default:
+  image: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo/hugo_extended:latest"
 
-image:
-  name: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo/hugo_extended:latest"
-  entrypoint: [""]
+#image:
+#  name: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo/hugo_extended:latest"
+#  entrypoint: [""]
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
