@@ -1,5 +1,9 @@
-default:
-  image: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo:latest"
+#default:
+#  image: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo:latest"
+#  entrypoint: [""]
+
+image:
+  name: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo:latest"
   entrypoint: [""]
 
 variables:
