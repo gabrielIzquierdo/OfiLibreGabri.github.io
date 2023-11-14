@@ -3,7 +3,7 @@
 #  entrypoint: [""]
 
 image:
-  name: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo_extended:latest"
+  name: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo/hugo_extended:latest"
   entrypoint: [""]
 
 variables:
