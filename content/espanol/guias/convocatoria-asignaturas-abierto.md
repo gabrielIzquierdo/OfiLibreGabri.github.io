@@ -5,7 +5,8 @@ logo: logo-urjc-square.png
 published: true
 type: guias
 ---
-**El formulario para la convocatoria 2023-2024 se encuentra ya disponible [aquí](https://forms.office.com/e/gPrvVmFYah)**
+
+**Ya está disponible el [formulario para la convocatoria 2023-2024 (segundo cuatrometre)](https://forms.office.com/e/wvBVTR7pdu). Plazo: hasta el 31 de diciembre (pero solo se garantiza la tramitación de documentos subidos a BURJC Digital hasta el 20 de diciembre, incluido, y no se tramitarán de ninguna manera durante el periodo de vacaciones).**
 
 Esta segunda convocatoria se realiza en la Universidad Rey Juan Carlos para promover entre los docentes la creación de recursos educativos abiertos de calidad, y fomentar su uso en las asignaturas que dichos docentes imparten. La convocatoria es iniciativa de los Vicerrectorados de Transformación Digital e Innovación Docente, Comunidad Campus, Cultura y Deporte, y Ordenación Académica y Formación del Profesorado. Se enmarca dentro las acciones del proyecto colaborativo RED (Recursos educativos digitales: calidad y compartición en abierto), financiado en el marco del Plan UniDigital del Ministerio de Universidades.
 
