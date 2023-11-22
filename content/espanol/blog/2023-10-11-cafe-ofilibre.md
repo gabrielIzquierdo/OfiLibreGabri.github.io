@@ -22,7 +22,11 @@ Programa (tentativo) para los próximos cafés:
 * 25 de octubre: Presentación de Café con la OfiLibre. 20 años de la [Declaración de Berlín sobre Acceso Abierto](https://openaccess.mpg.de/Berlin-Declaration).
 * 8 de noviembre: Revistas en acceso abierto. Resumen sobre el Programa de Apoyo a la Publicación de Revistas Académicas en Acceso Abierto del Vicerrectorado de Comunidad Campus, Cultura y Deporte
 * 15 de noviembre: Publicación en acceso abierto y software libre. Contaremos con la colaboración de José Luis Aznarte Mellado, Director de la División de Evaluación de Enseñanzas e Instituciones de ANECA y profesor en la UNED.
-* 22 de noviembre: Asignaturas en acceso abierto
-* 29 de noviembre: ¿Qué software libre usamos en la Universidad?
+* 22 de noviembre: Asignaturas en acceso abierto, incluyuendo el anuncio de la apertura del formulario para las asignaturas del segundo cuatrimestre del curso 2023-2024.
+* 29 de noviembre: Trabajos de Fin de Grado en abierto.
+* 13 de diciembre: Software libre en la Universidad
+* 20 de diciembre: Publicación en abierto de aportaciones para la Convocatoria de Sexenios de Investigación
+* 10 de enero: Jornadas de Publicación en Abierto.
+* 17 de enero: Monografías en abierto
 
 Con esta inauguración, aprovechamos también para celebrar la [semana del acceso abierto](https://www.openaccessweek.org/), que se celebra en todo el mundo, este año entre los días 23 y 29 de octubre.
