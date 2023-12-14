@@ -29,32 +29,32 @@ unsafe = true
 
 # CSS Plugins
 [[params.plugins.css]]
-link = "themes/educenter-hugo/static/plugins/bootstrap/bootstrap.min.css"
+link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-link = "themes/educenter-hugo/static/plugins/slick/slick.css"
+link = "plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "themes/educenter-hugo/static/plugins/animate/animate.css"
+link = "plugins/animate/animate.css"
 [[params.plugins.css]]
-link = "themes/educenter-hugo/static/plugins/venobox/venobox.css"
+link = "plugins/venobox/venobox.css"
 [[params.plugins.css]]
-link = "themes/educenter-hugo/static/plugins/themify-icons/themify-icons.css"
+link = "plugins/themify-icons/themify-icons.css"
 
 
 # JS Plugins
 [[params.plugins.js]]
-link = "themes/educenter-hugo/static/plugins/jQuery/jquery.min.js"
+link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
-link = "themes/educenter-hugo/static/plugins/bootstrap/bootstrap.min.js"
+link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-link = "themes/educenter-hugo/static/plugins/slick/slick.min.js"
+link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
-link = "themes/educenter-hugo/static/plugins/venobox/venobox.min.js"
+link = "plugins/venobox/venobox.min.js"
 [[params.plugins.js]]
-link = "themes/educenter-hugo/static/plugins/filterizr/jquery.filterizr.min.js"
+link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
-link = "themes/educenter-hugo/static/plugins/google-map/gmap.js"
+link = "plugins/google-map/gmap.js"
 [[params.plugins.js]]
-link = "themes/educenter-hugo/static/plugins/fontawesome-icons/all.js"
+link = "plugins/fontawesome-icons/all.js"
 
 
 #################### default parameters ################################
