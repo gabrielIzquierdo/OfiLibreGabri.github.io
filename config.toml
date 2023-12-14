@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ofilibre.urjc.es"
+baseURL = "https://gabrielizquierdo.github.io/OfiLibreGabri.github.io/"
 title = "OfiLibre URJC"
 subtitle = "Oficina de Conocimiento y Cultura Libres URJC"
 theme = "educenter-hugo"
@@ -29,32 +29,32 @@ unsafe = true
 
 # CSS Plugins
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
+link = "static/plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/slick/slick.css"
+link = "static/plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "plugins/animate/animate.css"
+link = "static/plugins/animate/animate.css"
 [[params.plugins.css]]
-link = "plugins/venobox/venobox.css"
+link = "static/plugins/venobox/venobox.css"
 [[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
+link = "static/plugins/themify-icons/themify-icons.css"
 
 
 # JS Plugins
 [[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
+link = "static/plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
+link = "static/plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
+link = "static/plugins/slick/slick.min.js"
 [[params.plugins.js]]
-link = "plugins/venobox/venobox.min.js"
+link = "static/plugins/venobox/venobox.min.js"
 [[params.plugins.js]]
-link = "plugins/filterizr/jquery.filterizr.min.js"
+link = "static/plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
+link = "static/plugins/google-map/gmap.js"
 [[params.plugins.js]]
-link = "plugins/fontawesome-icons/all.js"
+link = "static/plugins/fontawesome-icons/all.js"
 
 
 #################### default parameters ################################
